@@ -1,0 +1,1259 @@
+{
+  "pages": [
+    {
+      "width": 595.3200073242188,
+      "height": 841.9199829101562,
+      "fields": [
+        {
+          "id": "p0f0",
+          "rect": [
+            59.0,
+            307.89,
+            107.55,
+            325.33
+          ],
+          "kind": "text",
+          "label": "Zeile 1: Datum",
+          "row": 0,
+          "column": 0
+        },
+        {
+          "id": "p0f1",
+          "rect": [
+            111.55,
+            307.89,
+            162.55,
+            325.33
+          ],
+          "kind": "text",
+          "label": "Zeile 1: Uhrzeit",
+          "row": 0,
+          "column": 1
+        },
+        {
+          "id": "p0f2",
+          "rect": [
+            166.55,
+            307.89,
+            244.75,
+            325.33
+          ],
+          "kind": "text",
+          "label": "Zeile 1: Produkt*",
+          "row": 0,
+          "column": 2
+        },
+        {
+          "id": "p0f3",
+          "rect": [
+            248.75,
+            307.89,
+            322.65,
+            325.33
+          ],
+          "kind": "text",
+          "label": "Zeile 1: Warme\nSpeisen\nmind. +65°C",
+          "row": 0,
+          "column": 3
+        },
+        {
+          "id": "p0f4",
+          "rect": [
+            326.65,
+            307.89,
+            393.6,
+            325.33
+          ],
+          "kind": "text",
+          "label": "Zeile 1: Kalte\nSpeisen\nmax. +7°C",
+          "row": 0,
+          "column": 4
+        },
+        {
+          "id": "p0f5",
+          "rect": [
+            397.6,
+            307.89,
+            499.95,
+            325.33
+          ],
+          "kind": "text",
+          "label": "Zeile 1: Name",
+          "row": 0,
+          "column": 5
+        },
+        {
+          "id": "p0f6",
+          "rect": [
+            59.0,
+            327.33,
+            107.55,
+            344.89
+          ],
+          "kind": "text",
+          "label": "Zeile 2: Datum",
+          "row": 1,
+          "column": 0
+        },
+        {
+          "id": "p0f7",
+          "rect": [
+            111.55,
+            327.33,
+            162.55,
+            344.89
+          ],
+          "kind": "text",
+          "label": "Zeile 2: Uhrzeit",
+          "row": 1,
+          "column": 1
+        },
+        {
+          "id": "p0f8",
+          "rect": [
+            166.55,
+            327.33,
+            244.75,
+            344.89
+          ],
+          "kind": "text",
+          "label": "Zeile 2: Produkt*",
+          "row": 1,
+          "column": 2
+        },
+        {
+          "id": "p0f9",
+          "rect": [
+            248.75,
+            327.33,
+            322.65,
+            344.89
+          ],
+          "kind": "text",
+          "label": "Zeile 2: Warme\nSpeisen\nmind. +65°C",
+          "row": 1,
+          "column": 3
+        },
+        {
+          "id": "p0f10",
+          "rect": [
+            326.65,
+            327.33,
+            393.6,
+            344.89
+          ],
+          "kind": "text",
+          "label": "Zeile 2: Kalte\nSpeisen\nmax. +7°C",
+          "row": 1,
+          "column": 4
+        },
+        {
+          "id": "p0f11",
+          "rect": [
+            397.6,
+            327.33,
+            499.95,
+            344.89
+          ],
+          "kind": "text",
+          "label": "Zeile 2: Name",
+          "row": 1,
+          "column": 5
+        },
+        {
+          "id": "p0f12",
+          "rect": [
+            59.0,
+            346.89,
+            107.55,
+            364.33
+          ],
+          "kind": "text",
+          "label": "Zeile 3: Datum",
+          "row": 2,
+          "column": 0
+        },
+        {
+          "id": "p0f13",
+          "rect": [
+            111.55,
+            346.89,
+            162.55,
+            364.33
+          ],
+          "kind": "text",
+          "label": "Zeile 3: Uhrzeit",
+          "row": 2,
+          "column": 1
+        },
+        {
+          "id": "p0f14",
+          "rect": [
+            166.55,
+            346.89,
+            244.75,
+            364.33
+          ],
+          "kind": "text",
+          "label": "Zeile 3: Produkt*",
+          "row": 2,
+          "column": 2
+        },
+        {
+          "id": "p0f15",
+          "rect": [
+            248.75,
+            346.89,
+            322.65,
+            364.33
+          ],
+          "kind": "text",
+          "label": "Zeile 3: Warme\nSpeisen\nmind. +65°C",
+          "row": 2,
+          "column": 3
+        },
+        {
+          "id": "p0f16",
+          "rect": [
+            326.65,
+            346.89,
+            393.6,
+            364.33
+          ],
+          "kind": "text",
+          "label": "Zeile 3: Kalte\nSpeisen\nmax. +7°C",
+          "row": 2,
+          "column": 4
+        },
+        {
+          "id": "p0f17",
+          "rect": [
+            397.6,
+            346.89,
+            499.95,
+            364.33
+          ],
+          "kind": "text",
+          "label": "Zeile 3: Name",
+          "row": 2,
+          "column": 5
+        },
+        {
+          "id": "p0f18",
+          "rect": [
+            59.0,
+            366.33,
+            107.55,
+            383.77
+          ],
+          "kind": "text",
+          "label": "Zeile 4: Datum",
+          "row": 3,
+          "column": 0
+        },
+        {
+          "id": "p0f19",
+          "rect": [
+            111.55,
+            366.33,
+            162.55,
+            383.77
+          ],
+          "kind": "text",
+          "label": "Zeile 4: Uhrzeit",
+          "row": 3,
+          "column": 1
+        },
+        {
+          "id": "p0f20",
+          "rect": [
+            166.55,
+            366.33,
+            244.75,
+            383.77
+          ],
+          "kind": "text",
+          "label": "Zeile 4: Produkt*",
+          "row": 3,
+          "column": 2
+        },
+        {
+          "id": "p0f21",
+          "rect": [
+            248.75,
+            366.33,
+            322.65,
+            383.77
+          ],
+          "kind": "text",
+          "label": "Zeile 4: Warme\nSpeisen\nmind. +65°C",
+          "row": 3,
+          "column": 3
+        },
+        {
+          "id": "p0f22",
+          "rect": [
+            326.65,
+            366.33,
+            393.6,
+            383.77
+          ],
+          "kind": "text",
+          "label": "Zeile 4: Kalte\nSpeisen\nmax. +7°C",
+          "row": 3,
+          "column": 4
+        },
+        {
+          "id": "p0f23",
+          "rect": [
+            397.6,
+            366.33,
+            499.95,
+            383.77
+          ],
+          "kind": "text",
+          "label": "Zeile 4: Name",
+          "row": 3,
+          "column": 5
+        },
+        {
+          "id": "p0f24",
+          "rect": [
+            59.0,
+            385.77,
+            107.55,
+            403.21
+          ],
+          "kind": "text",
+          "label": "Zeile 5: Datum",
+          "row": 4,
+          "column": 0
+        },
+        {
+          "id": "p0f25",
+          "rect": [
+            111.55,
+            385.77,
+            162.55,
+            403.21
+          ],
+          "kind": "text",
+          "label": "Zeile 5: Uhrzeit",
+          "row": 4,
+          "column": 1
+        },
+        {
+          "id": "p0f26",
+          "rect": [
+            166.55,
+            385.77,
+            244.75,
+            403.21
+          ],
+          "kind": "text",
+          "label": "Zeile 5: Produkt*",
+          "row": 4,
+          "column": 2
+        },
+        {
+          "id": "p0f27",
+          "rect": [
+            248.75,
+            385.77,
+            322.65,
+            403.21
+          ],
+          "kind": "text",
+          "label": "Zeile 5: Warme\nSpeisen\nmind. +65°C",
+          "row": 4,
+          "column": 3
+        },
+        {
+          "id": "p0f28",
+          "rect": [
+            326.65,
+            385.77,
+            393.6,
+            403.21
+          ],
+          "kind": "text",
+          "label": "Zeile 5: Kalte\nSpeisen\nmax. +7°C",
+          "row": 4,
+          "column": 4
+        },
+        {
+          "id": "p0f29",
+          "rect": [
+            397.6,
+            385.77,
+            499.95,
+            403.21
+          ],
+          "kind": "text",
+          "label": "Zeile 5: Name",
+          "row": 4,
+          "column": 5
+        },
+        {
+          "id": "p0f30",
+          "rect": [
+            59.0,
+            405.21,
+            107.55,
+            422.77
+          ],
+          "kind": "text",
+          "label": "Zeile 6: Datum",
+          "row": 5,
+          "column": 0
+        },
+        {
+          "id": "p0f31",
+          "rect": [
+            111.55,
+            405.21,
+            162.55,
+            422.77
+          ],
+          "kind": "text",
+          "label": "Zeile 6: Uhrzeit",
+          "row": 5,
+          "column": 1
+        },
+        {
+          "id": "p0f32",
+          "rect": [
+            166.55,
+            405.21,
+            244.75,
+            422.77
+          ],
+          "kind": "text",
+          "label": "Zeile 6: Produkt*",
+          "row": 5,
+          "column": 2
+        },
+        {
+          "id": "p0f33",
+          "rect": [
+            248.75,
+            405.21,
+            322.65,
+            422.77
+          ],
+          "kind": "text",
+          "label": "Zeile 6: Warme\nSpeisen\nmind. +65°C",
+          "row": 5,
+          "column": 3
+        },
+        {
+          "id": "p0f34",
+          "rect": [
+            326.65,
+            405.21,
+            393.6,
+            422.77
+          ],
+          "kind": "text",
+          "label": "Zeile 6: Kalte\nSpeisen\nmax. +7°C",
+          "row": 5,
+          "column": 4
+        },
+        {
+          "id": "p0f35",
+          "rect": [
+            397.6,
+            405.21,
+            499.95,
+            422.77
+          ],
+          "kind": "text",
+          "label": "Zeile 6: Name",
+          "row": 5,
+          "column": 5
+        },
+        {
+          "id": "p0f36",
+          "rect": [
+            59.0,
+            424.77,
+            107.55,
+            442.21
+          ],
+          "kind": "text",
+          "label": "Zeile 7: Datum",
+          "row": 6,
+          "column": 0
+        },
+        {
+          "id": "p0f37",
+          "rect": [
+            111.55,
+            424.77,
+            162.55,
+            442.21
+          ],
+          "kind": "text",
+          "label": "Zeile 7: Uhrzeit",
+          "row": 6,
+          "column": 1
+        },
+        {
+          "id": "p0f38",
+          "rect": [
+            166.55,
+            424.77,
+            244.75,
+            442.21
+          ],
+          "kind": "text",
+          "label": "Zeile 7: Produkt*",
+          "row": 6,
+          "column": 2
+        },
+        {
+          "id": "p0f39",
+          "rect": [
+            248.75,
+            424.77,
+            322.65,
+            442.21
+          ],
+          "kind": "text",
+          "label": "Zeile 7: Warme\nSpeisen\nmind. +65°C",
+          "row": 6,
+          "column": 3
+        },
+        {
+          "id": "p0f40",
+          "rect": [
+            326.65,
+            424.77,
+            393.6,
+            442.21
+          ],
+          "kind": "text",
+          "label": "Zeile 7: Kalte\nSpeisen\nmax. +7°C",
+          "row": 6,
+          "column": 4
+        },
+        {
+          "id": "p0f41",
+          "rect": [
+            397.6,
+            424.77,
+            499.95,
+            442.21
+          ],
+          "kind": "text",
+          "label": "Zeile 7: Name",
+          "row": 6,
+          "column": 5
+        },
+        {
+          "id": "p0f42",
+          "rect": [
+            59.0,
+            444.21,
+            107.55,
+            461.65
+          ],
+          "kind": "text",
+          "label": "Zeile 8: Datum",
+          "row": 7,
+          "column": 0
+        },
+        {
+          "id": "p0f43",
+          "rect": [
+            111.55,
+            444.21,
+            162.55,
+            461.65
+          ],
+          "kind": "text",
+          "label": "Zeile 8: Uhrzeit",
+          "row": 7,
+          "column": 1
+        },
+        {
+          "id": "p0f44",
+          "rect": [
+            166.55,
+            444.21,
+            244.75,
+            461.65
+          ],
+          "kind": "text",
+          "label": "Zeile 8: Produkt*",
+          "row": 7,
+          "column": 2
+        },
+        {
+          "id": "p0f45",
+          "rect": [
+            248.75,
+            444.21,
+            322.65,
+            461.65
+          ],
+          "kind": "text",
+          "label": "Zeile 8: Warme\nSpeisen\nmind. +65°C",
+          "row": 7,
+          "column": 3
+        },
+        {
+          "id": "p0f46",
+          "rect": [
+            326.65,
+            444.21,
+            393.6,
+            461.65
+          ],
+          "kind": "text",
+          "label": "Zeile 8: Kalte\nSpeisen\nmax. +7°C",
+          "row": 7,
+          "column": 4
+        },
+        {
+          "id": "p0f47",
+          "rect": [
+            397.6,
+            444.21,
+            499.95,
+            461.65
+          ],
+          "kind": "text",
+          "label": "Zeile 8: Name",
+          "row": 7,
+          "column": 5
+        },
+        {
+          "id": "p0f48",
+          "rect": [
+            59.0,
+            463.65,
+            107.55,
+            481.23
+          ],
+          "kind": "text",
+          "label": "Zeile 9: Datum",
+          "row": 8,
+          "column": 0
+        },
+        {
+          "id": "p0f49",
+          "rect": [
+            111.55,
+            463.65,
+            162.55,
+            481.23
+          ],
+          "kind": "text",
+          "label": "Zeile 9: Uhrzeit",
+          "row": 8,
+          "column": 1
+        },
+        {
+          "id": "p0f50",
+          "rect": [
+            166.55,
+            463.65,
+            244.75,
+            481.23
+          ],
+          "kind": "text",
+          "label": "Zeile 9: Produkt*",
+          "row": 8,
+          "column": 2
+        },
+        {
+          "id": "p0f51",
+          "rect": [
+            248.75,
+            463.65,
+            322.65,
+            481.23
+          ],
+          "kind": "text",
+          "label": "Zeile 9: Warme\nSpeisen\nmind. +65°C",
+          "row": 8,
+          "column": 3
+        },
+        {
+          "id": "p0f52",
+          "rect": [
+            326.65,
+            463.65,
+            393.6,
+            481.23
+          ],
+          "kind": "text",
+          "label": "Zeile 9: Kalte\nSpeisen\nmax. +7°C",
+          "row": 8,
+          "column": 4
+        },
+        {
+          "id": "p0f53",
+          "rect": [
+            397.6,
+            463.65,
+            499.95,
+            481.23
+          ],
+          "kind": "text",
+          "label": "Zeile 9: Name",
+          "row": 8,
+          "column": 5
+        },
+        {
+          "id": "p0f54",
+          "rect": [
+            59.0,
+            483.23,
+            107.55,
+            500.67
+          ],
+          "kind": "text",
+          "label": "Zeile 10: Datum",
+          "row": 9,
+          "column": 0
+        },
+        {
+          "id": "p0f55",
+          "rect": [
+            111.55,
+            483.23,
+            162.55,
+            500.67
+          ],
+          "kind": "text",
+          "label": "Zeile 10: Uhrzeit",
+          "row": 9,
+          "column": 1
+        },
+        {
+          "id": "p0f56",
+          "rect": [
+            166.55,
+            483.23,
+            244.75,
+            500.67
+          ],
+          "kind": "text",
+          "label": "Zeile 10: Produkt*",
+          "row": 9,
+          "column": 2
+        },
+        {
+          "id": "p0f57",
+          "rect": [
+            248.75,
+            483.23,
+            322.65,
+            500.67
+          ],
+          "kind": "text",
+          "label": "Zeile 10: Warme\nSpeisen\nmind. +65°C",
+          "row": 9,
+          "column": 3
+        },
+        {
+          "id": "p0f58",
+          "rect": [
+            326.65,
+            483.23,
+            393.6,
+            500.67
+          ],
+          "kind": "text",
+          "label": "Zeile 10: Kalte\nSpeisen\nmax. +7°C",
+          "row": 9,
+          "column": 4
+        },
+        {
+          "id": "p0f59",
+          "rect": [
+            397.6,
+            483.23,
+            499.95,
+            500.67
+          ],
+          "kind": "text",
+          "label": "Zeile 10: Name",
+          "row": 9,
+          "column": 5
+        },
+        {
+          "id": "p0f60",
+          "rect": [
+            59.0,
+            502.67,
+            107.55,
+            520.11
+          ],
+          "kind": "text",
+          "label": "Zeile 11: Datum",
+          "row": 10,
+          "column": 0
+        },
+        {
+          "id": "p0f61",
+          "rect": [
+            111.55,
+            502.67,
+            162.55,
+            520.11
+          ],
+          "kind": "text",
+          "label": "Zeile 11: Uhrzeit",
+          "row": 10,
+          "column": 1
+        },
+        {
+          "id": "p0f62",
+          "rect": [
+            166.55,
+            502.67,
+            244.75,
+            520.11
+          ],
+          "kind": "text",
+          "label": "Zeile 11: Produkt*",
+          "row": 10,
+          "column": 2
+        },
+        {
+          "id": "p0f63",
+          "rect": [
+            248.75,
+            502.67,
+            322.65,
+            520.11
+          ],
+          "kind": "text",
+          "label": "Zeile 11: Warme\nSpeisen\nmind. +65°C",
+          "row": 10,
+          "column": 3
+        },
+        {
+          "id": "p0f64",
+          "rect": [
+            326.65,
+            502.67,
+            393.6,
+            520.11
+          ],
+          "kind": "text",
+          "label": "Zeile 11: Kalte\nSpeisen\nmax. +7°C",
+          "row": 10,
+          "column": 4
+        },
+        {
+          "id": "p0f65",
+          "rect": [
+            397.6,
+            502.67,
+            499.95,
+            520.11
+          ],
+          "kind": "text",
+          "label": "Zeile 11: Name",
+          "row": 10,
+          "column": 5
+        },
+        {
+          "id": "p0f66",
+          "rect": [
+            59.0,
+            522.11,
+            107.55,
+            539.55
+          ],
+          "kind": "text",
+          "label": "Zeile 12: Datum",
+          "row": 11,
+          "column": 0
+        },
+        {
+          "id": "p0f67",
+          "rect": [
+            111.55,
+            522.11,
+            162.55,
+            539.55
+          ],
+          "kind": "text",
+          "label": "Zeile 12: Uhrzeit",
+          "row": 11,
+          "column": 1
+        },
+        {
+          "id": "p0f68",
+          "rect": [
+            166.55,
+            522.11,
+            244.75,
+            539.55
+          ],
+          "kind": "text",
+          "label": "Zeile 12: Produkt*",
+          "row": 11,
+          "column": 2
+        },
+        {
+          "id": "p0f69",
+          "rect": [
+            248.75,
+            522.11,
+            322.65,
+            539.55
+          ],
+          "kind": "text",
+          "label": "Zeile 12: Warme\nSpeisen\nmind. +65°C",
+          "row": 11,
+          "column": 3
+        },
+        {
+          "id": "p0f70",
+          "rect": [
+            326.65,
+            522.11,
+            393.6,
+            539.55
+          ],
+          "kind": "text",
+          "label": "Zeile 12: Kalte\nSpeisen\nmax. +7°C",
+          "row": 11,
+          "column": 4
+        },
+        {
+          "id": "p0f71",
+          "rect": [
+            397.6,
+            522.11,
+            499.95,
+            539.55
+          ],
+          "kind": "text",
+          "label": "Zeile 12: Name",
+          "row": 11,
+          "column": 5
+        },
+        {
+          "id": "p0f72",
+          "rect": [
+            59.0,
+            541.55,
+            107.55,
+            559.11
+          ],
+          "kind": "text",
+          "label": "Zeile 13: Datum",
+          "row": 12,
+          "column": 0
+        },
+        {
+          "id": "p0f73",
+          "rect": [
+            111.55,
+            541.55,
+            162.55,
+            559.11
+          ],
+          "kind": "text",
+          "label": "Zeile 13: Uhrzeit",
+          "row": 12,
+          "column": 1
+        },
+        {
+          "id": "p0f74",
+          "rect": [
+            166.55,
+            541.55,
+            244.75,
+            559.11
+          ],
+          "kind": "text",
+          "label": "Zeile 13: Produkt*",
+          "row": 12,
+          "column": 2
+        },
+        {
+          "id": "p0f75",
+          "rect": [
+            248.75,
+            541.55,
+            322.65,
+            559.11
+          ],
+          "kind": "text",
+          "label": "Zeile 13: Warme\nSpeisen\nmind. +65°C",
+          "row": 12,
+          "column": 3
+        },
+        {
+          "id": "p0f76",
+          "rect": [
+            326.65,
+            541.55,
+            393.6,
+            559.11
+          ],
+          "kind": "text",
+          "label": "Zeile 13: Kalte\nSpeisen\nmax. +7°C",
+          "row": 12,
+          "column": 4
+        },
+        {
+          "id": "p0f77",
+          "rect": [
+            397.6,
+            541.55,
+            499.95,
+            559.11
+          ],
+          "kind": "text",
+          "label": "Zeile 13: Name",
+          "row": 12,
+          "column": 5
+        },
+        {
+          "id": "p0f78",
+          "rect": [
+            59.0,
+            561.11,
+            107.55,
+            578.55
+          ],
+          "kind": "text",
+          "label": "Zeile 14: Datum",
+          "row": 13,
+          "column": 0
+        },
+        {
+          "id": "p0f79",
+          "rect": [
+            111.55,
+            561.11,
+            162.55,
+            578.55
+          ],
+          "kind": "text",
+          "label": "Zeile 14: Uhrzeit",
+          "row": 13,
+          "column": 1
+        },
+        {
+          "id": "p0f80",
+          "rect": [
+            166.55,
+            561.11,
+            244.75,
+            578.55
+          ],
+          "kind": "text",
+          "label": "Zeile 14: Produkt*",
+          "row": 13,
+          "column": 2
+        },
+        {
+          "id": "p0f81",
+          "rect": [
+            248.75,
+            561.11,
+            322.65,
+            578.55
+          ],
+          "kind": "text",
+          "label": "Zeile 14: Warme\nSpeisen\nmind. +65°C",
+          "row": 13,
+          "column": 3
+        },
+        {
+          "id": "p0f82",
+          "rect": [
+            326.65,
+            561.11,
+            393.6,
+            578.55
+          ],
+          "kind": "text",
+          "label": "Zeile 14: Kalte\nSpeisen\nmax. +7°C",
+          "row": 13,
+          "column": 4
+        },
+        {
+          "id": "p0f83",
+          "rect": [
+            397.6,
+            561.11,
+            499.95,
+            578.55
+          ],
+          "kind": "text",
+          "label": "Zeile 14: Name",
+          "row": 13,
+          "column": 5
+        },
+        {
+          "id": "p0f84",
+          "rect": [
+            59.0,
+            580.55,
+            107.55,
+            597.99
+          ],
+          "kind": "text",
+          "label": "Zeile 15: Datum",
+          "row": 14,
+          "column": 0
+        },
+        {
+          "id": "p0f85",
+          "rect": [
+            111.55,
+            580.55,
+            162.55,
+            597.99
+          ],
+          "kind": "text",
+          "label": "Zeile 15: Uhrzeit",
+          "row": 14,
+          "column": 1
+        },
+        {
+          "id": "p0f86",
+          "rect": [
+            166.55,
+            580.55,
+            244.75,
+            597.99
+          ],
+          "kind": "text",
+          "label": "Zeile 15: Produkt*",
+          "row": 14,
+          "column": 2
+        },
+        {
+          "id": "p0f87",
+          "rect": [
+            248.75,
+            580.55,
+            322.65,
+            597.99
+          ],
+          "kind": "text",
+          "label": "Zeile 15: Warme\nSpeisen\nmind. +65°C",
+          "row": 14,
+          "column": 3
+        },
+        {
+          "id": "p0f88",
+          "rect": [
+            326.65,
+            580.55,
+            393.6,
+            597.99
+          ],
+          "kind": "text",
+          "label": "Zeile 15: Kalte\nSpeisen\nmax. +7°C",
+          "row": 14,
+          "column": 4
+        },
+        {
+          "id": "p0f89",
+          "rect": [
+            397.6,
+            580.55,
+            499.95,
+            597.99
+          ],
+          "kind": "text",
+          "label": "Zeile 15: Name",
+          "row": 14,
+          "column": 5
+        },
+        {
+          "id": "p0f90",
+          "rect": [
+            59.0,
+            599.99,
+            107.55,
+            617.58
+          ],
+          "kind": "text",
+          "label": "Zeile 16: Datum",
+          "row": 15,
+          "column": 0
+        },
+        {
+          "id": "p0f91",
+          "rect": [
+            111.55,
+            599.99,
+            162.55,
+            617.58
+          ],
+          "kind": "text",
+          "label": "Zeile 16: Uhrzeit",
+          "row": 15,
+          "column": 1
+        },
+        {
+          "id": "p0f92",
+          "rect": [
+            166.55,
+            599.99,
+            244.75,
+            617.58
+          ],
+          "kind": "text",
+          "label": "Zeile 16: Produkt*",
+          "row": 15,
+          "column": 2
+        },
+        {
+          "id": "p0f93",
+          "rect": [
+            248.75,
+            599.99,
+            322.65,
+            617.58
+          ],
+          "kind": "text",
+          "label": "Zeile 16: Warme\nSpeisen\nmind. +65°C",
+          "row": 15,
+          "column": 3
+        },
+        {
+          "id": "p0f94",
+          "rect": [
+            326.65,
+            599.99,
+            393.6,
+            617.58
+          ],
+          "kind": "text",
+          "label": "Zeile 16: Kalte\nSpeisen\nmax. +7°C",
+          "row": 15,
+          "column": 4
+        },
+        {
+          "id": "p0f95",
+          "rect": [
+            397.6,
+            599.99,
+            499.95,
+            617.58
+          ],
+          "kind": "text",
+          "label": "Zeile 16: Name",
+          "row": 15,
+          "column": 5
+        }
+      ]
+    }
+  ],
+  "repeat_page": 0
+}

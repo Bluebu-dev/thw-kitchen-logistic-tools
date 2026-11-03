@@ -1,92 +1,156 @@
-# THW OV Passau – Küchenlogistik (Mehrbenutzer-Version)
+# THW Küchenlogistik · Version 2
 
-Webapp mit FastAPI, PostgreSQL, Admin-Benutzerverwaltung, zentralen Standardmaterialien,
-Veranstaltungen, Checklisten, Mengenerfassung, Ausgabedokumentation und Änderungsprotokoll.
+Verwaltung für einen Ortsverband: Einsätze, Übungen und Veranstaltungen,
+kombinierbare Checklisten, Lebensmittel-/Getränkelager, Dateiablage,
+Temperaturverläufe und Spez71-Nachweise auf den Originalformularen von April 2020.
+OV-Name und Logo sind durch Administratoren konfigurierbar. Eigenständige,
+nicht offizielle THW-Anwendung. Onlinebetrieb, kein Offline-Abgleich.
 
-## Schnellstart
+## Start
 
-Voraussetzung: Docker Engine / Docker Desktop mit Docker Compose V2.
+Python 3.12, PostgreSQL 17; empfohlen Docker Compose V2:
 
-```bash
+```sh
 cp .env.example .env
-# .env bearbeiten und beide Passwörter durch starke, unterschiedliche Passwörter ersetzen
-# ADMIN_PASSWORD mindestens 12 Zeichen
+# Zwei unterschiedliche zufällige Passwörter setzen (Admin mindestens 12 Zeichen).
 docker compose up -d --build
 docker compose ps
 ```
 
-Die Website ist danach unter **http://localhost:8080** erreichbar. Anmeldung mit
-`ADMIN_USERNAME` und `ADMIN_PASSWORD` aus `.env` beim **ersten Start**.
-Danach das Adminpasswort bei Bedarf unter **Benutzer** ändern: Änderungen an der
-`.env` ersetzen kein bestehendes Benutzerpasswort.
+Die Anwendung bindet standardmäßig nur an 127.0.0.1:8080. Der Admin wird beim
+ersten Start in einer leeren Datenbank angelegt. Änderungen von ADMIN_PASSWORD
+ändern später keine Benutzerpasswörter; dafür die Benutzerverwaltung verwenden.
+OV_NAME bestimmt den anfänglichen Namen, anschließend gilt die OV-Konfiguration.
+Öffentlichen Zugriff ausschließlich über HTTPS-Reverse-Proxy betreiben,
+COOKIE_SECURE=true setzen. Proxy-Rate-Limits für Anmeldung/API konfigurieren.
 
-## Bedienung
+**Version 2 startet mit einer neuen Datenbank.** Eine bestehende Version-1-
+Datenbank wird erkannt und nicht verändert. Wie vereinbart ist keine Migration
+bestehender Benutzerdaten oder Vorgänge enthalten. Für die neue Version ein neues
+Compose-Projekt (`docker compose -p kueche-v2 up -d --build`) oder eine neue leere
+Datenbank verwenden. Alte Daten und Volumes nicht ungeprüft löschen. Weitere
+Schemaänderungen benötigen künftig explizite Datenbankmigrationen.
 
-- Admin: Standardausstattung (Kategorien, Artikel, aktiv/inaktiv, Reihenfolge) sowie Benutzer pflegen.
-- Benutzer: Termine anlegen, Material abhaken, Mengen/Notizen und Ausgabedokumentation speichern.
-- Jeder neue Termin erhält eine **Kopie** der zu diesem Zeitpunkt aktiven Standardartikel.
-  Änderungen an Vorlagen wirken **nicht rückwirkend** auf bestehende Termine.
-- Nur Admins können Termine löschen. Benutzer können eigene Zusatzpunkte zu Terminen ergänzen.
-- Alle Benutzer mit aktivem Account können alle Veranstaltungen sehen und bearbeiten.
-- JSON-Export erlaubt Auswertung/Archivierung, ist **kein** Datenbank-Restore.
+### Lokale Entwicklung
 
-## Auf Server / mit Domain hosten
-
-Standardmäßig bindet der Webcontainer nur an `127.0.0.1:8080`.
-Einen Reverse Proxy (z. B. Caddy, Traefik oder Nginx) mit **HTTPS** davorschalten,
-`COOKIE_SECURE=true` in `.env` setzen und per `docker compose up -d` neu starten.
-HTTP sollte nicht öffentlich angeboten werden. Reverse Proxy an `127.0.0.1:8080` weiterleiten.
-Für fremde Proxies ggf. Uvicorn `--forwarded-allow-ips` gezielt anpassen.
-
-### Backups
-
-Regelmäßige Backups sind zwingend zu organisieren, z. B.:
-
-```bash
-docker compose exec -T db sh -c 'pg_dump -U "$POSTGRES_USER" -d "$POSTGRES_DB" -Fc' > thwkueche_$(date +%F).dump
+```sh
+python3.12 -m venv .venv
+. .venv/bin/activate
+pip install -r backend/requirements.txt
+# DATABASE_URL auf eine eigene PostgreSQL-Datenbank setzen.
+# ADMIN_USERNAME und ADMIN_PASSWORD sicher über die Prozessumgebung setzen.
+uvicorn backend.main:app --host 127.0.0.1 --port 8080
 ```
 
-Sicher und verschlüsselt außerhalb des Servers speichern. Rücksicherung vorher
-in einer Testumgebung prüfen, z. B. mit `pg_restore` (Überschreiben nur mit
-geplantem Wartungsfenster). Volume `postgres_data` darf nicht gelöscht werden.
+Ohne DATABASE_URL wird SQLite (`dev.db`) für lokale Entwicklung verwendet.
+Produktiver Betrieb und konkurrierende Buchungen werden mit PostgreSQL getestet.
+Frontend: HTML/CSS/Vanilla-JavaScript, keine zusätzliche Build-Pipeline.
+Die Laufzeit benötigt Schreibzugriff nur auf die Datenbank. PDFs, Logos und
+Uploads liegen zusammen mit ihren Metadaten in PostgreSQL.
 
-## Architektur / Schnittstellen
+## Rollen
 
-- Frontend: Astro mit separaten Komponenten, gemeinsamem Layout und clientseitigem JavaScript; statischer Build vom Backend über `/` und `/assets/*` ausgeliefert.
-- Neue Termine werden ausschließlich in der Veranstaltungsübersicht angelegt.
-- Backend: FastAPI mit JSON-API unter `/api/*`.
-- DB: PostgreSQL 17 im eigenen Container, persistentes Docker-Volume.
-- Authentifizierung: Argon2id-Passwort-Hash; zufällige, **gehashte** serverseitige
-  Sitzungs-IDs; HttpOnly/SameSite-Cookie, CSRF-Header für Schreiboperationen.
-- Adminzugriff wird serverseitig geprüft. Deaktivierte Benutzer verlieren Zugriff.
-- Audit: Benutzername, Zeitpunkt und Aktion (ohne vorher/nachher Inhalt).
-- Container: non-root, read-only App-Filesystem, DB nicht nach außen freigegeben.
+| Funktion | Benutzer | Koch | OV-Stab | Administrator | Technischer Benutzer |
+|---|---|---|---|---|---|
+| Aktive Vorgänge, Bestände, Dateien sehen | ja | ja | ja | ja | nur API-Bestände mit Freigabe |
+| Vorgang anlegen / Checklisten abhaken, Menge, Notiz | ja | ja | ja | ja | nein |
+| Kategorien/Punkte/Vorlagen, Dokumentation und Dateien pflegen | nein | ja | ja | ja | nein |
+| Lebensmittel und Geräte/Grenzwerte verwalten | nein | ja | ja | ja | nein |
+| Ein-/Ausgänge buchen | nein | ja | ja | ja | mit API-Freigabe |
+| Ist-Bestand durch Inventur setzen | nein | nein | ja | ja | nein |
+| Temperaturen erfassen | ja | ja | ja | ja | mit API-/Gerätefreigabe |
+| Bemerkung an Messung ergänzen | nein | ja | ja | ja | nein |
+| Spez71-Entwürfe anlegen/ausfüllen | nein | ja | ja | ja | nein |
+| Spez71 finalisieren / Temperatur-PDF erstellen | nein | nein | ja | ja | nein |
+| Archiv sehen / Vorgang archivieren | nein | nein | nein | ja | nein |
+| Benutzer, API-Schlüssel, OV-Logo, Originalfassungen verwalten | nein | nein | nein | ja | nein |
 
-API-Routen: `/api/auth/login`, `/api/auth/me`, `/api/auth/logout`,
-`/api/users`, `/api/categories`, `/api/templates`, `/api/events`,
-`/api/events/{id}/items`, `/api/events/{id}/documentation`, `/api/audit`, `/api/health`.
+Ein Benutzer hat jeweils eine Rolle; mehrere Personen können dieselbe Rolle
+haben. Administratoren können finalisierte Nachweise nicht ändern.
 
-## Stand / Grenzen der ersten Serverversion
+## Lager und Temperaturen
 
-- Backend-Tabellen werden beim Start automatisch angelegt. **Noch kein
-  Migrationstool (Alembic)**; für größere Versionsupdates vor dem Deployment
-  Migrationsstrategie ergänzen und ein Backup machen.
-- Keine Passwort-zurücksetzen-per-E-Mail-Funktion; Admin kann Passwörter setzen.
-- Keine automatische Mengenplanung oder Lagerbestandsbuchungen.
-- Keine Dateianhänge, nur Belegnummern/Notizen.
-- Gleichzeitige Änderungen *am selben Feld* folgen „zuletzt gespeichert gewinnt“.
-- Login hat noch keinen Rate-Limiter; bei Veröffentlichung im Internet unbedingt
-  Proxy-Rate-Limits / Fail2ban bzw. vergleichbare Schutzmaßnahmen einrichten.
-- Der Adminbootstrap gilt nur für eine **leere** Datenbank. Ist kein Admin mehr
-  erreichbar, ist ein manueller Recovery-Prozess nötig.
-- Für professionelle Produktion zusätzlich TLS, Monitoring, Backup-Restore-Tests,
-  automatisierte Sicherheitsupdates und Berechtigungskonzept prüfen.
+Mengen verwenden exakte Dezimalarithmetik mit maximal drei Nachkommastellen;
+Stück ist ganzzahlig. Sollbestand, Ist-Bestand und farbliche Hinweise sind
+getrennt vom Material der Vorgangschecklisten. Einheiten nach erster Buchung
+nicht mehr ändern. Archivieren/inaktiv setzen statt Artikelhistorie entfernen.
+Jede Inventur, auch ohne Differenz, erzeugt einen unveränderbaren Eintrag mit
+Begründung. Negative Bestände werden verhindert; inkonsistente negative Werte
+würden deutlich markiert. Chargen und Haltbarkeitsdaten sind noch nicht enthalten;
+Bewegungen besitzen eigene IDs als Grundlage für die spätere Erweiterung.
 
-Diese Anwendung ist keine offizielle THW-Anwendung.
+Messwerte, Eingangszeit, Quelle und damals gültige Grenzen bleiben unverändert.
+Neue Bemerkungen sind getrennte, ebenfalls unveränderbare Einträge. Ein
+herstellerspezifischer Geräteadapter ist noch nicht enthalten. Siehe [API](docs/API.md).
+Grafik/Tabelle zeigt maximal 10.000 Werte; für längere Verläufe Zeitraum eingrenzen.
+Farbliche Grenzwertmarkierungen, keine automatischen Alarmnachrichten.
 
-## Frontend entwickeln
+## Dokumente, Formulare und Aufbewahrung
 
-Voraussetzung: Node.js 22 und ein laufendes Backend auf Port 8000.
+PDF-Dateien: bis 5 MiB für Koch/OV-Stab, bis 50 MiB für Administratoren. Zentrale
+Dateien, Vorlagendokumente und Vorgangsdokumente sind getrennt. Bei Übernahme einer
+Vorlage werden ihre Dokumente als unabhängige Kopien gespeichert. Logo: PNG/JPEG
+bis 5 MiB. Das Standardlogo verwendet unverändertes THW-Artwork aus den gelieferten
+Originalformularen; die OV-Bezeichnung steht separat darunter. Das individuelle
+OV-Logo kann in der Konfiguration hochgeladen werden.
+
+Alle acht [Originalformulare](docs/FORMULARE.md) sind enthalten, auch mehrfach
+pro Vorgang. Wareneingang, Lagerhygiene und Temperaturkontrollen sind eigenständig
+nutzbar. Finalisierte PDFs werden mit Prüfsumme dauerhaft gespeichert.
+
+„Löschen“ archiviert einen Vorgang schreibgeschützt, nur für Administratoren
+sichtbar. Zehn Kalenderjahre ab dem späteren Datum aus Archivierung und letzter
+Finalisierung, Schaltjahre werden berücksichtigt. Abgelaufene Vorgänge und ihre
+Dateien/Nachweise werden beim Start und stündlich aus der aktiven Datenbank
+entfernt. Buchungen und Temperaturrohwerte bleiben eigenständige Historien mit
+numerischer Vorgangsreferenz. Nach einer Entfernung kann diese nicht mehr
+geöffnet werden. Außerhalb der aktiven Datenbank müssen Betreiber insbesondere
+Backups nach ihrer eigenen Aufbewahrungsrichtlinie behandeln.
+
+## Tests
+
+```sh
+pip install -r tests/requirements.txt
+python -m pytest -q
+```
+
+Standardmäßig eigene temporäre SQLite-Datenbank. PostgreSQL-Prüfung mit einer
+**eigenen leeren Testdatenbank**:
+
+```sh
+TEST_DATABASE_URL='postgresql+psycopg://…/kitchen_test' python -m pytest -q
+```
+
+Tests prüfen Rollen, CSRF, Bestandsarithmetik, unveränderbare Historie,
+Vorlagenkopien, Archivzugriffe/Aufbewahrung, Geräteschlüssel und die Original-PDFs.
+Die Testdatenbank darf keine produktiven Daten enthalten und sollte pro Testlauf
+neu sein. Browser-Smoke-Test: `pip install -r tests/requirements-browser.txt`, dann
+`python tests/browser_smoke.py` gegen einen eigenen
+Testserver, Zugang über TEST_USERNAME/TEST_PASSWORD in der Prozessumgebung.
+System-Chromium wird automatisch verwendet; alternativ zuerst
+`python -m playwright install chromium` ausführen oder TEST_CHROMIUM setzen.
+
+## Betrieb und Sicherung
+
+Regelmäßig PostgreSQL inklusive Dateien sichern und Rücksicherung testen:
+
+```sh
+docker compose exec -T db sh -c 'pg_dump -U "$POSTGRES_USER" -d "$POSTGRES_DB" -Fc' > kitchen.dump
+```
+
+Backups verschlüsselt außerhalb des Servers halten. Datenbank-Volume niemals
+ungeplant entfernen. Keine Passwort-Recovery per E-Mail; weitere aktive
+Administratorkonten vorsehen. Finale Sperren gelten für die Anwendung und ihre
+Datenbanktrigger; sie ersetzen kein externes, manipulationsgeschütztes Archiv.
+
+## Astro-Frontend entwickeln
+
+Das Frontend verwendet Astro für Layout, gemeinsame Komponenten und den statischen
+Build. Die bestehenden Ansichten von Version 2 bleiben clientseitig verfügbar.
+„Vorgang anlegen“ wird ausschließlich in der Veranstaltungsübersicht für
+Küchenrollen angezeigt.
+
+Voraussetzung: Node.js 22, Backend auf Port 8000.
 
 ```bash
 cd frontend
@@ -94,12 +158,11 @@ npm ci
 npm run dev
 ```
 
-Astro stellt die Oberfläche unter http://localhost:4321 bereit und leitet
-`/api` an das lokale Backend weiter. Layout und globale Styles liegen unter
-`frontend/src/layouts` und `frontend/src/styles`; die einzelnen Ansichten,
-Navigation und Dialoge unter `frontend/src/components`. Die clientseitige
-Interaktion liegt unter `frontend/src/scripts/app.js`.
+Astro läuft unter http://localhost:4321 und leitet `/api` an das Backend weiter.
+Komponenten liegen unter `frontend/src/components`, das Layout unter
+`frontend/src/layouts`, Styles unter `frontend/src/styles` und die bestehende
+Ansichtslogik unter `frontend/src/scripts/app.js`.
 
-`npm run build` erzeugt `frontend/dist`. Diesen Build vor dem direkten Start
-von FastAPI erstellen. Docker baut das Frontend automatisch in einer separaten
-Node-Buildstufe; im laufenden Webcontainer wird kein Node.js benötigt.
+Vor einem direkten Backend-Start oder Backend-Tests `npm run build --prefix frontend`
+ausführen. Das Backend liefert `frontend/dist` aus. Docker baut Astro automatisch
+in einer Node-Buildstufe; der Webcontainer benötigt zur Laufzeit nur Python.

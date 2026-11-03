@@ -1,6 +1,11 @@
 .env
+*.db
+*.db-*
 __pycache__/
 *.pyc
-frontend/node_modules/
+.pytest_cache/
+.venv/
+node_modules/
+test-results/
 frontend/dist/
 frontend/.astro/

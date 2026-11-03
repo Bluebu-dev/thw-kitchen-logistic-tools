@@ -1,1 +1,34 @@
-<aside class="sidebar"><div class="brand"><div class="brand-symbol">THW<span>+</span></div><div><strong>KÜCHEN<span>LOGISTIK</span></strong><small>OV PASSAU · VERPFLEGUNG</small></div></div><div class="side-label">ARBEITSPLATZ</div><nav><button class="nav-item active" data-view="events"><span>▦</span> Veranstaltungen</button><button class="nav-item" data-view="inventory"><span>☷</span> Standardausstattung</button><button class="nav-item admin-only hidden" data-view="users"><span>♙</span> Benutzer</button><button class="nav-item admin-only hidden" data-view="audit"><span>≡</span> Änderungsprotokoll</button><button class="nav-item" data-view="info"><span>ⓘ</span> Informationen</button></nav><div class="side-bottom"><span class="online-dot"></span> Zentral verbunden<br><small id="logged-user"></small><br><button id="logout" class="btn subtle">Abmelden</button></div></aside>
+<aside class="sidebar">
+        <div class="brand-logo">
+          <img src="/api/settings/logo" alt="THW-Logo" /><strong class="ov-name"
+            >Ortsverband Passau</strong
+          ><small>KÜCHENLOGISTIK</small>
+        </div>
+        <div class="side-label">ARBEITSPLATZ</div>
+        <nav aria-label="Hauptnavigation">
+          <button class="nav-item" data-view="events">
+            ▦ Einsätze & Veranstaltungen</button
+          ><button class="nav-item" data-view="stock">
+            ☷ Lebensmittel & Getränke</button
+          ><button class="nav-item" data-view="temperatures">
+            ♨ Temperaturkontrolle</button
+          ><button class="nav-item" data-view="files">▤ Dateiablage</button
+          ><button class="nav-item kitchen-only" data-view="templates">
+            ▧ Vorgangsvorlagen</button
+          ><button class="nav-item kitchen-only" data-view="forms">
+            ✓ Spez71-Nachweise</button
+          ><button class="nav-item admin-only" data-view="archive">
+            ◷ Archiv · 10 Jahre</button
+          ><button class="nav-item admin-only" data-view="users">
+            ♙ Benutzer & API</button
+          ><button class="nav-item admin-only" data-view="settings">
+            ⚙ OV-Konfiguration</button
+          ><button class="nav-item admin-only" data-view="audit">
+            ≡ Änderungsprotokoll
+          </button>
+        </nav>
+        <div class="account">
+          <small id="logged-user"></small
+          ><button id="logout" class="btn subtle">Abmelden</button>
+        </div>
+      </aside>

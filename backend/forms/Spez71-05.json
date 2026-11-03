@@ -1,0 +1,445 @@
+{
+  "pages": [
+    {
+      "width": 595.3200073242188,
+      "height": 841.9199829101562,
+      "fields": [
+        {
+          "id": "p0f0",
+          "rect": [
+            85.7,
+            160.27,
+            367.12,
+            172.58
+          ],
+          "kind": "text",
+          "label": "Ort:"
+        },
+        {
+          "id": "p0f1",
+          "rect": [
+            144.38,
+            198.31,
+            285.07,
+            210.62
+          ],
+          "kind": "text",
+          "label": "Kontrolldatum:"
+        },
+        {
+          "id": "p0f2",
+          "rect": [
+            354.43,
+            198.31,
+            507.36,
+            210.62
+          ],
+          "kind": "text",
+          "label": "Kontrolldatum: _______________________ Uhrzeit:"
+        },
+        {
+          "id": "p0f3",
+          "rect": [
+            134.66,
+            258.35,
+            143.66,
+            267.35
+          ],
+          "kind": "checkbox",
+          "label": "Tiefkühllager"
+        },
+        {
+          "id": "p0f4",
+          "rect": [
+            295.13,
+            258.35,
+            304.13,
+            267.35
+          ],
+          "kind": "checkbox",
+          "label": "Tiefkühllager □ Kühllager"
+        },
+        {
+          "id": "p0f5",
+          "rect": [
+            454.54,
+            258.35,
+            463.54,
+            267.35
+          ],
+          "kind": "checkbox",
+          "label": "Tiefkühllager □ Kühllager □ Trockenlager"
+        },
+        {
+          "id": "p0f6",
+          "rect": [
+            293.21,
+            644.56,
+            302.21,
+            653.56
+          ],
+          "kind": "checkbox",
+          "label": "Temperatur im Lagerraum ok? ja"
+        },
+        {
+          "id": "p0f7",
+          "rect": [
+            377.47,
+            644.56,
+            386.47,
+            653.56
+          ],
+          "kind": "checkbox",
+          "label": "Temperatur im Lagerraum ok? ja □ nein"
+        },
+        {
+          "id": "p0f8",
+          "rect": [
+            62.4,
+            722.67,
+            190.94,
+            734.98
+          ],
+          "kind": "text",
+          "label": "Feld 9"
+        },
+        {
+          "id": "p0f9",
+          "rect": [
+            239.45,
+            722.67,
+            367.99,
+            734.98
+          ],
+          "kind": "text",
+          "label": "_____________________"
+        },
+        {
+          "id": "p0f10",
+          "rect": [
+            60.0,
+            317.0,
+            547.0,
+            332.0
+          ],
+          "kind": "text",
+          "label": "Lagerraumnummer / Bezeichnung"
+        },
+        {
+          "id": "p0f11",
+          "rect": [
+            250.0,
+            359.93,
+            260.0,
+            369.93
+          ],
+          "kind": "checkbox",
+          "label": "Anforderung 1: ja"
+        },
+        {
+          "id": "p0f12",
+          "rect": [
+            285.0,
+            359.93,
+            295.0,
+            369.93
+          ],
+          "kind": "checkbox",
+          "label": "Anforderung 1: nein"
+        },
+        {
+          "id": "p0f13",
+          "rect": [
+            313.0,
+            355.93,
+            492.0,
+            390.48
+          ],
+          "kind": "text",
+          "label": "Maßnahmen 1"
+        },
+        {
+          "id": "p0f14",
+          "rect": [
+            498.0,
+            355.93,
+            549.0,
+            390.48
+          ],
+          "kind": "text",
+          "label": "Erledigt 1"
+        },
+        {
+          "id": "p0f15",
+          "rect": [
+            250.0,
+            398.48,
+            260.0,
+            408.48
+          ],
+          "kind": "checkbox",
+          "label": "Anforderung 2: ja"
+        },
+        {
+          "id": "p0f16",
+          "rect": [
+            285.0,
+            398.48,
+            295.0,
+            408.48
+          ],
+          "kind": "checkbox",
+          "label": "Anforderung 2: nein"
+        },
+        {
+          "id": "p0f17",
+          "rect": [
+            313.0,
+            394.48,
+            492.0,
+            428.88
+          ],
+          "kind": "text",
+          "label": "Maßnahmen 2"
+        },
+        {
+          "id": "p0f18",
+          "rect": [
+            498.0,
+            394.48,
+            549.0,
+            428.88
+          ],
+          "kind": "text",
+          "label": "Erledigt 2"
+        },
+        {
+          "id": "p0f19",
+          "rect": [
+            250.0,
+            436.88,
+            260.0,
+            446.88
+          ],
+          "kind": "checkbox",
+          "label": "Anforderung 3: ja"
+        },
+        {
+          "id": "p0f20",
+          "rect": [
+            285.0,
+            436.88,
+            295.0,
+            446.88
+          ],
+          "kind": "checkbox",
+          "label": "Anforderung 3: nein"
+        },
+        {
+          "id": "p0f21",
+          "rect": [
+            313.0,
+            432.88,
+            492.0,
+            467.31
+          ],
+          "kind": "text",
+          "label": "Maßnahmen 3"
+        },
+        {
+          "id": "p0f22",
+          "rect": [
+            498.0,
+            432.88,
+            549.0,
+            467.31
+          ],
+          "kind": "text",
+          "label": "Erledigt 3"
+        },
+        {
+          "id": "p0f23",
+          "rect": [
+            250.0,
+            475.31,
+            260.0,
+            485.31
+          ],
+          "kind": "checkbox",
+          "label": "Anforderung 4: ja"
+        },
+        {
+          "id": "p0f24",
+          "rect": [
+            285.0,
+            475.31,
+            295.0,
+            485.31
+          ],
+          "kind": "checkbox",
+          "label": "Anforderung 4: nein"
+        },
+        {
+          "id": "p0f25",
+          "rect": [
+            313.0,
+            471.31,
+            492.0,
+            505.82
+          ],
+          "kind": "text",
+          "label": "Maßnahmen 4"
+        },
+        {
+          "id": "p0f26",
+          "rect": [
+            498.0,
+            471.31,
+            549.0,
+            505.82
+          ],
+          "kind": "text",
+          "label": "Erledigt 4"
+        },
+        {
+          "id": "p0f27",
+          "rect": [
+            250.0,
+            513.82,
+            260.0,
+            523.82
+          ],
+          "kind": "checkbox",
+          "label": "Anforderung 5: ja"
+        },
+        {
+          "id": "p0f28",
+          "rect": [
+            285.0,
+            513.82,
+            295.0,
+            523.82
+          ],
+          "kind": "checkbox",
+          "label": "Anforderung 5: nein"
+        },
+        {
+          "id": "p0f29",
+          "rect": [
+            313.0,
+            509.82,
+            492.0,
+            544.22
+          ],
+          "kind": "text",
+          "label": "Maßnahmen 5"
+        },
+        {
+          "id": "p0f30",
+          "rect": [
+            498.0,
+            509.82,
+            549.0,
+            544.22
+          ],
+          "kind": "text",
+          "label": "Erledigt 5"
+        },
+        {
+          "id": "p0f31",
+          "rect": [
+            250.0,
+            552.22,
+            260.0,
+            562.22
+          ],
+          "kind": "checkbox",
+          "label": "Anforderung 6: ja"
+        },
+        {
+          "id": "p0f32",
+          "rect": [
+            285.0,
+            552.22,
+            295.0,
+            562.22
+          ],
+          "kind": "checkbox",
+          "label": "Anforderung 6: nein"
+        },
+        {
+          "id": "p0f33",
+          "rect": [
+            313.0,
+            548.22,
+            492.0,
+            601.7
+          ],
+          "kind": "text",
+          "label": "Maßnahmen 6"
+        },
+        {
+          "id": "p0f34",
+          "rect": [
+            498.0,
+            548.22,
+            549.0,
+            601.7
+          ],
+          "kind": "text",
+          "label": "Erledigt 6"
+        },
+        {
+          "id": "p0f35",
+          "rect": [
+            250.0,
+            609.7,
+            260.0,
+            619.7
+          ],
+          "kind": "checkbox",
+          "label": "Anforderung 7: ja"
+        },
+        {
+          "id": "p0f36",
+          "rect": [
+            285.0,
+            609.7,
+            295.0,
+            619.7
+          ],
+          "kind": "checkbox",
+          "label": "Anforderung 7: nein"
+        },
+        {
+          "id": "p0f37",
+          "rect": [
+            313.0,
+            605.7,
+            492.0,
+            621.08
+          ],
+          "kind": "text",
+          "label": "Maßnahmen 7"
+        },
+        {
+          "id": "p0f38",
+          "rect": [
+            498.0,
+            605.7,
+            549.0,
+            621.08
+          ],
+          "kind": "text",
+          "label": "Erledigt 7"
+        }
+      ]
+    },
+    {
+      "width": 595.3200073242188,
+      "height": 841.9199829101562,
+      "fields": []
+    }
+  ],
+  "repeat_page": null
+}

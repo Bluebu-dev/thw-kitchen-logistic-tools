@@ -1,0 +1,1259 @@
+{
+  "pages": [
+    {
+      "width": 595.3200073242188,
+      "height": 841.9199829101562,
+      "fields": [
+        {
+          "id": "p0f0",
+          "rect": [
+            59.0,
+            288.93,
+            107.55,
+            306.37
+          ],
+          "kind": "text",
+          "label": "Zeile 1: Datum",
+          "row": 0,
+          "column": 0
+        },
+        {
+          "id": "p0f1",
+          "rect": [
+            111.55,
+            288.93,
+            162.55,
+            306.37
+          ],
+          "kind": "text",
+          "label": "Zeile 1: Uhrzeit",
+          "row": 0,
+          "column": 1
+        },
+        {
+          "id": "p0f2",
+          "rect": [
+            166.55,
+            288.93,
+            244.75,
+            306.37
+          ],
+          "kind": "text",
+          "label": "Zeile 1: Gargut*",
+          "row": 0,
+          "column": 2
+        },
+        {
+          "id": "p0f3",
+          "rect": [
+            248.75,
+            288.93,
+            329.85,
+            306.37
+          ],
+          "kind": "text",
+          "label": "Zeile 1: Garverfah-\nren**",
+          "row": 0,
+          "column": 3
+        },
+        {
+          "id": "p0f4",
+          "rect": [
+            333.85,
+            288.93,
+            393.6,
+            306.37
+          ],
+          "kind": "text",
+          "label": "Zeile 1: Kerntem-\nperatur",
+          "row": 0,
+          "column": 4
+        },
+        {
+          "id": "p0f5",
+          "rect": [
+            397.6,
+            288.93,
+            492.85,
+            306.37
+          ],
+          "kind": "text",
+          "label": "Zeile 1: Name",
+          "row": 0,
+          "column": 5
+        },
+        {
+          "id": "p0f6",
+          "rect": [
+            59.0,
+            308.37,
+            107.55,
+            325.81
+          ],
+          "kind": "text",
+          "label": "Zeile 2: Datum",
+          "row": 1,
+          "column": 0
+        },
+        {
+          "id": "p0f7",
+          "rect": [
+            111.55,
+            308.37,
+            162.55,
+            325.81
+          ],
+          "kind": "text",
+          "label": "Zeile 2: Uhrzeit",
+          "row": 1,
+          "column": 1
+        },
+        {
+          "id": "p0f8",
+          "rect": [
+            166.55,
+            308.37,
+            244.75,
+            325.81
+          ],
+          "kind": "text",
+          "label": "Zeile 2: Gargut*",
+          "row": 1,
+          "column": 2
+        },
+        {
+          "id": "p0f9",
+          "rect": [
+            248.75,
+            308.37,
+            329.85,
+            325.81
+          ],
+          "kind": "text",
+          "label": "Zeile 2: Garverfah-\nren**",
+          "row": 1,
+          "column": 3
+        },
+        {
+          "id": "p0f10",
+          "rect": [
+            333.85,
+            308.37,
+            393.6,
+            325.81
+          ],
+          "kind": "text",
+          "label": "Zeile 2: Kerntem-\nperatur",
+          "row": 1,
+          "column": 4
+        },
+        {
+          "id": "p0f11",
+          "rect": [
+            397.6,
+            308.37,
+            492.85,
+            325.81
+          ],
+          "kind": "text",
+          "label": "Zeile 2: Name",
+          "row": 1,
+          "column": 5
+        },
+        {
+          "id": "p0f12",
+          "rect": [
+            59.0,
+            327.81,
+            107.55,
+            345.37
+          ],
+          "kind": "text",
+          "label": "Zeile 3: Datum",
+          "row": 2,
+          "column": 0
+        },
+        {
+          "id": "p0f13",
+          "rect": [
+            111.55,
+            327.81,
+            162.55,
+            345.37
+          ],
+          "kind": "text",
+          "label": "Zeile 3: Uhrzeit",
+          "row": 2,
+          "column": 1
+        },
+        {
+          "id": "p0f14",
+          "rect": [
+            166.55,
+            327.81,
+            244.75,
+            345.37
+          ],
+          "kind": "text",
+          "label": "Zeile 3: Gargut*",
+          "row": 2,
+          "column": 2
+        },
+        {
+          "id": "p0f15",
+          "rect": [
+            248.75,
+            327.81,
+            329.85,
+            345.37
+          ],
+          "kind": "text",
+          "label": "Zeile 3: Garverfah-\nren**",
+          "row": 2,
+          "column": 3
+        },
+        {
+          "id": "p0f16",
+          "rect": [
+            333.85,
+            327.81,
+            393.6,
+            345.37
+          ],
+          "kind": "text",
+          "label": "Zeile 3: Kerntem-\nperatur",
+          "row": 2,
+          "column": 4
+        },
+        {
+          "id": "p0f17",
+          "rect": [
+            397.6,
+            327.81,
+            492.85,
+            345.37
+          ],
+          "kind": "text",
+          "label": "Zeile 3: Name",
+          "row": 2,
+          "column": 5
+        },
+        {
+          "id": "p0f18",
+          "rect": [
+            59.0,
+            347.37,
+            107.55,
+            364.81
+          ],
+          "kind": "text",
+          "label": "Zeile 4: Datum",
+          "row": 3,
+          "column": 0
+        },
+        {
+          "id": "p0f19",
+          "rect": [
+            111.55,
+            347.37,
+            162.55,
+            364.81
+          ],
+          "kind": "text",
+          "label": "Zeile 4: Uhrzeit",
+          "row": 3,
+          "column": 1
+        },
+        {
+          "id": "p0f20",
+          "rect": [
+            166.55,
+            347.37,
+            244.75,
+            364.81
+          ],
+          "kind": "text",
+          "label": "Zeile 4: Gargut*",
+          "row": 3,
+          "column": 2
+        },
+        {
+          "id": "p0f21",
+          "rect": [
+            248.75,
+            347.37,
+            329.85,
+            364.81
+          ],
+          "kind": "text",
+          "label": "Zeile 4: Garverfah-\nren**",
+          "row": 3,
+          "column": 3
+        },
+        {
+          "id": "p0f22",
+          "rect": [
+            333.85,
+            347.37,
+            393.6,
+            364.81
+          ],
+          "kind": "text",
+          "label": "Zeile 4: Kerntem-\nperatur",
+          "row": 3,
+          "column": 4
+        },
+        {
+          "id": "p0f23",
+          "rect": [
+            397.6,
+            347.37,
+            492.85,
+            364.81
+          ],
+          "kind": "text",
+          "label": "Zeile 4: Name",
+          "row": 3,
+          "column": 5
+        },
+        {
+          "id": "p0f24",
+          "rect": [
+            59.0,
+            366.81,
+            107.55,
+            384.25
+          ],
+          "kind": "text",
+          "label": "Zeile 5: Datum",
+          "row": 4,
+          "column": 0
+        },
+        {
+          "id": "p0f25",
+          "rect": [
+            111.55,
+            366.81,
+            162.55,
+            384.25
+          ],
+          "kind": "text",
+          "label": "Zeile 5: Uhrzeit",
+          "row": 4,
+          "column": 1
+        },
+        {
+          "id": "p0f26",
+          "rect": [
+            166.55,
+            366.81,
+            244.75,
+            384.25
+          ],
+          "kind": "text",
+          "label": "Zeile 5: Gargut*",
+          "row": 4,
+          "column": 2
+        },
+        {
+          "id": "p0f27",
+          "rect": [
+            248.75,
+            366.81,
+            329.85,
+            384.25
+          ],
+          "kind": "text",
+          "label": "Zeile 5: Garverfah-\nren**",
+          "row": 4,
+          "column": 3
+        },
+        {
+          "id": "p0f28",
+          "rect": [
+            333.85,
+            366.81,
+            393.6,
+            384.25
+          ],
+          "kind": "text",
+          "label": "Zeile 5: Kerntem-\nperatur",
+          "row": 4,
+          "column": 4
+        },
+        {
+          "id": "p0f29",
+          "rect": [
+            397.6,
+            366.81,
+            492.85,
+            384.25
+          ],
+          "kind": "text",
+          "label": "Zeile 5: Name",
+          "row": 4,
+          "column": 5
+        },
+        {
+          "id": "p0f30",
+          "rect": [
+            59.0,
+            386.25,
+            107.55,
+            403.81
+          ],
+          "kind": "text",
+          "label": "Zeile 6: Datum",
+          "row": 5,
+          "column": 0
+        },
+        {
+          "id": "p0f31",
+          "rect": [
+            111.55,
+            386.25,
+            162.55,
+            403.81
+          ],
+          "kind": "text",
+          "label": "Zeile 6: Uhrzeit",
+          "row": 5,
+          "column": 1
+        },
+        {
+          "id": "p0f32",
+          "rect": [
+            166.55,
+            386.25,
+            244.75,
+            403.81
+          ],
+          "kind": "text",
+          "label": "Zeile 6: Gargut*",
+          "row": 5,
+          "column": 2
+        },
+        {
+          "id": "p0f33",
+          "rect": [
+            248.75,
+            386.25,
+            329.85,
+            403.81
+          ],
+          "kind": "text",
+          "label": "Zeile 6: Garverfah-\nren**",
+          "row": 5,
+          "column": 3
+        },
+        {
+          "id": "p0f34",
+          "rect": [
+            333.85,
+            386.25,
+            393.6,
+            403.81
+          ],
+          "kind": "text",
+          "label": "Zeile 6: Kerntem-\nperatur",
+          "row": 5,
+          "column": 4
+        },
+        {
+          "id": "p0f35",
+          "rect": [
+            397.6,
+            386.25,
+            492.85,
+            403.81
+          ],
+          "kind": "text",
+          "label": "Zeile 6: Name",
+          "row": 5,
+          "column": 5
+        },
+        {
+          "id": "p0f36",
+          "rect": [
+            59.0,
+            405.81,
+            107.55,
+            423.25
+          ],
+          "kind": "text",
+          "label": "Zeile 7: Datum",
+          "row": 6,
+          "column": 0
+        },
+        {
+          "id": "p0f37",
+          "rect": [
+            111.55,
+            405.81,
+            162.55,
+            423.25
+          ],
+          "kind": "text",
+          "label": "Zeile 7: Uhrzeit",
+          "row": 6,
+          "column": 1
+        },
+        {
+          "id": "p0f38",
+          "rect": [
+            166.55,
+            405.81,
+            244.75,
+            423.25
+          ],
+          "kind": "text",
+          "label": "Zeile 7: Gargut*",
+          "row": 6,
+          "column": 2
+        },
+        {
+          "id": "p0f39",
+          "rect": [
+            248.75,
+            405.81,
+            329.85,
+            423.25
+          ],
+          "kind": "text",
+          "label": "Zeile 7: Garverfah-\nren**",
+          "row": 6,
+          "column": 3
+        },
+        {
+          "id": "p0f40",
+          "rect": [
+            333.85,
+            405.81,
+            393.6,
+            423.25
+          ],
+          "kind": "text",
+          "label": "Zeile 7: Kerntem-\nperatur",
+          "row": 6,
+          "column": 4
+        },
+        {
+          "id": "p0f41",
+          "rect": [
+            397.6,
+            405.81,
+            492.85,
+            423.25
+          ],
+          "kind": "text",
+          "label": "Zeile 7: Name",
+          "row": 6,
+          "column": 5
+        },
+        {
+          "id": "p0f42",
+          "rect": [
+            59.0,
+            425.25,
+            107.55,
+            442.69
+          ],
+          "kind": "text",
+          "label": "Zeile 8: Datum",
+          "row": 7,
+          "column": 0
+        },
+        {
+          "id": "p0f43",
+          "rect": [
+            111.55,
+            425.25,
+            162.55,
+            442.69
+          ],
+          "kind": "text",
+          "label": "Zeile 8: Uhrzeit",
+          "row": 7,
+          "column": 1
+        },
+        {
+          "id": "p0f44",
+          "rect": [
+            166.55,
+            425.25,
+            244.75,
+            442.69
+          ],
+          "kind": "text",
+          "label": "Zeile 8: Gargut*",
+          "row": 7,
+          "column": 2
+        },
+        {
+          "id": "p0f45",
+          "rect": [
+            248.75,
+            425.25,
+            329.85,
+            442.69
+          ],
+          "kind": "text",
+          "label": "Zeile 8: Garverfah-\nren**",
+          "row": 7,
+          "column": 3
+        },
+        {
+          "id": "p0f46",
+          "rect": [
+            333.85,
+            425.25,
+            393.6,
+            442.69
+          ],
+          "kind": "text",
+          "label": "Zeile 8: Kerntem-\nperatur",
+          "row": 7,
+          "column": 4
+        },
+        {
+          "id": "p0f47",
+          "rect": [
+            397.6,
+            425.25,
+            492.85,
+            442.69
+          ],
+          "kind": "text",
+          "label": "Zeile 8: Name",
+          "row": 7,
+          "column": 5
+        },
+        {
+          "id": "p0f48",
+          "rect": [
+            59.0,
+            444.69,
+            107.55,
+            462.13
+          ],
+          "kind": "text",
+          "label": "Zeile 9: Datum",
+          "row": 8,
+          "column": 0
+        },
+        {
+          "id": "p0f49",
+          "rect": [
+            111.55,
+            444.69,
+            162.55,
+            462.13
+          ],
+          "kind": "text",
+          "label": "Zeile 9: Uhrzeit",
+          "row": 8,
+          "column": 1
+        },
+        {
+          "id": "p0f50",
+          "rect": [
+            166.55,
+            444.69,
+            244.75,
+            462.13
+          ],
+          "kind": "text",
+          "label": "Zeile 9: Gargut*",
+          "row": 8,
+          "column": 2
+        },
+        {
+          "id": "p0f51",
+          "rect": [
+            248.75,
+            444.69,
+            329.85,
+            462.13
+          ],
+          "kind": "text",
+          "label": "Zeile 9: Garverfah-\nren**",
+          "row": 8,
+          "column": 3
+        },
+        {
+          "id": "p0f52",
+          "rect": [
+            333.85,
+            444.69,
+            393.6,
+            462.13
+          ],
+          "kind": "text",
+          "label": "Zeile 9: Kerntem-\nperatur",
+          "row": 8,
+          "column": 4
+        },
+        {
+          "id": "p0f53",
+          "rect": [
+            397.6,
+            444.69,
+            492.85,
+            462.13
+          ],
+          "kind": "text",
+          "label": "Zeile 9: Name",
+          "row": 8,
+          "column": 5
+        },
+        {
+          "id": "p0f54",
+          "rect": [
+            59.0,
+            464.13,
+            107.55,
+            481.71
+          ],
+          "kind": "text",
+          "label": "Zeile 10: Datum",
+          "row": 9,
+          "column": 0
+        },
+        {
+          "id": "p0f55",
+          "rect": [
+            111.55,
+            464.13,
+            162.55,
+            481.71
+          ],
+          "kind": "text",
+          "label": "Zeile 10: Uhrzeit",
+          "row": 9,
+          "column": 1
+        },
+        {
+          "id": "p0f56",
+          "rect": [
+            166.55,
+            464.13,
+            244.75,
+            481.71
+          ],
+          "kind": "text",
+          "label": "Zeile 10: Gargut*",
+          "row": 9,
+          "column": 2
+        },
+        {
+          "id": "p0f57",
+          "rect": [
+            248.75,
+            464.13,
+            329.85,
+            481.71
+          ],
+          "kind": "text",
+          "label": "Zeile 10: Garverfah-\nren**",
+          "row": 9,
+          "column": 3
+        },
+        {
+          "id": "p0f58",
+          "rect": [
+            333.85,
+            464.13,
+            393.6,
+            481.71
+          ],
+          "kind": "text",
+          "label": "Zeile 10: Kerntem-\nperatur",
+          "row": 9,
+          "column": 4
+        },
+        {
+          "id": "p0f59",
+          "rect": [
+            397.6,
+            464.13,
+            492.85,
+            481.71
+          ],
+          "kind": "text",
+          "label": "Zeile 10: Name",
+          "row": 9,
+          "column": 5
+        },
+        {
+          "id": "p0f60",
+          "rect": [
+            59.0,
+            483.71,
+            107.55,
+            501.15
+          ],
+          "kind": "text",
+          "label": "Zeile 11: Datum",
+          "row": 10,
+          "column": 0
+        },
+        {
+          "id": "p0f61",
+          "rect": [
+            111.55,
+            483.71,
+            162.55,
+            501.15
+          ],
+          "kind": "text",
+          "label": "Zeile 11: Uhrzeit",
+          "row": 10,
+          "column": 1
+        },
+        {
+          "id": "p0f62",
+          "rect": [
+            166.55,
+            483.71,
+            244.75,
+            501.15
+          ],
+          "kind": "text",
+          "label": "Zeile 11: Gargut*",
+          "row": 10,
+          "column": 2
+        },
+        {
+          "id": "p0f63",
+          "rect": [
+            248.75,
+            483.71,
+            329.85,
+            501.15
+          ],
+          "kind": "text",
+          "label": "Zeile 11: Garverfah-\nren**",
+          "row": 10,
+          "column": 3
+        },
+        {
+          "id": "p0f64",
+          "rect": [
+            333.85,
+            483.71,
+            393.6,
+            501.15
+          ],
+          "kind": "text",
+          "label": "Zeile 11: Kerntem-\nperatur",
+          "row": 10,
+          "column": 4
+        },
+        {
+          "id": "p0f65",
+          "rect": [
+            397.6,
+            483.71,
+            492.85,
+            501.15
+          ],
+          "kind": "text",
+          "label": "Zeile 11: Name",
+          "row": 10,
+          "column": 5
+        },
+        {
+          "id": "p0f66",
+          "rect": [
+            59.0,
+            503.15,
+            107.55,
+            520.59
+          ],
+          "kind": "text",
+          "label": "Zeile 12: Datum",
+          "row": 11,
+          "column": 0
+        },
+        {
+          "id": "p0f67",
+          "rect": [
+            111.55,
+            503.15,
+            162.55,
+            520.59
+          ],
+          "kind": "text",
+          "label": "Zeile 12: Uhrzeit",
+          "row": 11,
+          "column": 1
+        },
+        {
+          "id": "p0f68",
+          "rect": [
+            166.55,
+            503.15,
+            244.75,
+            520.59
+          ],
+          "kind": "text",
+          "label": "Zeile 12: Gargut*",
+          "row": 11,
+          "column": 2
+        },
+        {
+          "id": "p0f69",
+          "rect": [
+            248.75,
+            503.15,
+            329.85,
+            520.59
+          ],
+          "kind": "text",
+          "label": "Zeile 12: Garverfah-\nren**",
+          "row": 11,
+          "column": 3
+        },
+        {
+          "id": "p0f70",
+          "rect": [
+            333.85,
+            503.15,
+            393.6,
+            520.59
+          ],
+          "kind": "text",
+          "label": "Zeile 12: Kerntem-\nperatur",
+          "row": 11,
+          "column": 4
+        },
+        {
+          "id": "p0f71",
+          "rect": [
+            397.6,
+            503.15,
+            492.85,
+            520.59
+          ],
+          "kind": "text",
+          "label": "Zeile 12: Name",
+          "row": 11,
+          "column": 5
+        },
+        {
+          "id": "p0f72",
+          "rect": [
+            59.0,
+            522.59,
+            107.55,
+            540.15
+          ],
+          "kind": "text",
+          "label": "Zeile 13: Datum",
+          "row": 12,
+          "column": 0
+        },
+        {
+          "id": "p0f73",
+          "rect": [
+            111.55,
+            522.59,
+            162.55,
+            540.15
+          ],
+          "kind": "text",
+          "label": "Zeile 13: Uhrzeit",
+          "row": 12,
+          "column": 1
+        },
+        {
+          "id": "p0f74",
+          "rect": [
+            166.55,
+            522.59,
+            244.75,
+            540.15
+          ],
+          "kind": "text",
+          "label": "Zeile 13: Gargut*",
+          "row": 12,
+          "column": 2
+        },
+        {
+          "id": "p0f75",
+          "rect": [
+            248.75,
+            522.59,
+            329.85,
+            540.15
+          ],
+          "kind": "text",
+          "label": "Zeile 13: Garverfah-\nren**",
+          "row": 12,
+          "column": 3
+        },
+        {
+          "id": "p0f76",
+          "rect": [
+            333.85,
+            522.59,
+            393.6,
+            540.15
+          ],
+          "kind": "text",
+          "label": "Zeile 13: Kerntem-\nperatur",
+          "row": 12,
+          "column": 4
+        },
+        {
+          "id": "p0f77",
+          "rect": [
+            397.6,
+            522.59,
+            492.85,
+            540.15
+          ],
+          "kind": "text",
+          "label": "Zeile 13: Name",
+          "row": 12,
+          "column": 5
+        },
+        {
+          "id": "p0f78",
+          "rect": [
+            59.0,
+            542.15,
+            107.55,
+            559.59
+          ],
+          "kind": "text",
+          "label": "Zeile 14: Datum",
+          "row": 13,
+          "column": 0
+        },
+        {
+          "id": "p0f79",
+          "rect": [
+            111.55,
+            542.15,
+            162.55,
+            559.59
+          ],
+          "kind": "text",
+          "label": "Zeile 14: Uhrzeit",
+          "row": 13,
+          "column": 1
+        },
+        {
+          "id": "p0f80",
+          "rect": [
+            166.55,
+            542.15,
+            244.75,
+            559.59
+          ],
+          "kind": "text",
+          "label": "Zeile 14: Gargut*",
+          "row": 13,
+          "column": 2
+        },
+        {
+          "id": "p0f81",
+          "rect": [
+            248.75,
+            542.15,
+            329.85,
+            559.59
+          ],
+          "kind": "text",
+          "label": "Zeile 14: Garverfah-\nren**",
+          "row": 13,
+          "column": 3
+        },
+        {
+          "id": "p0f82",
+          "rect": [
+            333.85,
+            542.15,
+            393.6,
+            559.59
+          ],
+          "kind": "text",
+          "label": "Zeile 14: Kerntem-\nperatur",
+          "row": 13,
+          "column": 4
+        },
+        {
+          "id": "p0f83",
+          "rect": [
+            397.6,
+            542.15,
+            492.85,
+            559.59
+          ],
+          "kind": "text",
+          "label": "Zeile 14: Name",
+          "row": 13,
+          "column": 5
+        },
+        {
+          "id": "p0f84",
+          "rect": [
+            59.0,
+            561.59,
+            107.55,
+            579.03
+          ],
+          "kind": "text",
+          "label": "Zeile 15: Datum",
+          "row": 14,
+          "column": 0
+        },
+        {
+          "id": "p0f85",
+          "rect": [
+            111.55,
+            561.59,
+            162.55,
+            579.03
+          ],
+          "kind": "text",
+          "label": "Zeile 15: Uhrzeit",
+          "row": 14,
+          "column": 1
+        },
+        {
+          "id": "p0f86",
+          "rect": [
+            166.55,
+            561.59,
+            244.75,
+            579.03
+          ],
+          "kind": "text",
+          "label": "Zeile 15: Gargut*",
+          "row": 14,
+          "column": 2
+        },
+        {
+          "id": "p0f87",
+          "rect": [
+            248.75,
+            561.59,
+            329.85,
+            579.03
+          ],
+          "kind": "text",
+          "label": "Zeile 15: Garverfah-\nren**",
+          "row": 14,
+          "column": 3
+        },
+        {
+          "id": "p0f88",
+          "rect": [
+            333.85,
+            561.59,
+            393.6,
+            579.03
+          ],
+          "kind": "text",
+          "label": "Zeile 15: Kerntem-\nperatur",
+          "row": 14,
+          "column": 4
+        },
+        {
+          "id": "p0f89",
+          "rect": [
+            397.6,
+            561.59,
+            492.85,
+            579.03
+          ],
+          "kind": "text",
+          "label": "Zeile 15: Name",
+          "row": 14,
+          "column": 5
+        },
+        {
+          "id": "p0f90",
+          "rect": [
+            59.0,
+            581.03,
+            107.55,
+            598.62
+          ],
+          "kind": "text",
+          "label": "Zeile 16: Datum",
+          "row": 15,
+          "column": 0
+        },
+        {
+          "id": "p0f91",
+          "rect": [
+            111.55,
+            581.03,
+            162.55,
+            598.62
+          ],
+          "kind": "text",
+          "label": "Zeile 16: Uhrzeit",
+          "row": 15,
+          "column": 1
+        },
+        {
+          "id": "p0f92",
+          "rect": [
+            166.55,
+            581.03,
+            244.75,
+            598.62
+          ],
+          "kind": "text",
+          "label": "Zeile 16: Gargut*",
+          "row": 15,
+          "column": 2
+        },
+        {
+          "id": "p0f93",
+          "rect": [
+            248.75,
+            581.03,
+            329.85,
+            598.62
+          ],
+          "kind": "text",
+          "label": "Zeile 16: Garverfah-\nren**",
+          "row": 15,
+          "column": 3
+        },
+        {
+          "id": "p0f94",
+          "rect": [
+            333.85,
+            581.03,
+            393.6,
+            598.62
+          ],
+          "kind": "text",
+          "label": "Zeile 16: Kerntem-\nperatur",
+          "row": 15,
+          "column": 4
+        },
+        {
+          "id": "p0f95",
+          "rect": [
+            397.6,
+            581.03,
+            492.85,
+            598.62
+          ],
+          "kind": "text",
+          "label": "Zeile 16: Name",
+          "row": 15,
+          "column": 5
+        }
+      ]
+    }
+  ],
+  "repeat_page": 0
+}
