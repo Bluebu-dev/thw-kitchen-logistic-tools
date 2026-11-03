@@ -343,7 +343,7 @@ def audit(u:User=Depends(admin),s:Session=Depends(db)):
 @app.get('/api/health')
 def health():return {'status':'ok'}
 
-FRONTEND=Path(__file__).parent.parent/'frontend'
-app.mount('/assets',StaticFiles(directory=str(FRONTEND)),name='assets')
+FRONTEND=Path(__file__).parent.parent/'frontend'/'dist'
+app.mount('/assets',StaticFiles(directory=str(FRONTEND/'assets')),name='assets')
 @app.get('/')
 def index():return FileResponse(FRONTEND/'index.html')

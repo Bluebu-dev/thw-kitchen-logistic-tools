@@ -52,7 +52,8 @@ geplantem Wartungsfenster). Volume `postgres_data` darf nicht gelöscht werden.
 
 ## Architektur / Schnittstellen
 
-- Frontend: HTML/CSS/Vanilla-JS, vom Backend über `/` und `/assets/*` ausgeliefert.
+- Frontend: Astro mit separaten Komponenten, gemeinsamem Layout und clientseitigem JavaScript; statischer Build vom Backend über `/` und `/assets/*` ausgeliefert.
+- Neue Termine werden ausschließlich in der Veranstaltungsübersicht angelegt.
 - Backend: FastAPI mit JSON-API unter `/api/*`.
 - DB: PostgreSQL 17 im eigenen Container, persistentes Docker-Volume.
 - Authentifizierung: Argon2id-Passwort-Hash; zufällige, **gehashte** serverseitige
@@ -82,3 +83,23 @@ API-Routen: `/api/auth/login`, `/api/auth/me`, `/api/auth/logout`,
   automatisierte Sicherheitsupdates und Berechtigungskonzept prüfen.
 
 Diese Anwendung ist keine offizielle THW-Anwendung.
+
+## Frontend entwickeln
+
+Voraussetzung: Node.js 22 und ein laufendes Backend auf Port 8000.
+
+```bash
+cd frontend
+npm ci
+npm run dev
+```
+
+Astro stellt die Oberfläche unter http://localhost:4321 bereit und leitet
+`/api` an das lokale Backend weiter. Layout und globale Styles liegen unter
+`frontend/src/layouts` und `frontend/src/styles`; die einzelnen Ansichten,
+Navigation und Dialoge unter `frontend/src/components`. Die clientseitige
+Interaktion liegt unter `frontend/src/scripts/app.js`.
+
+`npm run build` erzeugt `frontend/dist`. Diesen Build vor dem direkten Start
+von FastAPI erstellen. Docker baut das Frontend automatisch in einer separaten
+Node-Buildstufe; im laufenden Webcontainer wird kein Node.js benötigt.

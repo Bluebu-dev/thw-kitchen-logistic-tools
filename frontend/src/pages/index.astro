@@ -1,0 +1,27 @@
+---
+import AppLayout from '../layouts/AppLayout.astro';
+import EventsView from '../components/EventsView.astro';
+import DetailView from '../components/DetailView.astro';
+import InventoryView from '../components/InventoryView.astro';
+import UsersView from '../components/UsersView.astro';
+import AuditView from '../components/AuditView.astro';
+import InfoView from '../components/InfoView.astro';
+import Login from '../components/Login.astro';
+import Sidebar from '../components/Sidebar.astro';
+import Dialogs from '../components/Dialogs.astro';
+---
+<AppLayout>
+
+<Login />
+<div id="application" class="shell hidden"><Sidebar />
+<main class="content"><header class="topbar"><div><div class="eyebrow">TECHNISCHES HILFSWERK · ORTSVERBAND PASSAU</div><h1 id="page-title">Veranstaltungen</h1></div><div class="top-actions"><button class="btn subtle" id="export-all">↓ Datensicherung (JSON)</button></div></header><div id="message" class="message hidden" role="status"></div>
+<EventsView />
+<DetailView />
+<InventoryView />
+<UsersView />
+<AuditView />
+<InfoView />
+</main></div><footer class="screen-footer">THW OV Passau · Küchenlogistik <span>Eigenständige Anwendung · Keine offizielle THW-Anwendung</span></footer>
+<Dialogs />
+
+</AppLayout>
