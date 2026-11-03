@@ -1,0 +1,2665 @@
+{
+  "pages": [
+    {
+      "width": 595.3200073242188,
+      "height": 841.9199829101562,
+      "fields": [
+        {
+          "id": "p0f0",
+          "rect": [
+            85.7,
+            132.79,
+            367.12,
+            145.1
+          ],
+          "kind": "text",
+          "label": "Ort:"
+        },
+        {
+          "id": "p0f1",
+          "rect": [
+            132.26,
+            170.71,
+            272.92,
+            183.02
+          ],
+          "kind": "text",
+          "label": "Lieferdatum:"
+        },
+        {
+          "id": "p0f2",
+          "rect": [
+            354.43,
+            170.71,
+            507.36,
+            183.02
+          ],
+          "kind": "text",
+          "label": "Lieferdatum: _______________________ Uhrzeit:"
+        },
+        {
+          "id": "p0f3",
+          "rect": [
+            126.14,
+            208.63,
+            511.6,
+            220.94
+          ],
+          "kind": "text",
+          "label": "Lieferfirma:"
+        },
+        {
+          "id": "p0f4",
+          "rect": [
+            239.45,
+            249.71,
+            248.45,
+            258.71
+          ],
+          "kind": "checkbox",
+          "label": "Lieferfahrzeug/Hygiene ok"
+        },
+        {
+          "id": "p0f5",
+          "rect": [
+            381.07,
+            249.71,
+            390.07,
+            258.71
+          ],
+          "kind": "checkbox",
+          "label": "Lieferfahrzeug/Hygiene ok □ beanstandet"
+        },
+        {
+          "id": "p0f6",
+          "rect": [
+            395.71,
+            249.43,
+            505.79,
+            261.74
+          ],
+          "kind": "text",
+          "label": "Lieferfahrzeug/Hygiene ok □ beanstandet □,"
+        },
+        {
+          "id": "p0f7",
+          "rect": [
+            239.45,
+            632.4,
+            248.45,
+            641.4
+          ],
+          "kind": "checkbox",
+          "label": "Ware angenommen ja"
+        },
+        {
+          "id": "p0f8",
+          "rect": [
+            345.67,
+            632.4,
+            354.67,
+            641.4
+          ],
+          "kind": "checkbox",
+          "label": "Ware angenommen ja □ nein"
+        },
+        {
+          "id": "p0f9",
+          "rect": [
+            239.45,
+            651.36,
+            248.45,
+            660.36
+          ],
+          "kind": "checkbox",
+          "label": "teilweise"
+        },
+        {
+          "id": "p0f10",
+          "rect": [
+            273.13,
+            648.36,
+            536.14,
+            660.67
+          ],
+          "kind": "text",
+          "label": "teilweise □,"
+        },
+        {
+          "id": "p0f11",
+          "rect": [
+            62.4,
+            705.51,
+            190.94,
+            717.82
+          ],
+          "kind": "text",
+          "label": "Feld 12"
+        },
+        {
+          "id": "p0f12",
+          "rect": [
+            239.45,
+            705.51,
+            367.99,
+            717.82
+          ],
+          "kind": "text",
+          "label": "_____________________"
+        },
+        {
+          "id": "p0f13",
+          "rect": [
+            59.0,
+            339.45,
+            166.74,
+            356.89
+          ],
+          "kind": "text",
+          "label": "Zeile 1: Produkt",
+          "row": 0,
+          "column": 0
+        },
+        {
+          "id": "p0f14",
+          "rect": [
+            177.74,
+            342.45,
+            186.74,
+            351.45
+          ],
+          "kind": "checkbox",
+          "label": "Zeile 1: Verpackung ja",
+          "row": 0,
+          "column": 1,
+          "choice": "ja"
+        },
+        {
+          "id": "p0f15",
+          "rect": [
+            206.05,
+            342.45,
+            215.05,
+            351.45
+          ],
+          "kind": "checkbox",
+          "label": "Zeile 1: Verpackung nein",
+          "row": 0,
+          "column": 1,
+          "choice": "nein"
+        },
+        {
+          "id": "p0f16",
+          "rect": [
+            234.36,
+            342.45,
+            243.36,
+            351.45
+          ],
+          "kind": "checkbox",
+          "label": "Zeile 1: Ware ja",
+          "row": 0,
+          "column": 2,
+          "choice": "ja"
+        },
+        {
+          "id": "p0f17",
+          "rect": [
+            262.71,
+            342.45,
+            271.71,
+            351.45
+          ],
+          "kind": "checkbox",
+          "label": "Zeile 1: Ware nein",
+          "row": 0,
+          "column": 2,
+          "choice": "nein"
+        },
+        {
+          "id": "p0f18",
+          "rect": [
+            291.05,
+            342.45,
+            300.05,
+            351.45
+          ],
+          "kind": "checkbox",
+          "label": "Zeile 1: MHD/VD ja",
+          "row": 0,
+          "column": 3,
+          "choice": "ja"
+        },
+        {
+          "id": "p0f19",
+          "rect": [
+            319.41,
+            342.45,
+            328.41,
+            351.45
+          ],
+          "kind": "checkbox",
+          "label": "Zeile 1: MHD/VD nein",
+          "row": 0,
+          "column": 3,
+          "choice": "nein"
+        },
+        {
+          "id": "p0f20",
+          "rect": [
+            347.78,
+            342.45,
+            356.78,
+            351.45
+          ],
+          "kind": "checkbox",
+          "label": "Zeile 1: Schädlinge ja",
+          "row": 0,
+          "column": 4,
+          "choice": "ja"
+        },
+        {
+          "id": "p0f21",
+          "rect": [
+            376.12,
+            342.45,
+            385.12,
+            351.45
+          ],
+          "kind": "checkbox",
+          "label": "Zeile 1: Schädlinge nein",
+          "row": 0,
+          "column": 4,
+          "choice": "nein"
+        },
+        {
+          "id": "p0f22",
+          "rect": [
+            404.47,
+            342.45,
+            413.47,
+            351.45
+          ],
+          "kind": "checkbox",
+          "label": "Zeile 1: Schimmel ja",
+          "row": 0,
+          "column": 5,
+          "choice": "ja"
+        },
+        {
+          "id": "p0f23",
+          "rect": [
+            432.83,
+            342.45,
+            441.83,
+            351.45
+          ],
+          "kind": "checkbox",
+          "label": "Zeile 1: Schimmel nein",
+          "row": 0,
+          "column": 5,
+          "choice": "nein"
+        },
+        {
+          "id": "p0f24",
+          "rect": [
+            454.18,
+            339.45,
+            499.94,
+            356.89
+          ],
+          "kind": "text",
+          "label": "Zeile 1: Soll °C",
+          "row": 0,
+          "column": 6
+        },
+        {
+          "id": "p0f25",
+          "rect": [
+            503.94,
+            339.45,
+            549.51,
+            356.89
+          ],
+          "kind": "text",
+          "label": "Zeile 1: Ist °C",
+          "row": 0,
+          "column": 7
+        },
+        {
+          "id": "p0f26",
+          "rect": [
+            59.0,
+            358.89,
+            166.74,
+            376.45
+          ],
+          "kind": "text",
+          "label": "Zeile 2: Produkt",
+          "row": 1,
+          "column": 0
+        },
+        {
+          "id": "p0f27",
+          "rect": [
+            177.74,
+            361.89,
+            186.74,
+            370.89
+          ],
+          "kind": "checkbox",
+          "label": "Zeile 2: Verpackung ja",
+          "row": 1,
+          "column": 1,
+          "choice": "ja"
+        },
+        {
+          "id": "p0f28",
+          "rect": [
+            206.05,
+            361.89,
+            215.05,
+            370.89
+          ],
+          "kind": "checkbox",
+          "label": "Zeile 2: Verpackung nein",
+          "row": 1,
+          "column": 1,
+          "choice": "nein"
+        },
+        {
+          "id": "p0f29",
+          "rect": [
+            234.36,
+            361.89,
+            243.36,
+            370.89
+          ],
+          "kind": "checkbox",
+          "label": "Zeile 2: Ware ja",
+          "row": 1,
+          "column": 2,
+          "choice": "ja"
+        },
+        {
+          "id": "p0f30",
+          "rect": [
+            262.71,
+            361.89,
+            271.71,
+            370.89
+          ],
+          "kind": "checkbox",
+          "label": "Zeile 2: Ware nein",
+          "row": 1,
+          "column": 2,
+          "choice": "nein"
+        },
+        {
+          "id": "p0f31",
+          "rect": [
+            291.05,
+            361.89,
+            300.05,
+            370.89
+          ],
+          "kind": "checkbox",
+          "label": "Zeile 2: MHD/VD ja",
+          "row": 1,
+          "column": 3,
+          "choice": "ja"
+        },
+        {
+          "id": "p0f32",
+          "rect": [
+            319.41,
+            361.89,
+            328.41,
+            370.89
+          ],
+          "kind": "checkbox",
+          "label": "Zeile 2: MHD/VD nein",
+          "row": 1,
+          "column": 3,
+          "choice": "nein"
+        },
+        {
+          "id": "p0f33",
+          "rect": [
+            347.78,
+            361.89,
+            356.78,
+            370.89
+          ],
+          "kind": "checkbox",
+          "label": "Zeile 2: Schädlinge ja",
+          "row": 1,
+          "column": 4,
+          "choice": "ja"
+        },
+        {
+          "id": "p0f34",
+          "rect": [
+            376.12,
+            361.89,
+            385.12,
+            370.89
+          ],
+          "kind": "checkbox",
+          "label": "Zeile 2: Schädlinge nein",
+          "row": 1,
+          "column": 4,
+          "choice": "nein"
+        },
+        {
+          "id": "p0f35",
+          "rect": [
+            404.47,
+            361.89,
+            413.47,
+            370.89
+          ],
+          "kind": "checkbox",
+          "label": "Zeile 2: Schimmel ja",
+          "row": 1,
+          "column": 5,
+          "choice": "ja"
+        },
+        {
+          "id": "p0f36",
+          "rect": [
+            432.83,
+            361.89,
+            441.83,
+            370.89
+          ],
+          "kind": "checkbox",
+          "label": "Zeile 2: Schimmel nein",
+          "row": 1,
+          "column": 5,
+          "choice": "nein"
+        },
+        {
+          "id": "p0f37",
+          "rect": [
+            454.18,
+            358.89,
+            499.94,
+            376.45
+          ],
+          "kind": "text",
+          "label": "Zeile 2: Soll °C",
+          "row": 1,
+          "column": 6
+        },
+        {
+          "id": "p0f38",
+          "rect": [
+            503.94,
+            358.89,
+            549.51,
+            376.45
+          ],
+          "kind": "text",
+          "label": "Zeile 2: Ist °C",
+          "row": 1,
+          "column": 7
+        },
+        {
+          "id": "p0f39",
+          "rect": [
+            59.0,
+            378.45,
+            166.74,
+            395.89
+          ],
+          "kind": "text",
+          "label": "Zeile 3: Produkt",
+          "row": 2,
+          "column": 0
+        },
+        {
+          "id": "p0f40",
+          "rect": [
+            177.74,
+            381.45,
+            186.74,
+            390.45
+          ],
+          "kind": "checkbox",
+          "label": "Zeile 3: Verpackung ja",
+          "row": 2,
+          "column": 1,
+          "choice": "ja"
+        },
+        {
+          "id": "p0f41",
+          "rect": [
+            206.05,
+            381.45,
+            215.05,
+            390.45
+          ],
+          "kind": "checkbox",
+          "label": "Zeile 3: Verpackung nein",
+          "row": 2,
+          "column": 1,
+          "choice": "nein"
+        },
+        {
+          "id": "p0f42",
+          "rect": [
+            234.36,
+            381.45,
+            243.36,
+            390.45
+          ],
+          "kind": "checkbox",
+          "label": "Zeile 3: Ware ja",
+          "row": 2,
+          "column": 2,
+          "choice": "ja"
+        },
+        {
+          "id": "p0f43",
+          "rect": [
+            262.71,
+            381.45,
+            271.71,
+            390.45
+          ],
+          "kind": "checkbox",
+          "label": "Zeile 3: Ware nein",
+          "row": 2,
+          "column": 2,
+          "choice": "nein"
+        },
+        {
+          "id": "p0f44",
+          "rect": [
+            291.05,
+            381.45,
+            300.05,
+            390.45
+          ],
+          "kind": "checkbox",
+          "label": "Zeile 3: MHD/VD ja",
+          "row": 2,
+          "column": 3,
+          "choice": "ja"
+        },
+        {
+          "id": "p0f45",
+          "rect": [
+            319.41,
+            381.45,
+            328.41,
+            390.45
+          ],
+          "kind": "checkbox",
+          "label": "Zeile 3: MHD/VD nein",
+          "row": 2,
+          "column": 3,
+          "choice": "nein"
+        },
+        {
+          "id": "p0f46",
+          "rect": [
+            347.78,
+            381.45,
+            356.78,
+            390.45
+          ],
+          "kind": "checkbox",
+          "label": "Zeile 3: Schädlinge ja",
+          "row": 2,
+          "column": 4,
+          "choice": "ja"
+        },
+        {
+          "id": "p0f47",
+          "rect": [
+            376.12,
+            381.45,
+            385.12,
+            390.45
+          ],
+          "kind": "checkbox",
+          "label": "Zeile 3: Schädlinge nein",
+          "row": 2,
+          "column": 4,
+          "choice": "nein"
+        },
+        {
+          "id": "p0f48",
+          "rect": [
+            404.47,
+            381.45,
+            413.47,
+            390.45
+          ],
+          "kind": "checkbox",
+          "label": "Zeile 3: Schimmel ja",
+          "row": 2,
+          "column": 5,
+          "choice": "ja"
+        },
+        {
+          "id": "p0f49",
+          "rect": [
+            432.83,
+            381.45,
+            441.83,
+            390.45
+          ],
+          "kind": "checkbox",
+          "label": "Zeile 3: Schimmel nein",
+          "row": 2,
+          "column": 5,
+          "choice": "nein"
+        },
+        {
+          "id": "p0f50",
+          "rect": [
+            454.18,
+            378.45,
+            499.94,
+            395.89
+          ],
+          "kind": "text",
+          "label": "Zeile 3: Soll °C",
+          "row": 2,
+          "column": 6
+        },
+        {
+          "id": "p0f51",
+          "rect": [
+            503.94,
+            378.45,
+            549.51,
+            395.89
+          ],
+          "kind": "text",
+          "label": "Zeile 3: Ist °C",
+          "row": 2,
+          "column": 7
+        },
+        {
+          "id": "p0f52",
+          "rect": [
+            59.0,
+            397.89,
+            166.74,
+            415.33
+          ],
+          "kind": "text",
+          "label": "Zeile 4: Produkt",
+          "row": 3,
+          "column": 0
+        },
+        {
+          "id": "p0f53",
+          "rect": [
+            177.74,
+            400.89,
+            186.74,
+            409.89
+          ],
+          "kind": "checkbox",
+          "label": "Zeile 4: Verpackung ja",
+          "row": 3,
+          "column": 1,
+          "choice": "ja"
+        },
+        {
+          "id": "p0f54",
+          "rect": [
+            206.05,
+            400.89,
+            215.05,
+            409.89
+          ],
+          "kind": "checkbox",
+          "label": "Zeile 4: Verpackung nein",
+          "row": 3,
+          "column": 1,
+          "choice": "nein"
+        },
+        {
+          "id": "p0f55",
+          "rect": [
+            234.36,
+            400.89,
+            243.36,
+            409.89
+          ],
+          "kind": "checkbox",
+          "label": "Zeile 4: Ware ja",
+          "row": 3,
+          "column": 2,
+          "choice": "ja"
+        },
+        {
+          "id": "p0f56",
+          "rect": [
+            262.71,
+            400.89,
+            271.71,
+            409.89
+          ],
+          "kind": "checkbox",
+          "label": "Zeile 4: Ware nein",
+          "row": 3,
+          "column": 2,
+          "choice": "nein"
+        },
+        {
+          "id": "p0f57",
+          "rect": [
+            291.05,
+            400.89,
+            300.05,
+            409.89
+          ],
+          "kind": "checkbox",
+          "label": "Zeile 4: MHD/VD ja",
+          "row": 3,
+          "column": 3,
+          "choice": "ja"
+        },
+        {
+          "id": "p0f58",
+          "rect": [
+            319.41,
+            400.89,
+            328.41,
+            409.89
+          ],
+          "kind": "checkbox",
+          "label": "Zeile 4: MHD/VD nein",
+          "row": 3,
+          "column": 3,
+          "choice": "nein"
+        },
+        {
+          "id": "p0f59",
+          "rect": [
+            347.78,
+            400.89,
+            356.78,
+            409.89
+          ],
+          "kind": "checkbox",
+          "label": "Zeile 4: Schädlinge ja",
+          "row": 3,
+          "column": 4,
+          "choice": "ja"
+        },
+        {
+          "id": "p0f60",
+          "rect": [
+            376.12,
+            400.89,
+            385.12,
+            409.89
+          ],
+          "kind": "checkbox",
+          "label": "Zeile 4: Schädlinge nein",
+          "row": 3,
+          "column": 4,
+          "choice": "nein"
+        },
+        {
+          "id": "p0f61",
+          "rect": [
+            404.47,
+            400.89,
+            413.47,
+            409.89
+          ],
+          "kind": "checkbox",
+          "label": "Zeile 4: Schimmel ja",
+          "row": 3,
+          "column": 5,
+          "choice": "ja"
+        },
+        {
+          "id": "p0f62",
+          "rect": [
+            432.83,
+            400.89,
+            441.83,
+            409.89
+          ],
+          "kind": "checkbox",
+          "label": "Zeile 4: Schimmel nein",
+          "row": 3,
+          "column": 5,
+          "choice": "nein"
+        },
+        {
+          "id": "p0f63",
+          "rect": [
+            454.18,
+            397.89,
+            499.94,
+            415.33
+          ],
+          "kind": "text",
+          "label": "Zeile 4: Soll °C",
+          "row": 3,
+          "column": 6
+        },
+        {
+          "id": "p0f64",
+          "rect": [
+            503.94,
+            397.89,
+            549.51,
+            415.33
+          ],
+          "kind": "text",
+          "label": "Zeile 4: Ist °C",
+          "row": 3,
+          "column": 7
+        },
+        {
+          "id": "p0f65",
+          "rect": [
+            59.0,
+            417.33,
+            166.74,
+            434.81
+          ],
+          "kind": "text",
+          "label": "Zeile 5: Produkt",
+          "row": 4,
+          "column": 0
+        },
+        {
+          "id": "p0f66",
+          "rect": [
+            177.74,
+            420.33,
+            186.74,
+            429.33
+          ],
+          "kind": "checkbox",
+          "label": "Zeile 5: Verpackung ja",
+          "row": 4,
+          "column": 1,
+          "choice": "ja"
+        },
+        {
+          "id": "p0f67",
+          "rect": [
+            206.05,
+            420.33,
+            215.05,
+            429.33
+          ],
+          "kind": "checkbox",
+          "label": "Zeile 5: Verpackung nein",
+          "row": 4,
+          "column": 1,
+          "choice": "nein"
+        },
+        {
+          "id": "p0f68",
+          "rect": [
+            234.36,
+            420.33,
+            243.36,
+            429.33
+          ],
+          "kind": "checkbox",
+          "label": "Zeile 5: Ware ja",
+          "row": 4,
+          "column": 2,
+          "choice": "ja"
+        },
+        {
+          "id": "p0f69",
+          "rect": [
+            262.71,
+            420.33,
+            271.71,
+            429.33
+          ],
+          "kind": "checkbox",
+          "label": "Zeile 5: Ware nein",
+          "row": 4,
+          "column": 2,
+          "choice": "nein"
+        },
+        {
+          "id": "p0f70",
+          "rect": [
+            291.05,
+            420.33,
+            300.05,
+            429.33
+          ],
+          "kind": "checkbox",
+          "label": "Zeile 5: MHD/VD ja",
+          "row": 4,
+          "column": 3,
+          "choice": "ja"
+        },
+        {
+          "id": "p0f71",
+          "rect": [
+            319.41,
+            420.33,
+            328.41,
+            429.33
+          ],
+          "kind": "checkbox",
+          "label": "Zeile 5: MHD/VD nein",
+          "row": 4,
+          "column": 3,
+          "choice": "nein"
+        },
+        {
+          "id": "p0f72",
+          "rect": [
+            347.78,
+            420.33,
+            356.78,
+            429.33
+          ],
+          "kind": "checkbox",
+          "label": "Zeile 5: Schädlinge ja",
+          "row": 4,
+          "column": 4,
+          "choice": "ja"
+        },
+        {
+          "id": "p0f73",
+          "rect": [
+            376.12,
+            420.33,
+            385.12,
+            429.33
+          ],
+          "kind": "checkbox",
+          "label": "Zeile 5: Schädlinge nein",
+          "row": 4,
+          "column": 4,
+          "choice": "nein"
+        },
+        {
+          "id": "p0f74",
+          "rect": [
+            404.47,
+            420.33,
+            413.47,
+            429.33
+          ],
+          "kind": "checkbox",
+          "label": "Zeile 5: Schimmel ja",
+          "row": 4,
+          "column": 5,
+          "choice": "ja"
+        },
+        {
+          "id": "p0f75",
+          "rect": [
+            432.83,
+            420.33,
+            441.83,
+            429.33
+          ],
+          "kind": "checkbox",
+          "label": "Zeile 5: Schimmel nein",
+          "row": 4,
+          "column": 5,
+          "choice": "nein"
+        },
+        {
+          "id": "p0f76",
+          "rect": [
+            454.18,
+            417.33,
+            499.94,
+            434.81
+          ],
+          "kind": "text",
+          "label": "Zeile 5: Soll °C",
+          "row": 4,
+          "column": 6
+        },
+        {
+          "id": "p0f77",
+          "rect": [
+            503.94,
+            417.33,
+            549.51,
+            434.81
+          ],
+          "kind": "text",
+          "label": "Zeile 5: Ist °C",
+          "row": 4,
+          "column": 7
+        },
+        {
+          "id": "p0f78",
+          "rect": [
+            59.0,
+            436.81,
+            166.74,
+            454.33
+          ],
+          "kind": "text",
+          "label": "Zeile 6: Produkt",
+          "row": 5,
+          "column": 0
+        },
+        {
+          "id": "p0f79",
+          "rect": [
+            177.74,
+            439.81,
+            186.74,
+            448.81
+          ],
+          "kind": "checkbox",
+          "label": "Zeile 6: Verpackung ja",
+          "row": 5,
+          "column": 1,
+          "choice": "ja"
+        },
+        {
+          "id": "p0f80",
+          "rect": [
+            206.05,
+            439.81,
+            215.05,
+            448.81
+          ],
+          "kind": "checkbox",
+          "label": "Zeile 6: Verpackung nein",
+          "row": 5,
+          "column": 1,
+          "choice": "nein"
+        },
+        {
+          "id": "p0f81",
+          "rect": [
+            234.36,
+            439.81,
+            243.36,
+            448.81
+          ],
+          "kind": "checkbox",
+          "label": "Zeile 6: Ware ja",
+          "row": 5,
+          "column": 2,
+          "choice": "ja"
+        },
+        {
+          "id": "p0f82",
+          "rect": [
+            262.71,
+            439.81,
+            271.71,
+            448.81
+          ],
+          "kind": "checkbox",
+          "label": "Zeile 6: Ware nein",
+          "row": 5,
+          "column": 2,
+          "choice": "nein"
+        },
+        {
+          "id": "p0f83",
+          "rect": [
+            291.05,
+            439.81,
+            300.05,
+            448.81
+          ],
+          "kind": "checkbox",
+          "label": "Zeile 6: MHD/VD ja",
+          "row": 5,
+          "column": 3,
+          "choice": "ja"
+        },
+        {
+          "id": "p0f84",
+          "rect": [
+            319.41,
+            439.81,
+            328.41,
+            448.81
+          ],
+          "kind": "checkbox",
+          "label": "Zeile 6: MHD/VD nein",
+          "row": 5,
+          "column": 3,
+          "choice": "nein"
+        },
+        {
+          "id": "p0f85",
+          "rect": [
+            347.78,
+            439.81,
+            356.78,
+            448.81
+          ],
+          "kind": "checkbox",
+          "label": "Zeile 6: Schädlinge ja",
+          "row": 5,
+          "column": 4,
+          "choice": "ja"
+        },
+        {
+          "id": "p0f86",
+          "rect": [
+            376.12,
+            439.81,
+            385.12,
+            448.81
+          ],
+          "kind": "checkbox",
+          "label": "Zeile 6: Schädlinge nein",
+          "row": 5,
+          "column": 4,
+          "choice": "nein"
+        },
+        {
+          "id": "p0f87",
+          "rect": [
+            404.47,
+            439.81,
+            413.47,
+            448.81
+          ],
+          "kind": "checkbox",
+          "label": "Zeile 6: Schimmel ja",
+          "row": 5,
+          "column": 5,
+          "choice": "ja"
+        },
+        {
+          "id": "p0f88",
+          "rect": [
+            432.83,
+            439.81,
+            441.83,
+            448.81
+          ],
+          "kind": "checkbox",
+          "label": "Zeile 6: Schimmel nein",
+          "row": 5,
+          "column": 5,
+          "choice": "nein"
+        },
+        {
+          "id": "p0f89",
+          "rect": [
+            454.18,
+            436.81,
+            499.94,
+            454.33
+          ],
+          "kind": "text",
+          "label": "Zeile 6: Soll °C",
+          "row": 5,
+          "column": 6
+        },
+        {
+          "id": "p0f90",
+          "rect": [
+            503.94,
+            436.81,
+            549.51,
+            454.33
+          ],
+          "kind": "text",
+          "label": "Zeile 6: Ist °C",
+          "row": 5,
+          "column": 7
+        },
+        {
+          "id": "p0f91",
+          "rect": [
+            59.0,
+            456.33,
+            166.74,
+            473.79
+          ],
+          "kind": "text",
+          "label": "Zeile 7: Produkt",
+          "row": 6,
+          "column": 0
+        },
+        {
+          "id": "p0f92",
+          "rect": [
+            177.74,
+            459.33,
+            186.74,
+            468.33
+          ],
+          "kind": "checkbox",
+          "label": "Zeile 7: Verpackung ja",
+          "row": 6,
+          "column": 1,
+          "choice": "ja"
+        },
+        {
+          "id": "p0f93",
+          "rect": [
+            206.05,
+            459.33,
+            215.05,
+            468.33
+          ],
+          "kind": "checkbox",
+          "label": "Zeile 7: Verpackung nein",
+          "row": 6,
+          "column": 1,
+          "choice": "nein"
+        },
+        {
+          "id": "p0f94",
+          "rect": [
+            234.36,
+            459.33,
+            243.36,
+            468.33
+          ],
+          "kind": "checkbox",
+          "label": "Zeile 7: Ware ja",
+          "row": 6,
+          "column": 2,
+          "choice": "ja"
+        },
+        {
+          "id": "p0f95",
+          "rect": [
+            262.71,
+            459.33,
+            271.71,
+            468.33
+          ],
+          "kind": "checkbox",
+          "label": "Zeile 7: Ware nein",
+          "row": 6,
+          "column": 2,
+          "choice": "nein"
+        },
+        {
+          "id": "p0f96",
+          "rect": [
+            291.05,
+            459.33,
+            300.05,
+            468.33
+          ],
+          "kind": "checkbox",
+          "label": "Zeile 7: MHD/VD ja",
+          "row": 6,
+          "column": 3,
+          "choice": "ja"
+        },
+        {
+          "id": "p0f97",
+          "rect": [
+            319.41,
+            459.33,
+            328.41,
+            468.33
+          ],
+          "kind": "checkbox",
+          "label": "Zeile 7: MHD/VD nein",
+          "row": 6,
+          "column": 3,
+          "choice": "nein"
+        },
+        {
+          "id": "p0f98",
+          "rect": [
+            347.78,
+            459.33,
+            356.78,
+            468.33
+          ],
+          "kind": "checkbox",
+          "label": "Zeile 7: Schädlinge ja",
+          "row": 6,
+          "column": 4,
+          "choice": "ja"
+        },
+        {
+          "id": "p0f99",
+          "rect": [
+            376.12,
+            459.33,
+            385.12,
+            468.33
+          ],
+          "kind": "checkbox",
+          "label": "Zeile 7: Schädlinge nein",
+          "row": 6,
+          "column": 4,
+          "choice": "nein"
+        },
+        {
+          "id": "p0f100",
+          "rect": [
+            404.47,
+            459.33,
+            413.47,
+            468.33
+          ],
+          "kind": "checkbox",
+          "label": "Zeile 7: Schimmel ja",
+          "row": 6,
+          "column": 5,
+          "choice": "ja"
+        },
+        {
+          "id": "p0f101",
+          "rect": [
+            432.83,
+            459.33,
+            441.83,
+            468.33
+          ],
+          "kind": "checkbox",
+          "label": "Zeile 7: Schimmel nein",
+          "row": 6,
+          "column": 5,
+          "choice": "nein"
+        },
+        {
+          "id": "p0f102",
+          "rect": [
+            454.18,
+            456.33,
+            499.94,
+            473.79
+          ],
+          "kind": "text",
+          "label": "Zeile 7: Soll °C",
+          "row": 6,
+          "column": 6
+        },
+        {
+          "id": "p0f103",
+          "rect": [
+            503.94,
+            456.33,
+            549.51,
+            473.79
+          ],
+          "kind": "text",
+          "label": "Zeile 7: Ist °C",
+          "row": 6,
+          "column": 7
+        },
+        {
+          "id": "p0f104",
+          "rect": [
+            59.0,
+            475.79,
+            166.74,
+            493.23
+          ],
+          "kind": "text",
+          "label": "Zeile 8: Produkt",
+          "row": 7,
+          "column": 0
+        },
+        {
+          "id": "p0f105",
+          "rect": [
+            177.74,
+            478.79,
+            186.74,
+            487.79
+          ],
+          "kind": "checkbox",
+          "label": "Zeile 8: Verpackung ja",
+          "row": 7,
+          "column": 1,
+          "choice": "ja"
+        },
+        {
+          "id": "p0f106",
+          "rect": [
+            206.05,
+            478.79,
+            215.05,
+            487.79
+          ],
+          "kind": "checkbox",
+          "label": "Zeile 8: Verpackung nein",
+          "row": 7,
+          "column": 1,
+          "choice": "nein"
+        },
+        {
+          "id": "p0f107",
+          "rect": [
+            234.36,
+            478.79,
+            243.36,
+            487.79
+          ],
+          "kind": "checkbox",
+          "label": "Zeile 8: Ware ja",
+          "row": 7,
+          "column": 2,
+          "choice": "ja"
+        },
+        {
+          "id": "p0f108",
+          "rect": [
+            262.71,
+            478.79,
+            271.71,
+            487.79
+          ],
+          "kind": "checkbox",
+          "label": "Zeile 8: Ware nein",
+          "row": 7,
+          "column": 2,
+          "choice": "nein"
+        },
+        {
+          "id": "p0f109",
+          "rect": [
+            291.05,
+            478.79,
+            300.05,
+            487.79
+          ],
+          "kind": "checkbox",
+          "label": "Zeile 8: MHD/VD ja",
+          "row": 7,
+          "column": 3,
+          "choice": "ja"
+        },
+        {
+          "id": "p0f110",
+          "rect": [
+            319.41,
+            478.79,
+            328.41,
+            487.79
+          ],
+          "kind": "checkbox",
+          "label": "Zeile 8: MHD/VD nein",
+          "row": 7,
+          "column": 3,
+          "choice": "nein"
+        },
+        {
+          "id": "p0f111",
+          "rect": [
+            347.78,
+            478.79,
+            356.78,
+            487.79
+          ],
+          "kind": "checkbox",
+          "label": "Zeile 8: Schädlinge ja",
+          "row": 7,
+          "column": 4,
+          "choice": "ja"
+        },
+        {
+          "id": "p0f112",
+          "rect": [
+            376.12,
+            478.79,
+            385.12,
+            487.79
+          ],
+          "kind": "checkbox",
+          "label": "Zeile 8: Schädlinge nein",
+          "row": 7,
+          "column": 4,
+          "choice": "nein"
+        },
+        {
+          "id": "p0f113",
+          "rect": [
+            404.47,
+            478.79,
+            413.47,
+            487.79
+          ],
+          "kind": "checkbox",
+          "label": "Zeile 8: Schimmel ja",
+          "row": 7,
+          "column": 5,
+          "choice": "ja"
+        },
+        {
+          "id": "p0f114",
+          "rect": [
+            432.83,
+            478.79,
+            441.83,
+            487.79
+          ],
+          "kind": "checkbox",
+          "label": "Zeile 8: Schimmel nein",
+          "row": 7,
+          "column": 5,
+          "choice": "nein"
+        },
+        {
+          "id": "p0f115",
+          "rect": [
+            454.18,
+            475.79,
+            499.94,
+            493.23
+          ],
+          "kind": "text",
+          "label": "Zeile 8: Soll °C",
+          "row": 7,
+          "column": 6
+        },
+        {
+          "id": "p0f116",
+          "rect": [
+            503.94,
+            475.79,
+            549.51,
+            493.23
+          ],
+          "kind": "text",
+          "label": "Zeile 8: Ist °C",
+          "row": 7,
+          "column": 7
+        },
+        {
+          "id": "p0f117",
+          "rect": [
+            59.0,
+            495.23,
+            166.74,
+            512.71
+          ],
+          "kind": "text",
+          "label": "Zeile 9: Produkt",
+          "row": 8,
+          "column": 0
+        },
+        {
+          "id": "p0f118",
+          "rect": [
+            177.74,
+            498.23,
+            186.74,
+            507.23
+          ],
+          "kind": "checkbox",
+          "label": "Zeile 9: Verpackung ja",
+          "row": 8,
+          "column": 1,
+          "choice": "ja"
+        },
+        {
+          "id": "p0f119",
+          "rect": [
+            206.05,
+            498.23,
+            215.05,
+            507.23
+          ],
+          "kind": "checkbox",
+          "label": "Zeile 9: Verpackung nein",
+          "row": 8,
+          "column": 1,
+          "choice": "nein"
+        },
+        {
+          "id": "p0f120",
+          "rect": [
+            234.36,
+            498.23,
+            243.36,
+            507.23
+          ],
+          "kind": "checkbox",
+          "label": "Zeile 9: Ware ja",
+          "row": 8,
+          "column": 2,
+          "choice": "ja"
+        },
+        {
+          "id": "p0f121",
+          "rect": [
+            262.71,
+            498.23,
+            271.71,
+            507.23
+          ],
+          "kind": "checkbox",
+          "label": "Zeile 9: Ware nein",
+          "row": 8,
+          "column": 2,
+          "choice": "nein"
+        },
+        {
+          "id": "p0f122",
+          "rect": [
+            291.05,
+            498.23,
+            300.05,
+            507.23
+          ],
+          "kind": "checkbox",
+          "label": "Zeile 9: MHD/VD ja",
+          "row": 8,
+          "column": 3,
+          "choice": "ja"
+        },
+        {
+          "id": "p0f123",
+          "rect": [
+            319.41,
+            498.23,
+            328.41,
+            507.23
+          ],
+          "kind": "checkbox",
+          "label": "Zeile 9: MHD/VD nein",
+          "row": 8,
+          "column": 3,
+          "choice": "nein"
+        },
+        {
+          "id": "p0f124",
+          "rect": [
+            347.78,
+            498.23,
+            356.78,
+            507.23
+          ],
+          "kind": "checkbox",
+          "label": "Zeile 9: Schädlinge ja",
+          "row": 8,
+          "column": 4,
+          "choice": "ja"
+        },
+        {
+          "id": "p0f125",
+          "rect": [
+            376.12,
+            498.23,
+            385.12,
+            507.23
+          ],
+          "kind": "checkbox",
+          "label": "Zeile 9: Schädlinge nein",
+          "row": 8,
+          "column": 4,
+          "choice": "nein"
+        },
+        {
+          "id": "p0f126",
+          "rect": [
+            404.47,
+            498.23,
+            413.47,
+            507.23
+          ],
+          "kind": "checkbox",
+          "label": "Zeile 9: Schimmel ja",
+          "row": 8,
+          "column": 5,
+          "choice": "ja"
+        },
+        {
+          "id": "p0f127",
+          "rect": [
+            432.83,
+            498.23,
+            441.83,
+            507.23
+          ],
+          "kind": "checkbox",
+          "label": "Zeile 9: Schimmel nein",
+          "row": 8,
+          "column": 5,
+          "choice": "nein"
+        },
+        {
+          "id": "p0f128",
+          "rect": [
+            454.18,
+            495.23,
+            499.94,
+            512.71
+          ],
+          "kind": "text",
+          "label": "Zeile 9: Soll °C",
+          "row": 8,
+          "column": 6
+        },
+        {
+          "id": "p0f129",
+          "rect": [
+            503.94,
+            495.23,
+            549.51,
+            512.71
+          ],
+          "kind": "text",
+          "label": "Zeile 9: Ist °C",
+          "row": 8,
+          "column": 7
+        },
+        {
+          "id": "p0f130",
+          "rect": [
+            59.0,
+            514.71,
+            166.74,
+            532.23
+          ],
+          "kind": "text",
+          "label": "Zeile 10: Produkt",
+          "row": 9,
+          "column": 0
+        },
+        {
+          "id": "p0f131",
+          "rect": [
+            177.74,
+            517.71,
+            186.74,
+            526.71
+          ],
+          "kind": "checkbox",
+          "label": "Zeile 10: Verpackung ja",
+          "row": 9,
+          "column": 1,
+          "choice": "ja"
+        },
+        {
+          "id": "p0f132",
+          "rect": [
+            206.05,
+            517.71,
+            215.05,
+            526.71
+          ],
+          "kind": "checkbox",
+          "label": "Zeile 10: Verpackung nein",
+          "row": 9,
+          "column": 1,
+          "choice": "nein"
+        },
+        {
+          "id": "p0f133",
+          "rect": [
+            234.36,
+            517.71,
+            243.36,
+            526.71
+          ],
+          "kind": "checkbox",
+          "label": "Zeile 10: Ware ja",
+          "row": 9,
+          "column": 2,
+          "choice": "ja"
+        },
+        {
+          "id": "p0f134",
+          "rect": [
+            262.71,
+            517.71,
+            271.71,
+            526.71
+          ],
+          "kind": "checkbox",
+          "label": "Zeile 10: Ware nein",
+          "row": 9,
+          "column": 2,
+          "choice": "nein"
+        },
+        {
+          "id": "p0f135",
+          "rect": [
+            291.05,
+            517.71,
+            300.05,
+            526.71
+          ],
+          "kind": "checkbox",
+          "label": "Zeile 10: MHD/VD ja",
+          "row": 9,
+          "column": 3,
+          "choice": "ja"
+        },
+        {
+          "id": "p0f136",
+          "rect": [
+            319.41,
+            517.71,
+            328.41,
+            526.71
+          ],
+          "kind": "checkbox",
+          "label": "Zeile 10: MHD/VD nein",
+          "row": 9,
+          "column": 3,
+          "choice": "nein"
+        },
+        {
+          "id": "p0f137",
+          "rect": [
+            347.78,
+            517.71,
+            356.78,
+            526.71
+          ],
+          "kind": "checkbox",
+          "label": "Zeile 10: Schädlinge ja",
+          "row": 9,
+          "column": 4,
+          "choice": "ja"
+        },
+        {
+          "id": "p0f138",
+          "rect": [
+            376.12,
+            517.71,
+            385.12,
+            526.71
+          ],
+          "kind": "checkbox",
+          "label": "Zeile 10: Schädlinge nein",
+          "row": 9,
+          "column": 4,
+          "choice": "nein"
+        },
+        {
+          "id": "p0f139",
+          "rect": [
+            404.47,
+            517.71,
+            413.47,
+            526.71
+          ],
+          "kind": "checkbox",
+          "label": "Zeile 10: Schimmel ja",
+          "row": 9,
+          "column": 5,
+          "choice": "ja"
+        },
+        {
+          "id": "p0f140",
+          "rect": [
+            432.83,
+            517.71,
+            441.83,
+            526.71
+          ],
+          "kind": "checkbox",
+          "label": "Zeile 10: Schimmel nein",
+          "row": 9,
+          "column": 5,
+          "choice": "nein"
+        },
+        {
+          "id": "p0f141",
+          "rect": [
+            454.18,
+            514.71,
+            499.94,
+            532.23
+          ],
+          "kind": "text",
+          "label": "Zeile 10: Soll °C",
+          "row": 9,
+          "column": 6
+        },
+        {
+          "id": "p0f142",
+          "rect": [
+            503.94,
+            514.71,
+            549.51,
+            532.23
+          ],
+          "kind": "text",
+          "label": "Zeile 10: Ist °C",
+          "row": 9,
+          "column": 7
+        },
+        {
+          "id": "p0f143",
+          "rect": [
+            59.0,
+            534.23,
+            166.74,
+            551.67
+          ],
+          "kind": "text",
+          "label": "Zeile 11: Produkt",
+          "row": 10,
+          "column": 0
+        },
+        {
+          "id": "p0f144",
+          "rect": [
+            177.74,
+            537.23,
+            186.74,
+            546.23
+          ],
+          "kind": "checkbox",
+          "label": "Zeile 11: Verpackung ja",
+          "row": 10,
+          "column": 1,
+          "choice": "ja"
+        },
+        {
+          "id": "p0f145",
+          "rect": [
+            206.05,
+            537.23,
+            215.05,
+            546.23
+          ],
+          "kind": "checkbox",
+          "label": "Zeile 11: Verpackung nein",
+          "row": 10,
+          "column": 1,
+          "choice": "nein"
+        },
+        {
+          "id": "p0f146",
+          "rect": [
+            234.36,
+            537.23,
+            243.36,
+            546.23
+          ],
+          "kind": "checkbox",
+          "label": "Zeile 11: Ware ja",
+          "row": 10,
+          "column": 2,
+          "choice": "ja"
+        },
+        {
+          "id": "p0f147",
+          "rect": [
+            262.71,
+            537.23,
+            271.71,
+            546.23
+          ],
+          "kind": "checkbox",
+          "label": "Zeile 11: Ware nein",
+          "row": 10,
+          "column": 2,
+          "choice": "nein"
+        },
+        {
+          "id": "p0f148",
+          "rect": [
+            291.05,
+            537.23,
+            300.05,
+            546.23
+          ],
+          "kind": "checkbox",
+          "label": "Zeile 11: MHD/VD ja",
+          "row": 10,
+          "column": 3,
+          "choice": "ja"
+        },
+        {
+          "id": "p0f149",
+          "rect": [
+            319.41,
+            537.23,
+            328.41,
+            546.23
+          ],
+          "kind": "checkbox",
+          "label": "Zeile 11: MHD/VD nein",
+          "row": 10,
+          "column": 3,
+          "choice": "nein"
+        },
+        {
+          "id": "p0f150",
+          "rect": [
+            347.78,
+            537.23,
+            356.78,
+            546.23
+          ],
+          "kind": "checkbox",
+          "label": "Zeile 11: Schädlinge ja",
+          "row": 10,
+          "column": 4,
+          "choice": "ja"
+        },
+        {
+          "id": "p0f151",
+          "rect": [
+            376.12,
+            537.23,
+            385.12,
+            546.23
+          ],
+          "kind": "checkbox",
+          "label": "Zeile 11: Schädlinge nein",
+          "row": 10,
+          "column": 4,
+          "choice": "nein"
+        },
+        {
+          "id": "p0f152",
+          "rect": [
+            404.47,
+            537.23,
+            413.47,
+            546.23
+          ],
+          "kind": "checkbox",
+          "label": "Zeile 11: Schimmel ja",
+          "row": 10,
+          "column": 5,
+          "choice": "ja"
+        },
+        {
+          "id": "p0f153",
+          "rect": [
+            432.83,
+            537.23,
+            441.83,
+            546.23
+          ],
+          "kind": "checkbox",
+          "label": "Zeile 11: Schimmel nein",
+          "row": 10,
+          "column": 5,
+          "choice": "nein"
+        },
+        {
+          "id": "p0f154",
+          "rect": [
+            454.18,
+            534.23,
+            499.94,
+            551.67
+          ],
+          "kind": "text",
+          "label": "Zeile 11: Soll °C",
+          "row": 10,
+          "column": 6
+        },
+        {
+          "id": "p0f155",
+          "rect": [
+            503.94,
+            534.23,
+            549.51,
+            551.67
+          ],
+          "kind": "text",
+          "label": "Zeile 11: Ist °C",
+          "row": 10,
+          "column": 7
+        },
+        {
+          "id": "p0f156",
+          "rect": [
+            59.0,
+            553.67,
+            166.74,
+            571.11
+          ],
+          "kind": "text",
+          "label": "Zeile 12: Produkt",
+          "row": 11,
+          "column": 0
+        },
+        {
+          "id": "p0f157",
+          "rect": [
+            177.74,
+            556.67,
+            186.74,
+            565.67
+          ],
+          "kind": "checkbox",
+          "label": "Zeile 12: Verpackung ja",
+          "row": 11,
+          "column": 1,
+          "choice": "ja"
+        },
+        {
+          "id": "p0f158",
+          "rect": [
+            206.05,
+            556.67,
+            215.05,
+            565.67
+          ],
+          "kind": "checkbox",
+          "label": "Zeile 12: Verpackung nein",
+          "row": 11,
+          "column": 1,
+          "choice": "nein"
+        },
+        {
+          "id": "p0f159",
+          "rect": [
+            234.36,
+            556.67,
+            243.36,
+            565.67
+          ],
+          "kind": "checkbox",
+          "label": "Zeile 12: Ware ja",
+          "row": 11,
+          "column": 2,
+          "choice": "ja"
+        },
+        {
+          "id": "p0f160",
+          "rect": [
+            262.71,
+            556.67,
+            271.71,
+            565.67
+          ],
+          "kind": "checkbox",
+          "label": "Zeile 12: Ware nein",
+          "row": 11,
+          "column": 2,
+          "choice": "nein"
+        },
+        {
+          "id": "p0f161",
+          "rect": [
+            291.05,
+            556.67,
+            300.05,
+            565.67
+          ],
+          "kind": "checkbox",
+          "label": "Zeile 12: MHD/VD ja",
+          "row": 11,
+          "column": 3,
+          "choice": "ja"
+        },
+        {
+          "id": "p0f162",
+          "rect": [
+            319.41,
+            556.67,
+            328.41,
+            565.67
+          ],
+          "kind": "checkbox",
+          "label": "Zeile 12: MHD/VD nein",
+          "row": 11,
+          "column": 3,
+          "choice": "nein"
+        },
+        {
+          "id": "p0f163",
+          "rect": [
+            347.78,
+            556.67,
+            356.78,
+            565.67
+          ],
+          "kind": "checkbox",
+          "label": "Zeile 12: Schädlinge ja",
+          "row": 11,
+          "column": 4,
+          "choice": "ja"
+        },
+        {
+          "id": "p0f164",
+          "rect": [
+            376.12,
+            556.67,
+            385.12,
+            565.67
+          ],
+          "kind": "checkbox",
+          "label": "Zeile 12: Schädlinge nein",
+          "row": 11,
+          "column": 4,
+          "choice": "nein"
+        },
+        {
+          "id": "p0f165",
+          "rect": [
+            404.47,
+            556.67,
+            413.47,
+            565.67
+          ],
+          "kind": "checkbox",
+          "label": "Zeile 12: Schimmel ja",
+          "row": 11,
+          "column": 5,
+          "choice": "ja"
+        },
+        {
+          "id": "p0f166",
+          "rect": [
+            432.83,
+            556.67,
+            441.83,
+            565.67
+          ],
+          "kind": "checkbox",
+          "label": "Zeile 12: Schimmel nein",
+          "row": 11,
+          "column": 5,
+          "choice": "nein"
+        },
+        {
+          "id": "p0f167",
+          "rect": [
+            454.18,
+            553.67,
+            499.94,
+            571.11
+          ],
+          "kind": "text",
+          "label": "Zeile 12: Soll °C",
+          "row": 11,
+          "column": 6
+        },
+        {
+          "id": "p0f168",
+          "rect": [
+            503.94,
+            553.67,
+            549.51,
+            571.11
+          ],
+          "kind": "text",
+          "label": "Zeile 12: Ist °C",
+          "row": 11,
+          "column": 7
+        },
+        {
+          "id": "p0f169",
+          "rect": [
+            59.0,
+            573.11,
+            166.74,
+            590.67
+          ],
+          "kind": "text",
+          "label": "Zeile 13: Produkt",
+          "row": 12,
+          "column": 0
+        },
+        {
+          "id": "p0f170",
+          "rect": [
+            177.74,
+            576.11,
+            186.74,
+            585.11
+          ],
+          "kind": "checkbox",
+          "label": "Zeile 13: Verpackung ja",
+          "row": 12,
+          "column": 1,
+          "choice": "ja"
+        },
+        {
+          "id": "p0f171",
+          "rect": [
+            206.05,
+            576.11,
+            215.05,
+            585.11
+          ],
+          "kind": "checkbox",
+          "label": "Zeile 13: Verpackung nein",
+          "row": 12,
+          "column": 1,
+          "choice": "nein"
+        },
+        {
+          "id": "p0f172",
+          "rect": [
+            234.36,
+            576.11,
+            243.36,
+            585.11
+          ],
+          "kind": "checkbox",
+          "label": "Zeile 13: Ware ja",
+          "row": 12,
+          "column": 2,
+          "choice": "ja"
+        },
+        {
+          "id": "p0f173",
+          "rect": [
+            262.71,
+            576.11,
+            271.71,
+            585.11
+          ],
+          "kind": "checkbox",
+          "label": "Zeile 13: Ware nein",
+          "row": 12,
+          "column": 2,
+          "choice": "nein"
+        },
+        {
+          "id": "p0f174",
+          "rect": [
+            291.05,
+            576.11,
+            300.05,
+            585.11
+          ],
+          "kind": "checkbox",
+          "label": "Zeile 13: MHD/VD ja",
+          "row": 12,
+          "column": 3,
+          "choice": "ja"
+        },
+        {
+          "id": "p0f175",
+          "rect": [
+            319.41,
+            576.11,
+            328.41,
+            585.11
+          ],
+          "kind": "checkbox",
+          "label": "Zeile 13: MHD/VD nein",
+          "row": 12,
+          "column": 3,
+          "choice": "nein"
+        },
+        {
+          "id": "p0f176",
+          "rect": [
+            347.78,
+            576.11,
+            356.78,
+            585.11
+          ],
+          "kind": "checkbox",
+          "label": "Zeile 13: Schädlinge ja",
+          "row": 12,
+          "column": 4,
+          "choice": "ja"
+        },
+        {
+          "id": "p0f177",
+          "rect": [
+            376.12,
+            576.11,
+            385.12,
+            585.11
+          ],
+          "kind": "checkbox",
+          "label": "Zeile 13: Schädlinge nein",
+          "row": 12,
+          "column": 4,
+          "choice": "nein"
+        },
+        {
+          "id": "p0f178",
+          "rect": [
+            404.47,
+            576.11,
+            413.47,
+            585.11
+          ],
+          "kind": "checkbox",
+          "label": "Zeile 13: Schimmel ja",
+          "row": 12,
+          "column": 5,
+          "choice": "ja"
+        },
+        {
+          "id": "p0f179",
+          "rect": [
+            432.83,
+            576.11,
+            441.83,
+            585.11
+          ],
+          "kind": "checkbox",
+          "label": "Zeile 13: Schimmel nein",
+          "row": 12,
+          "column": 5,
+          "choice": "nein"
+        },
+        {
+          "id": "p0f180",
+          "rect": [
+            454.18,
+            573.11,
+            499.94,
+            590.67
+          ],
+          "kind": "text",
+          "label": "Zeile 13: Soll °C",
+          "row": 12,
+          "column": 6
+        },
+        {
+          "id": "p0f181",
+          "rect": [
+            503.94,
+            573.11,
+            549.51,
+            590.67
+          ],
+          "kind": "text",
+          "label": "Zeile 13: Ist °C",
+          "row": 12,
+          "column": 7
+        },
+        {
+          "id": "p0f182",
+          "rect": [
+            59.0,
+            592.67,
+            166.74,
+            610.02
+          ],
+          "kind": "text",
+          "label": "Zeile 14: Produkt",
+          "row": 13,
+          "column": 0
+        },
+        {
+          "id": "p0f183",
+          "rect": [
+            177.74,
+            595.67,
+            186.74,
+            604.67
+          ],
+          "kind": "checkbox",
+          "label": "Zeile 14: Verpackung ja",
+          "row": 13,
+          "column": 1,
+          "choice": "ja"
+        },
+        {
+          "id": "p0f184",
+          "rect": [
+            206.05,
+            595.67,
+            215.05,
+            604.67
+          ],
+          "kind": "checkbox",
+          "label": "Zeile 14: Verpackung nein",
+          "row": 13,
+          "column": 1,
+          "choice": "nein"
+        },
+        {
+          "id": "p0f185",
+          "rect": [
+            234.36,
+            595.67,
+            243.36,
+            604.67
+          ],
+          "kind": "checkbox",
+          "label": "Zeile 14: Ware ja",
+          "row": 13,
+          "column": 2,
+          "choice": "ja"
+        },
+        {
+          "id": "p0f186",
+          "rect": [
+            262.71,
+            595.67,
+            271.71,
+            604.67
+          ],
+          "kind": "checkbox",
+          "label": "Zeile 14: Ware nein",
+          "row": 13,
+          "column": 2,
+          "choice": "nein"
+        },
+        {
+          "id": "p0f187",
+          "rect": [
+            291.05,
+            595.67,
+            300.05,
+            604.67
+          ],
+          "kind": "checkbox",
+          "label": "Zeile 14: MHD/VD ja",
+          "row": 13,
+          "column": 3,
+          "choice": "ja"
+        },
+        {
+          "id": "p0f188",
+          "rect": [
+            319.41,
+            595.67,
+            328.41,
+            604.67
+          ],
+          "kind": "checkbox",
+          "label": "Zeile 14: MHD/VD nein",
+          "row": 13,
+          "column": 3,
+          "choice": "nein"
+        },
+        {
+          "id": "p0f189",
+          "rect": [
+            347.78,
+            595.67,
+            356.78,
+            604.67
+          ],
+          "kind": "checkbox",
+          "label": "Zeile 14: Schädlinge ja",
+          "row": 13,
+          "column": 4,
+          "choice": "ja"
+        },
+        {
+          "id": "p0f190",
+          "rect": [
+            376.12,
+            595.67,
+            385.12,
+            604.67
+          ],
+          "kind": "checkbox",
+          "label": "Zeile 14: Schädlinge nein",
+          "row": 13,
+          "column": 4,
+          "choice": "nein"
+        },
+        {
+          "id": "p0f191",
+          "rect": [
+            404.47,
+            595.67,
+            413.47,
+            604.67
+          ],
+          "kind": "checkbox",
+          "label": "Zeile 14: Schimmel ja",
+          "row": 13,
+          "column": 5,
+          "choice": "ja"
+        },
+        {
+          "id": "p0f192",
+          "rect": [
+            432.83,
+            595.67,
+            441.83,
+            604.67
+          ],
+          "kind": "checkbox",
+          "label": "Zeile 14: Schimmel nein",
+          "row": 13,
+          "column": 5,
+          "choice": "nein"
+        },
+        {
+          "id": "p0f193",
+          "rect": [
+            454.18,
+            592.67,
+            499.94,
+            610.02
+          ],
+          "kind": "text",
+          "label": "Zeile 14: Soll °C",
+          "row": 13,
+          "column": 6
+        },
+        {
+          "id": "p0f194",
+          "rect": [
+            503.94,
+            592.67,
+            549.51,
+            610.02
+          ],
+          "kind": "text",
+          "label": "Zeile 14: Ist °C",
+          "row": 13,
+          "column": 7
+        }
+      ]
+    },
+    {
+      "width": 595.3200073242188,
+      "height": 841.9199829101562,
+      "fields": []
+    }
+  ],
+  "repeat_page": 0
+}
