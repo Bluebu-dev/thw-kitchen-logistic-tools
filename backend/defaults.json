@@ -1,0 +1,164 @@
+[
+  [
+    "Kaffee & Heißgetränke",
+    [
+      "Kaffeemaschine",
+      "Kaffeekannen / Thermoskannen",
+      "Kaffee und Kaffeefilter",
+      "Milch / Milchalternative",
+      "Zucker / Süßstoff",
+      "Teesortiment",
+      "Wasserkocher",
+      "Heißwasserbehälter / Teespender",
+      "Tassen / Becher",
+      "Teelöffel / Rührstäbchen"
+    ]
+  ],
+  [
+    "Getränke",
+    [
+      "Trinkwasser",
+      "Mineralwasser",
+      "Saft / Schorle",
+      "Getränkekisten / Vorratsbehälter",
+      "Becher / Gläser",
+      "Flaschenöffner",
+      "Getränkespender / Zapfbehälter"
+    ]
+  ],
+  [
+    "Lebensmittel",
+    [
+      "Hauptmahlzeiten gemäß Speiseplan",
+      "Vegetarische / vegane Alternativen",
+      "Sonderkost gemäß Bedarf",
+      "Brot / Semmeln / Gebäck",
+      "Butter / Aufstriche",
+      "Obst / Snacks / Müsliriegel",
+      "Soßen / Ketchup / Senf",
+      "Gewürze / Salz / Pfeffer",
+      "Allergenkennzeichnung / Speisekarten"
+    ]
+  ],
+  [
+    "Geschirr & Essensausgabe",
+    [
+      "Flache / tiefe Teller",
+      "Schüsseln / Dessertschalen",
+      "Messer / Gabeln / Löffel",
+      "Servietten",
+      "Schöpfkellen / Ausgabebesteck",
+      "Servierzangen",
+      "Schneidebretter / Küchenmesser",
+      "GN-Behälter mit Deckel",
+      "Warmhaltebehälter / Thermophoren",
+      "Chafing-Dishes / Bain-Marie",
+      "Ausgabetische / Klapptische",
+      "Abwischbare Unterlagen / Tischdecken",
+      "Tabletts",
+      "Abdeckhauben / Speisenschutz"
+    ]
+  ],
+  [
+    "Hygiene & Handwaschen",
+    [
+      "Handwaschstation mit fließendem Wasser",
+      "Trinkwassergeeigneter Frischwasserbehälter",
+      "Abwasserbehälter",
+      "Flüssigseife",
+      "Einmalhandtücher",
+      "Handdesinfektionsmittel bei Bedarf",
+      "Geeignete Reinigungs- und Desinfektionsmittel",
+      "Einmalhandschuhe für geeignete Tätigkeiten",
+      "Saubere Arbeitskleidung / Schürzen",
+      "Spülmittel",
+      "Spülbürsten / Reinigungstücher",
+      "Spülwannen / Spülmöglichkeit",
+      "Geschirrtücher / Wechselwäsche",
+      "Küchenpapier",
+      "Müllbeutel / Müllbehälter",
+      "Lebensmittelthermometer"
+    ]
+  ],
+  [
+    "Transport & Kühlung",
+    [
+      "Lebensmittelechte Transportboxen",
+      "Kühlboxen / Kühlschrank",
+      "Kühlakkus",
+      "Thermoboxen für warme Speisen",
+      "Thermometer für Kühlgeräte",
+      "Sackkarre / Transportwagen",
+      "Spanngurte / Ladungssicherung",
+      "Etiketten / wasserfeste Stifte",
+      "Saubere Lagerkisten",
+      "Reinigungsmittel getrennt transportieren"
+    ]
+  ],
+  [
+    "Strom, Wasser & Infrastruktur",
+    [
+      "Stromversorgung geklärt",
+      "Geeignete Verlängerungskabel",
+      "Kabeltrommeln / Verteiler",
+      "Kabelbrücken",
+      "Ausreichende Beleuchtung",
+      "Trinkwasseranschluss geklärt",
+      "Trinkwassergeeignete Schläuche",
+      "Pavillon / Wetterschutz",
+      "Geeigneter Feuerlöscher / ggf. Löschdecke",
+      "Erste-Hilfe-Material"
+    ]
+  ],
+  [
+    "Zubereitung vor Ort",
+    [
+      "Kocher / Kochplatten / Herd",
+      "Gasversorgung und Zubehör bei Gasbetrieb",
+      "Kochtöpfe / Pfannen",
+      "Kochlöffel / Schneebesen / Pfannenwender",
+      "Dosenöffner / Schäler / Reibe",
+      "Messbecher / Küchenwaage",
+      "Zusätzliche Arbeitstische",
+      "Getrennte Arbeitsmittel für rohe / verzehrfertige Lebensmittel",
+      "Zusätzliche Spül- und Reinigungsmöglichkeiten",
+      "Kühlung für Zutaten",
+      "Behälter für Lebensmittelreste"
+    ]
+  ],
+  [
+    "Unterlagen & Nachweise",
+    [
+      "Verpflegungsauftrag / Veranstaltungsdaten",
+      "Speiseplan / Mengenplanung",
+      "Teilnehmer- / Portionenzahl",
+      "Einkaufsliste / Materialliste",
+      "Lieferscheine / Quittungen / Rechnungen",
+      "Wareneingangs- / Kühltemperaturnachweise",
+      "Temperaturprotokoll für warme Speisen",
+      "Allergen- / Zusatzstoffübersicht",
+      "Reinigungs- / Hygienecheckliste",
+      "Erforderliche Hygienebelehrungsnachweise",
+      "Verbrauchs- / Bestandsliste",
+      "Abfall- / Restedokumentation",
+      "Materialrückgabe- / Schadensliste",
+      "Klemmbrett / Stifte / Dokumentenmappe"
+    ]
+  ],
+  [
+    "Rückbau & Rückgabe",
+    [
+      "Lebensmittelreste geprüft / fachgerecht entsorgt",
+      "Geschirr / Besteck eingesammelt",
+      "Geräte gereinigt und abgeschaltet",
+      "Ausgabeflächen gereinigt",
+      "Frisch- / Abwasserbehälter versorgt",
+      "Müll entsorgt",
+      "Material auf Vollständigkeit kontrolliert",
+      "Schäden / Verluste dokumentiert",
+      "Nachbeschaffung erfasst",
+      "Dokumentationsunterlagen abgelegt",
+      "Ladungssicherung / Fahrzeugkontrolle"
+    ]
+  ]
+]
