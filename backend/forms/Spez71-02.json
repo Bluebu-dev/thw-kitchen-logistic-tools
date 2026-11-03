@@ -1,0 +1,2483 @@
+{
+  "pages": [
+    {
+      "width": 595.3200073242188,
+      "height": 841.9199829101562,
+      "fields": [
+        {
+          "id": "p0f0",
+          "rect": [
+            82.06,
+            160.27,
+            363.57,
+            172.58
+          ],
+          "kind": "text",
+          "label": "Ort"
+        },
+        {
+          "id": "p0f1",
+          "rect": [
+            99.83,
+            198.31,
+            240.41,
+            210.62
+          ],
+          "kind": "text",
+          "label": "Datum"
+        },
+        {
+          "id": "p0f2",
+          "rect": [
+            315.28,
+            198.31,
+            492.71,
+            210.62
+          ],
+          "kind": "text",
+          "label": "Datum _______________________ Uhrzeit"
+        },
+        {
+          "id": "p0f3",
+          "rect": [
+            178.22,
+            320.49,
+            187.22,
+            329.49
+          ],
+          "kind": "checkbox",
+          "label": "einwandfrei, glatt,"
+        },
+        {
+          "id": "p0f4",
+          "rect": [
+            226.85,
+            320.49,
+            235.85,
+            329.49
+          ],
+          "kind": "checkbox",
+          "label": "einwandfrei, glatt, □"
+        },
+        {
+          "id": "p0f5",
+          "rect": [
+            416.83,
+            320.49,
+            425.83,
+            329.49
+          ],
+          "kind": "checkbox",
+          "label": "einwandfrei, glatt, □ □ wasserundurchlässig/ -"
+        },
+        {
+          "id": "p0f6",
+          "rect": [
+            485.02,
+            320.49,
+            494.02,
+            329.49
+          ],
+          "kind": "checkbox",
+          "label": "einwandfrei, glatt, □ □ wasserundurchlässig/ - □"
+        },
+        {
+          "id": "p0f7",
+          "rect": [
+            178.22,
+            358.41,
+            187.22,
+            367.41
+          ],
+          "kind": "checkbox",
+          "label": "leicht zu reinigen"
+        },
+        {
+          "id": "p0f8",
+          "rect": [
+            226.85,
+            358.41,
+            235.85,
+            367.41
+          ],
+          "kind": "checkbox",
+          "label": "leicht zu reinigen □"
+        },
+        {
+          "id": "p0f9",
+          "rect": [
+            416.83,
+            358.41,
+            425.83,
+            367.41
+          ],
+          "kind": "checkbox",
+          "label": "leicht zu reinigen □ □ Geruchsverschluss"
+        },
+        {
+          "id": "p0f10",
+          "rect": [
+            485.02,
+            358.41,
+            494.02,
+            367.41
+          ],
+          "kind": "checkbox",
+          "label": "leicht zu reinigen □ □ Geruchsverschluss □"
+        },
+        {
+          "id": "p0f11",
+          "rect": [
+            178.22,
+            386.01,
+            187.22,
+            395.01
+          ],
+          "kind": "checkbox",
+          "label": "Bodenablauf"
+        },
+        {
+          "id": "p0f12",
+          "rect": [
+            226.85,
+            386.01,
+            235.85,
+            395.01
+          ],
+          "kind": "checkbox",
+          "label": "Bodenablauf □"
+        },
+        {
+          "id": "p0f13",
+          "rect": [
+            178.22,
+            470.51,
+            187.22,
+            479.51
+          ],
+          "kind": "checkbox",
+          "label": "einwandfrei, glatt,"
+        },
+        {
+          "id": "p0f14",
+          "rect": [
+            226.85,
+            470.51,
+            235.85,
+            479.51
+          ],
+          "kind": "checkbox",
+          "label": "einwandfrei, glatt, □"
+        },
+        {
+          "id": "p0f15",
+          "rect": [
+            416.83,
+            470.51,
+            425.83,
+            479.51
+          ],
+          "kind": "checkbox",
+          "label": "einwandfrei, glatt, □ □ wasserundurchlässig/ -"
+        },
+        {
+          "id": "p0f16",
+          "rect": [
+            484.9,
+            470.51,
+            493.9,
+            479.51
+          ],
+          "kind": "checkbox",
+          "label": "einwandfrei, glatt, □ □ wasserundurchlässig/ - □"
+        },
+        {
+          "id": "p0f17",
+          "rect": [
+            178.22,
+            508.43,
+            187.22,
+            517.43
+          ],
+          "kind": "checkbox",
+          "label": "leicht zu reinigen"
+        },
+        {
+          "id": "p0f18",
+          "rect": [
+            226.85,
+            508.43,
+            235.85,
+            517.43
+          ],
+          "kind": "checkbox",
+          "label": "leicht zu reinigen □"
+        },
+        {
+          "id": "p0f19",
+          "rect": [
+            416.83,
+            508.43,
+            425.83,
+            517.43
+          ],
+          "kind": "checkbox",
+          "label": "leicht zu reinigen □ □ glatte Arbeitsflächenwand,"
+        },
+        {
+          "id": "p0f20",
+          "rect": [
+            484.9,
+            508.43,
+            493.9,
+            517.43
+          ],
+          "kind": "checkbox",
+          "label": "leicht zu reinigen □ □ glatte Arbeitsflächenwand, □"
+        },
+        {
+          "id": "p0f21",
+          "rect": [
+            175.46,
+            603.35,
+            184.46,
+            612.35
+          ],
+          "kind": "checkbox",
+          "label": "einwandfrei, glatt,"
+        },
+        {
+          "id": "p0f22",
+          "rect": [
+            222.41,
+            603.35,
+            231.41,
+            612.35
+          ],
+          "kind": "checkbox",
+          "label": "einwandfrei, glatt, □"
+        },
+        {
+          "id": "p0f23",
+          "rect": [
+            422.47,
+            603.35,
+            431.47,
+            612.35
+          ],
+          "kind": "checkbox",
+          "label": "einwandfrei, glatt, □ □ frei von Schimmel"
+        },
+        {
+          "id": "p0f24",
+          "rect": [
+            487.54,
+            603.35,
+            496.54,
+            612.35
+          ],
+          "kind": "checkbox",
+          "label": "einwandfrei, glatt, □ □ frei von Schimmel □"
+        },
+        {
+          "id": "p0f25",
+          "rect": [
+            175.46,
+            641.27,
+            184.46,
+            650.27
+          ],
+          "kind": "checkbox",
+          "label": "leicht zu reinigen"
+        },
+        {
+          "id": "p0f26",
+          "rect": [
+            222.41,
+            641.27,
+            231.41,
+            650.27
+          ],
+          "kind": "checkbox",
+          "label": "leicht zu reinigen □"
+        },
+        {
+          "id": "p0f27",
+          "rect": [
+            422.47,
+            641.27,
+            431.47,
+            650.27
+          ],
+          "kind": "checkbox",
+          "label": "leicht zu reinigen □ □ frei von Kondenswasseran-"
+        },
+        {
+          "id": "p0f28",
+          "rect": [
+            487.54,
+            641.27,
+            496.54,
+            650.27
+          ],
+          "kind": "checkbox",
+          "label": "leicht zu reinigen □ □ frei von Kondenswasseran- □"
+        },
+        {
+          "id": "p0f29",
+          "rect": [
+            175.46,
+            679.22,
+            184.46,
+            688.22
+          ],
+          "kind": "checkbox",
+          "label": "Beleuchtung mit"
+        },
+        {
+          "id": "p0f30",
+          "rect": [
+            222.41,
+            679.22,
+            231.41,
+            688.22
+          ],
+          "kind": "checkbox",
+          "label": "Beleuchtung mit □"
+        },
+        {
+          "id": "p0f31",
+          "rect": [
+            422.47,
+            679.22,
+            431.47,
+            688.22
+          ],
+          "kind": "checkbox",
+          "label": "Beleuchtung mit □ □ kein abblätternder Putz"
+        },
+        {
+          "id": "p0f32",
+          "rect": [
+            487.54,
+            679.22,
+            496.54,
+            688.22
+          ],
+          "kind": "checkbox",
+          "label": "Beleuchtung mit □ □ kein abblätternder Putz □"
+        }
+      ]
+    },
+    {
+      "width": 595.3200073242188,
+      "height": 841.9199829101562,
+      "fields": [
+        {
+          "id": "p1f0",
+          "rect": [
+            178.22,
+            127.26,
+            187.22,
+            136.26
+          ],
+          "kind": "checkbox",
+          "label": "einwandfrei, glatt,"
+        },
+        {
+          "id": "p1f1",
+          "rect": [
+            226.97,
+            127.26,
+            235.97,
+            136.26
+          ],
+          "kind": "checkbox",
+          "label": "einwandfrei, glatt, □"
+        },
+        {
+          "id": "p1f2",
+          "rect": [
+            423.91,
+            127.26,
+            432.91,
+            136.26
+          ],
+          "kind": "checkbox",
+          "label": "einwandfrei, glatt, □ □ wenn Fenster zum Öffnen"
+        },
+        {
+          "id": "p1f3",
+          "rect": [
+            492.1,
+            127.26,
+            501.1,
+            136.26
+          ],
+          "kind": "checkbox",
+          "label": "einwandfrei, glatt, □ □ wenn Fenster zum Öffnen □"
+        },
+        {
+          "id": "p1f4",
+          "rect": [
+            178.22,
+            184.14,
+            187.22,
+            193.14
+          ],
+          "kind": "checkbox",
+          "label": "leicht zu reinigen"
+        },
+        {
+          "id": "p1f5",
+          "rect": [
+            226.97,
+            184.14,
+            235.97,
+            193.14
+          ],
+          "kind": "checkbox",
+          "label": "leicht zu reinigen □"
+        },
+        {
+          "id": "p1f6",
+          "rect": [
+            178.22,
+            268.62,
+            187.22,
+            277.62
+          ],
+          "kind": "checkbox",
+          "label": "einwandfrei, glatt,"
+        },
+        {
+          "id": "p1f7",
+          "rect": [
+            226.97,
+            268.62,
+            235.97,
+            277.62
+          ],
+          "kind": "checkbox",
+          "label": "einwandfrei, glatt, □"
+        },
+        {
+          "id": "p1f8",
+          "rect": [
+            423.91,
+            268.62,
+            432.91,
+            277.62
+          ],
+          "kind": "checkbox",
+          "label": "einwandfrei, glatt, □ □ wenn Türen ins Freie ge-"
+        },
+        {
+          "id": "p1f9",
+          "rect": [
+            492.1,
+            268.62,
+            501.1,
+            277.62
+          ],
+          "kind": "checkbox",
+          "label": "einwandfrei, glatt, □ □ wenn Türen ins Freie ge- □"
+        },
+        {
+          "id": "p1f10",
+          "rect": [
+            178.22,
+            325.65,
+            187.22,
+            334.65
+          ],
+          "kind": "checkbox",
+          "label": "leicht zu reinigen"
+        },
+        {
+          "id": "p1f11",
+          "rect": [
+            226.97,
+            325.65,
+            235.97,
+            334.65
+          ],
+          "kind": "checkbox",
+          "label": "leicht zu reinigen □"
+        },
+        {
+          "id": "p1f12",
+          "rect": [
+            178.22,
+            434.25,
+            187.22,
+            443.25
+          ],
+          "kind": "checkbox",
+          "label": "ein separates vor-"
+        },
+        {
+          "id": "p1f13",
+          "rect": [
+            226.97,
+            434.25,
+            235.97,
+            443.25
+          ],
+          "kind": "checkbox",
+          "label": "ein separates vor- □"
+        },
+        {
+          "id": "p1f14",
+          "rect": [
+            423.91,
+            434.25,
+            432.91,
+            443.25
+          ],
+          "kind": "checkbox",
+          "label": "ein separates vor- □ □ Flüssigseifenspender vor-"
+        },
+        {
+          "id": "p1f15",
+          "rect": [
+            492.1,
+            434.25,
+            501.1,
+            443.25
+          ],
+          "kind": "checkbox",
+          "label": "ein separates vor- □ □ Flüssigseifenspender vor- □"
+        },
+        {
+          "id": "p1f16",
+          "rect": [
+            178.22,
+            472.19,
+            187.22,
+            481.19
+          ],
+          "kind": "checkbox",
+          "label": "Desinfektionsmittel"
+        },
+        {
+          "id": "p1f17",
+          "rect": [
+            226.97,
+            472.19,
+            235.97,
+            481.19
+          ],
+          "kind": "checkbox",
+          "label": "Desinfektionsmittel □"
+        },
+        {
+          "id": "p1f18",
+          "rect": [
+            423.91,
+            472.19,
+            432.91,
+            481.19
+          ],
+          "kind": "checkbox",
+          "label": "Desinfektionsmittel □ □ Trinkwasser-kalt vorhanden"
+        },
+        {
+          "id": "p1f19",
+          "rect": [
+            492.1,
+            472.19,
+            501.1,
+            481.19
+          ],
+          "kind": "checkbox",
+          "label": "Desinfektionsmittel □ □ Trinkwasser-kalt vorhanden □"
+        },
+        {
+          "id": "p1f20",
+          "rect": [
+            178.22,
+            510.23,
+            187.22,
+            519.23
+          ],
+          "kind": "checkbox",
+          "label": "Einweghandtücher"
+        },
+        {
+          "id": "p1f21",
+          "rect": [
+            226.97,
+            510.23,
+            235.97,
+            519.23
+          ],
+          "kind": "checkbox",
+          "label": "Einweghandtücher □"
+        },
+        {
+          "id": "p1f22",
+          "rect": [
+            423.91,
+            510.23,
+            432.91,
+            519.23
+          ],
+          "kind": "checkbox",
+          "label": "Einweghandtücher □ □ Trinkwasser-warm vorhan-"
+        },
+        {
+          "id": "p1f23",
+          "rect": [
+            492.1,
+            510.23,
+            501.1,
+            519.23
+          ],
+          "kind": "checkbox",
+          "label": "Einweghandtücher □ □ Trinkwasser-warm vorhan- □"
+        },
+        {
+          "id": "p1f24",
+          "rect": [
+            178.22,
+            548.15,
+            187.22,
+            557.15
+          ],
+          "kind": "checkbox",
+          "label": "Abfalleimer (Papier)"
+        },
+        {
+          "id": "p1f25",
+          "rect": [
+            226.97,
+            548.15,
+            235.97,
+            557.15
+          ],
+          "kind": "checkbox",
+          "label": "Abfalleimer (Papier) □"
+        },
+        {
+          "id": "p1f26",
+          "rect": [
+            178.58,
+            642.95,
+            187.58,
+            651.95
+          ],
+          "kind": "checkbox",
+          "label": "maschinelle Reini-"
+        },
+        {
+          "id": "p1f27",
+          "rect": [
+            227.21,
+            642.95,
+            236.21,
+            651.95
+          ],
+          "kind": "checkbox",
+          "label": "maschinelle Reini- □"
+        },
+        {
+          "id": "p1f28",
+          "rect": [
+            423.91,
+            642.95,
+            432.91,
+            651.95
+          ],
+          "kind": "checkbox",
+          "label": "maschinelle Reini- □ □ Handspülung"
+        },
+        {
+          "id": "p1f29",
+          "rect": [
+            492.46,
+            642.95,
+            501.46,
+            651.95
+          ],
+          "kind": "checkbox",
+          "label": "maschinelle Reini- □ □ Handspülung □▼"
+        },
+        {
+          "id": "p1f30",
+          "rect": [
+            178.58,
+            681.02,
+            187.58,
+            690.02
+          ],
+          "kind": "checkbox",
+          "label": "Geschirrtücher vor-"
+        },
+        {
+          "id": "p1f31",
+          "rect": [
+            227.21,
+            681.02,
+            236.21,
+            690.02
+          ],
+          "kind": "checkbox",
+          "label": "Geschirrtücher vor- □"
+        },
+        {
+          "id": "p1f32",
+          "rect": [
+            423.91,
+            681.02,
+            432.91,
+            690.02
+          ],
+          "kind": "checkbox",
+          "label": "Geschirrtücher vor- □ □ zweites Spülbecken vor-"
+        },
+        {
+          "id": "p1f33",
+          "rect": [
+            492.46,
+            681.02,
+            501.46,
+            690.02
+          ],
+          "kind": "checkbox",
+          "label": "Geschirrtücher vor- □ □ zweites Spülbecken vor- □"
+        },
+        {
+          "id": "p1f34",
+          "rect": [
+            178.58,
+            718.94,
+            187.58,
+            727.94
+          ],
+          "kind": "checkbox",
+          "label": "Geschirrtücher ver-"
+        },
+        {
+          "id": "p1f35",
+          "rect": [
+            227.21,
+            718.94,
+            236.21,
+            727.94
+          ],
+          "kind": "checkbox",
+          "label": "Geschirrtücher ver- □"
+        },
+        {
+          "id": "p1f36",
+          "rect": [
+            423.91,
+            718.94,
+            432.91,
+            727.94
+          ],
+          "kind": "checkbox",
+          "label": "Geschirrtücher ver- □ □ Trinkwasser warm und kalt"
+        },
+        {
+          "id": "p1f37",
+          "rect": [
+            492.46,
+            718.94,
+            501.46,
+            727.94
+          ],
+          "kind": "checkbox",
+          "label": "Geschirrtücher ver- □ □ Trinkwasser warm und kalt □"
+        }
+      ]
+    },
+    {
+      "width": 595.3200073242188,
+      "height": 841.9199829101562,
+      "fields": [
+        {
+          "id": "p2f0",
+          "rect": [
+            178.22,
+            127.26,
+            187.22,
+            136.26
+          ],
+          "kind": "checkbox",
+          "label": "Abfalltrennung reali-"
+        },
+        {
+          "id": "p2f1",
+          "rect": [
+            226.97,
+            127.26,
+            235.97,
+            136.26
+          ],
+          "kind": "checkbox",
+          "label": "Abfalltrennung reali- □"
+        },
+        {
+          "id": "p2f2",
+          "rect": [
+            423.91,
+            127.26,
+            432.91,
+            136.26
+          ],
+          "kind": "checkbox",
+          "label": "Abfalltrennung reali- □ □ Abfallbehälter mit Deckel"
+        },
+        {
+          "id": "p2f3",
+          "rect": [
+            492.22,
+            127.26,
+            501.22,
+            136.26
+          ],
+          "kind": "checkbox",
+          "label": "Abfalltrennung reali- □ □ Abfallbehälter mit Deckel □"
+        },
+        {
+          "id": "p2f4",
+          "rect": [
+            178.22,
+            165.18,
+            187.22,
+            174.18
+          ],
+          "kind": "checkbox",
+          "label": "geleert, gereinigt"
+        },
+        {
+          "id": "p2f5",
+          "rect": [
+            226.97,
+            165.18,
+            235.97,
+            174.18
+          ],
+          "kind": "checkbox",
+          "label": "geleert, gereinigt □"
+        },
+        {
+          "id": "p2f6",
+          "rect": [
+            178.22,
+            249.66,
+            187.22,
+            258.66
+          ],
+          "kind": "checkbox",
+          "label": "einwandfrei, glatt,"
+        },
+        {
+          "id": "p2f7",
+          "rect": [
+            226.85,
+            249.66,
+            235.85,
+            258.66
+          ],
+          "kind": "checkbox",
+          "label": "einwandfrei, glatt, □"
+        },
+        {
+          "id": "p2f8",
+          "rect": [
+            423.91,
+            249.66,
+            432.91,
+            258.66
+          ],
+          "kind": "checkbox",
+          "label": "einwandfrei, glatt, □ □ abriebfest, korrosionsfest"
+        },
+        {
+          "id": "p2f9",
+          "rect": [
+            492.1,
+            249.66,
+            501.1,
+            258.66
+          ],
+          "kind": "checkbox",
+          "label": "einwandfrei, glatt, □ □ abriebfest, korrosionsfest □"
+        },
+        {
+          "id": "p2f10",
+          "rect": [
+            178.22,
+            287.61,
+            187.22,
+            296.61
+          ],
+          "kind": "checkbox",
+          "label": "desinfizierbar"
+        },
+        {
+          "id": "p2f11",
+          "rect": [
+            226.85,
+            287.61,
+            235.85,
+            296.61
+          ],
+          "kind": "checkbox",
+          "label": "desinfizierbar □"
+        },
+        {
+          "id": "p2f12",
+          "rect": [
+            423.91,
+            287.61,
+            432.91,
+            296.61
+          ],
+          "kind": "checkbox",
+          "label": "desinfizierbar □ □ leicht zu reinigen"
+        },
+        {
+          "id": "p2f13",
+          "rect": [
+            492.1,
+            287.61,
+            501.1,
+            296.61
+          ],
+          "kind": "checkbox",
+          "label": "desinfizierbar □ □ leicht zu reinigen □"
+        },
+        {
+          "id": "p2f14",
+          "rect": [
+            178.22,
+            315.21,
+            187.22,
+            324.21
+          ],
+          "kind": "checkbox",
+          "label": "Geeignete Ablage-"
+        },
+        {
+          "id": "p2f15",
+          "rect": [
+            226.85,
+            315.21,
+            235.85,
+            324.21
+          ],
+          "kind": "checkbox",
+          "label": "Geeignete Ablage- □"
+        },
+        {
+          "id": "p2f16",
+          "rect": [
+            423.91,
+            315.21,
+            432.91,
+            324.21
+          ],
+          "kind": "checkbox",
+          "label": "Geeignete Ablage- □ □ Ggf. Waschbecken zur LM-"
+        },
+        {
+          "id": "p2f17",
+          "rect": [
+            492.1,
+            315.21,
+            501.1,
+            324.21
+          ],
+          "kind": "checkbox",
+          "label": "Geeignete Ablage- □ □ Ggf. Waschbecken zur LM- □"
+        },
+        {
+          "id": "p2f18",
+          "rect": [
+            178.58,
+            429.09,
+            187.58,
+            438.09
+          ],
+          "kind": "checkbox",
+          "label": "Kochherd, einwand-"
+        },
+        {
+          "id": "p2f19",
+          "rect": [
+            227.33,
+            429.09,
+            236.33,
+            438.09
+          ],
+          "kind": "checkbox",
+          "label": "Kochherd, einwand- □"
+        },
+        {
+          "id": "p2f20",
+          "rect": [
+            423.91,
+            429.09,
+            432.91,
+            438.09
+          ],
+          "kind": "checkbox",
+          "label": "Kochherd, einwand- □ □ Kochherd in Verwendung"
+        },
+        {
+          "id": "p2f21",
+          "rect": [
+            492.1,
+            429.09,
+            501.1,
+            438.09
+          ],
+          "kind": "checkbox",
+          "label": "Kochherd, einwand- □ □ Kochherd in Verwendung □"
+        },
+        {
+          "id": "p2f22",
+          "rect": [
+            178.58,
+            467.03,
+            187.58,
+            476.03
+          ],
+          "kind": "checkbox",
+          "label": "Backofen, einwand-"
+        },
+        {
+          "id": "p2f23",
+          "rect": [
+            227.33,
+            467.03,
+            236.33,
+            476.03
+          ],
+          "kind": "checkbox",
+          "label": "Backofen, einwand- □"
+        },
+        {
+          "id": "p2f24",
+          "rect": [
+            423.91,
+            467.03,
+            432.91,
+            476.03
+          ],
+          "kind": "checkbox",
+          "label": "Backofen, einwand- □ □ Backofen in Verwendung"
+        },
+        {
+          "id": "p2f25",
+          "rect": [
+            492.1,
+            467.03,
+            501.1,
+            476.03
+          ],
+          "kind": "checkbox",
+          "label": "Backofen, einwand- □ □ Backofen in Verwendung □"
+        },
+        {
+          "id": "p2f26",
+          "rect": [
+            178.58,
+            504.95,
+            187.58,
+            513.95
+          ],
+          "kind": "checkbox",
+          "label": "Gasflasche/n in Kü-"
+        },
+        {
+          "id": "p2f27",
+          "rect": [
+            227.33,
+            504.95,
+            236.33,
+            513.95
+          ],
+          "kind": "checkbox",
+          "label": "Gasflasche/n in Kü- □"
+        },
+        {
+          "id": "p2f28",
+          "rect": [
+            276.41,
+            501.96,
+            319.27,
+            514.27
+          ],
+          "kind": "text",
+          "label": "Gasflasche/n in Kü- □ □"
+        },
+        {
+          "id": "p2f29",
+          "rect": [
+            196.13,
+            623.99,
+            205.13,
+            632.99
+          ],
+          "kind": "checkbox",
+          "label": "sauber, ohne Korrosion"
+        },
+        {
+          "id": "p2f30",
+          "rect": [
+            241.97,
+            623.99,
+            250.97,
+            632.99
+          ],
+          "kind": "checkbox",
+          "label": "sauber, ohne Korrosion □"
+        },
+        {
+          "id": "p2f31",
+          "rect": [
+            432.07,
+            623.99,
+            441.07,
+            632.99
+          ],
+          "kind": "checkbox",
+          "label": "sauber, ohne Korrosion □ □ Waren sind verpackt"
+        },
+        {
+          "id": "p2f32",
+          "rect": [
+            495.7,
+            623.99,
+            504.7,
+            632.99
+          ],
+          "kind": "checkbox",
+          "label": "sauber, ohne Korrosion □ □ Waren sind verpackt □"
+        },
+        {
+          "id": "p2f33",
+          "rect": [
+            196.13,
+            651.62,
+            205.13,
+            660.62
+          ],
+          "kind": "checkbox",
+          "label": "Dichtung beschädigt"
+        },
+        {
+          "id": "p2f34",
+          "rect": [
+            241.97,
+            651.62,
+            250.97,
+            660.62
+          ],
+          "kind": "checkbox",
+          "label": "Dichtung beschädigt □"
+        },
+        {
+          "id": "p2f35",
+          "rect": [
+            432.07,
+            651.62,
+            441.07,
+            660.62
+          ],
+          "kind": "checkbox",
+          "label": "Dichtung beschädigt □ □ LM sind abgedeckt"
+        },
+        {
+          "id": "p2f36",
+          "rect": [
+            495.7,
+            651.62,
+            504.7,
+            660.62
+          ],
+          "kind": "checkbox",
+          "label": "Dichtung beschädigt □ □ LM sind abgedeckt □"
+        },
+        {
+          "id": "p2f37",
+          "rect": [
+            196.13,
+            679.22,
+            205.13,
+            688.22
+          ],
+          "kind": "checkbox",
+          "label": "Schimmel am/im Gerät"
+        },
+        {
+          "id": "p2f38",
+          "rect": [
+            241.97,
+            679.22,
+            250.97,
+            688.22
+          ],
+          "kind": "checkbox",
+          "label": "Schimmel am/im Gerät □"
+        },
+        {
+          "id": "p2f39",
+          "rect": [
+            432.07,
+            679.22,
+            441.07,
+            688.22
+          ],
+          "kind": "checkbox",
+          "label": "Schimmel am/im Gerät □ □ LM nicht abgelaufen"
+        },
+        {
+          "id": "p2f40",
+          "rect": [
+            495.7,
+            679.22,
+            504.7,
+            688.22
+          ],
+          "kind": "checkbox",
+          "label": "Schimmel am/im Gerät □ □ LM nicht abgelaufen □"
+        },
+        {
+          "id": "p2f41",
+          "rect": [
+            196.13,
+            706.82,
+            205.13,
+            715.82
+          ],
+          "kind": "checkbox",
+          "label": "Temperaturüberwachung"
+        },
+        {
+          "id": "p2f42",
+          "rect": [
+            241.97,
+            706.82,
+            250.97,
+            715.82
+          ],
+          "kind": "checkbox",
+          "label": "Temperaturüberwachung □"
+        },
+        {
+          "id": "p2f43",
+          "rect": [
+            342.78,
+            703.83,
+            385.65,
+            716.14
+          ],
+          "kind": "text",
+          "label": "Temperaturüberwachung □ □ Temp. Ist:"
+        }
+      ]
+    },
+    {
+      "width": 595.3200073242188,
+      "height": 841.9199829101562,
+      "fields": [
+        {
+          "id": "p3f0",
+          "rect": [
+            210.05,
+            108.3,
+            219.05,
+            117.3
+          ],
+          "kind": "checkbox",
+          "label": "sauber, ohne Korrosion"
+        },
+        {
+          "id": "p3f1",
+          "rect": [
+            254.45,
+            108.3,
+            263.45,
+            117.3
+          ],
+          "kind": "checkbox",
+          "label": "sauber, ohne Korrosion □"
+        },
+        {
+          "id": "p3f2",
+          "rect": [
+            419.23,
+            108.3,
+            428.23,
+            117.3
+          ],
+          "kind": "checkbox",
+          "label": "sauber, ohne Korrosion □ □ Waren sind verpackt"
+        },
+        {
+          "id": "p3f3",
+          "rect": [
+            479.26,
+            108.3,
+            488.26,
+            117.3
+          ],
+          "kind": "checkbox",
+          "label": "sauber, ohne Korrosion □ □ Waren sind verpackt □"
+        },
+        {
+          "id": "p3f4",
+          "rect": [
+            210.05,
+            135.9,
+            219.05,
+            144.9
+          ],
+          "kind": "checkbox",
+          "label": "Dichtung beschädigt"
+        },
+        {
+          "id": "p3f5",
+          "rect": [
+            254.45,
+            135.9,
+            263.45,
+            144.9
+          ],
+          "kind": "checkbox",
+          "label": "Dichtung beschädigt □"
+        },
+        {
+          "id": "p3f6",
+          "rect": [
+            419.23,
+            135.9,
+            428.23,
+            144.9
+          ],
+          "kind": "checkbox",
+          "label": "Dichtung beschädigt □ □ LM sind abgedeckt"
+        },
+        {
+          "id": "p3f7",
+          "rect": [
+            479.26,
+            135.9,
+            488.26,
+            144.9
+          ],
+          "kind": "checkbox",
+          "label": "Dichtung beschädigt □ □ LM sind abgedeckt □"
+        },
+        {
+          "id": "p3f8",
+          "rect": [
+            210.05,
+            163.38,
+            219.05,
+            172.38
+          ],
+          "kind": "checkbox",
+          "label": "Schimmel am/im Gerät"
+        },
+        {
+          "id": "p3f9",
+          "rect": [
+            254.45,
+            163.38,
+            263.45,
+            172.38
+          ],
+          "kind": "checkbox",
+          "label": "Schimmel am/im Gerät □"
+        },
+        {
+          "id": "p3f10",
+          "rect": [
+            419.23,
+            163.38,
+            428.23,
+            172.38
+          ],
+          "kind": "checkbox",
+          "label": "Schimmel am/im Gerät □ □ LM nicht abgelaufen"
+        },
+        {
+          "id": "p3f11",
+          "rect": [
+            479.26,
+            163.38,
+            488.26,
+            172.38
+          ],
+          "kind": "checkbox",
+          "label": "Schimmel am/im Gerät □ □ LM nicht abgelaufen □"
+        },
+        {
+          "id": "p3f12",
+          "rect": [
+            114.43,
+            207.07,
+            157.3,
+            219.38
+          ],
+          "kind": "text",
+          "label": "Temp. Ist:"
+        },
+        {
+          "id": "p3f13",
+          "rect": [
+            210.05,
+            190.98,
+            219.05,
+            199.98
+          ],
+          "kind": "checkbox",
+          "label": "Temperaturüberwachung"
+        },
+        {
+          "id": "p3f14",
+          "rect": [
+            254.45,
+            190.98,
+            263.45,
+            199.98
+          ],
+          "kind": "checkbox",
+          "label": "Temperaturüberwachung □"
+        },
+        {
+          "id": "p3f15",
+          "rect": [
+            419.23,
+            190.98,
+            428.23,
+            199.98
+          ],
+          "kind": "checkbox",
+          "label": "Temperaturüberwachung □ □ Rückstellproben vor-"
+        },
+        {
+          "id": "p3f16",
+          "rect": [
+            479.26,
+            190.98,
+            488.26,
+            199.98
+          ],
+          "kind": "checkbox",
+          "label": "Temperaturüberwachung □ □ Rückstellproben vor- □"
+        },
+        {
+          "id": "p3f17",
+          "rect": [
+            181.22,
+            285.93,
+            190.22,
+            294.93
+          ],
+          "kind": "checkbox",
+          "label": "separater Raum"
+        },
+        {
+          "id": "p3f18",
+          "rect": [
+            230.81,
+            285.93,
+            239.81,
+            294.93
+          ],
+          "kind": "checkbox",
+          "label": "separater Raum □"
+        },
+        {
+          "id": "p3f19",
+          "rect": [
+            410.47,
+            285.93,
+            419.47,
+            294.93
+          ],
+          "kind": "checkbox",
+          "label": "separater Raum □ □ Waren sind verpackt"
+        },
+        {
+          "id": "p3f20",
+          "rect": [
+            480.46,
+            285.93,
+            489.46,
+            294.93
+          ],
+          "kind": "checkbox",
+          "label": "separater Raum □ □ Waren sind verpackt □"
+        },
+        {
+          "id": "p3f21",
+          "rect": [
+            181.22,
+            323.85,
+            190.22,
+            332.85
+          ],
+          "kind": "checkbox",
+          "label": "einwandfrei, glatt,"
+        },
+        {
+          "id": "p3f22",
+          "rect": [
+            230.81,
+            323.85,
+            239.81,
+            332.85
+          ],
+          "kind": "checkbox",
+          "label": "einwandfrei, glatt, □"
+        },
+        {
+          "id": "p3f23",
+          "rect": [
+            410.47,
+            323.85,
+            419.47,
+            332.85
+          ],
+          "kind": "checkbox",
+          "label": "einwandfrei, glatt, □ □ LM sind abgedeckt"
+        },
+        {
+          "id": "p3f24",
+          "rect": [
+            480.46,
+            323.85,
+            489.46,
+            332.85
+          ],
+          "kind": "checkbox",
+          "label": "einwandfrei, glatt, □ □ LM sind abgedeckt □"
+        },
+        {
+          "id": "p3f25",
+          "rect": [
+            181.22,
+            361.77,
+            190.22,
+            370.77
+          ],
+          "kind": "checkbox",
+          "label": "kein Schädlingsbefall"
+        },
+        {
+          "id": "p3f26",
+          "rect": [
+            230.81,
+            361.77,
+            239.81,
+            370.77
+          ],
+          "kind": "checkbox",
+          "label": "kein Schädlingsbefall □"
+        },
+        {
+          "id": "p3f27",
+          "rect": [
+            410.47,
+            361.77,
+            419.47,
+            370.77
+          ],
+          "kind": "checkbox",
+          "label": "kein Schädlingsbefall □ □ LM nicht abgelaufen"
+        },
+        {
+          "id": "p3f28",
+          "rect": [
+            480.46,
+            361.77,
+            489.46,
+            370.77
+          ],
+          "kind": "checkbox",
+          "label": "kein Schädlingsbefall □ □ LM nicht abgelaufen □"
+        },
+        {
+          "id": "p3f29",
+          "rect": [
+            181.22,
+            389.37,
+            190.22,
+            398.37
+          ],
+          "kind": "checkbox",
+          "label": "LM nicht auf den Bo-"
+        },
+        {
+          "id": "p3f30",
+          "rect": [
+            230.81,
+            389.37,
+            239.81,
+            398.37
+          ],
+          "kind": "checkbox",
+          "label": "LM nicht auf den Bo- □"
+        },
+        {
+          "id": "p3f31",
+          "rect": [
+            181.22,
+            508.43,
+            190.22,
+            517.43
+          ],
+          "kind": "checkbox",
+          "label": "nicht beschädigt"
+        },
+        {
+          "id": "p3f32",
+          "rect": [
+            230.81,
+            508.43,
+            239.81,
+            517.43
+          ],
+          "kind": "checkbox",
+          "label": "nicht beschädigt □"
+        },
+        {
+          "id": "p3f33",
+          "rect": [
+            410.47,
+            508.43,
+            419.47,
+            517.43
+          ],
+          "kind": "checkbox",
+          "label": "nicht beschädigt □ □ sauber"
+        },
+        {
+          "id": "p3f34",
+          "rect": [
+            480.46,
+            508.43,
+            489.46,
+            517.43
+          ],
+          "kind": "checkbox",
+          "label": "nicht beschädigt □ □ sauber □"
+        },
+        {
+          "id": "p3f35",
+          "rect": [
+            181.22,
+            536.03,
+            190.22,
+            545.03
+          ],
+          "kind": "checkbox",
+          "label": "Elektrogeräte geprüft"
+        },
+        {
+          "id": "p3f36",
+          "rect": [
+            230.81,
+            536.03,
+            239.81,
+            545.03
+          ],
+          "kind": "checkbox",
+          "label": "Elektrogeräte geprüft □"
+        },
+        {
+          "id": "p3f37",
+          "rect": [
+            410.47,
+            536.03,
+            419.47,
+            545.03
+          ],
+          "kind": "checkbox",
+          "label": "Elektrogeräte geprüft □ □ Lagerung in Schrank,"
+        },
+        {
+          "id": "p3f38",
+          "rect": [
+            480.46,
+            536.03,
+            489.46,
+            545.03
+          ],
+          "kind": "checkbox",
+          "label": "Elektrogeräte geprüft □ □ Lagerung in Schrank, □"
+        },
+        {
+          "id": "p3f39",
+          "rect": [
+            178.7,
+            630.95,
+            187.7,
+            639.95
+          ],
+          "kind": "checkbox",
+          "label": "nicht beschädigt"
+        },
+        {
+          "id": "p3f40",
+          "rect": [
+            227.45,
+            630.95,
+            236.45,
+            639.95
+          ],
+          "kind": "checkbox",
+          "label": "nicht beschädigt □"
+        },
+        {
+          "id": "p3f41",
+          "rect": [
+            402.91,
+            630.95,
+            411.91,
+            639.95
+          ],
+          "kind": "checkbox",
+          "label": "nicht beschädigt □ □ sauber"
+        },
+        {
+          "id": "p3f42",
+          "rect": [
+            471.1,
+            630.95,
+            480.1,
+            639.95
+          ],
+          "kind": "checkbox",
+          "label": "nicht beschädigt □ □ sauber □"
+        },
+        {
+          "id": "p3f43",
+          "rect": [
+            178.7,
+            658.58,
+            187.7,
+            667.58
+          ],
+          "kind": "checkbox",
+          "label": "Lagerung in Schrank,"
+        },
+        {
+          "id": "p3f44",
+          "rect": [
+            227.45,
+            658.58,
+            236.45,
+            667.58
+          ],
+          "kind": "checkbox",
+          "label": "Lagerung in Schrank, □"
+        }
+      ]
+    },
+    {
+      "width": 595.3200073242188,
+      "height": 841.9199829101562,
+      "fields": [
+        {
+          "id": "p4f0",
+          "rect": [
+            178.1,
+            108.3,
+            187.1,
+            117.3
+          ],
+          "kind": "checkbox",
+          "label": "vorhanden"
+        },
+        {
+          "id": "p4f1",
+          "rect": [
+            226.73,
+            108.3,
+            235.73,
+            117.3
+          ],
+          "kind": "checkbox",
+          "label": "vorhanden □"
+        },
+        {
+          "id": "p4f2",
+          "rect": [
+            402.91,
+            108.3,
+            411.91,
+            117.3
+          ],
+          "kind": "checkbox",
+          "label": "vorhanden □ □ im Schrank, Regal ge-"
+        },
+        {
+          "id": "p4f3",
+          "rect": [
+            471.1,
+            108.3,
+            480.1,
+            117.3
+          ],
+          "kind": "checkbox",
+          "label": "vorhanden □ □ im Schrank, Regal ge- □"
+        },
+        {
+          "id": "p4f4",
+          "rect": [
+            178.1,
+            146.22,
+            187.1,
+            155.22
+          ],
+          "kind": "checkbox",
+          "label": "von LM getrennt auf-"
+        },
+        {
+          "id": "p4f5",
+          "rect": [
+            226.73,
+            146.22,
+            235.73,
+            155.22
+          ],
+          "kind": "checkbox",
+          "label": "von LM getrennt auf- □"
+        },
+        {
+          "id": "p4f6",
+          "rect": [
+            402.91,
+            146.22,
+            411.91,
+            155.22
+          ],
+          "kind": "checkbox",
+          "label": "von LM getrennt auf- □ □ Verwendungszeit noch"
+        },
+        {
+          "id": "p4f7",
+          "rect": [
+            471.1,
+            146.22,
+            480.1,
+            155.22
+          ],
+          "kind": "checkbox",
+          "label": "von LM getrennt auf- □ □ Verwendungszeit noch □"
+        },
+        {
+          "id": "p4f8",
+          "rect": [
+            181.22,
+            241.02,
+            190.22,
+            250.02
+          ],
+          "kind": "checkbox",
+          "label": "vorhanden"
+        },
+        {
+          "id": "p4f9",
+          "rect": [
+            230.81,
+            241.02,
+            239.81,
+            250.02
+          ],
+          "kind": "checkbox",
+          "label": "vorhanden □"
+        },
+        {
+          "id": "p4f10",
+          "rect": [
+            410.47,
+            241.02,
+            419.47,
+            250.02
+          ],
+          "kind": "checkbox",
+          "label": "vorhanden □ □ im Schrank, Regal ge-"
+        },
+        {
+          "id": "p4f11",
+          "rect": [
+            480.46,
+            241.02,
+            489.46,
+            250.02
+          ],
+          "kind": "checkbox",
+          "label": "vorhanden □ □ im Schrank, Regal ge- □"
+        },
+        {
+          "id": "p4f12",
+          "rect": [
+            181.22,
+            279.09,
+            190.22,
+            288.09
+          ],
+          "kind": "checkbox",
+          "label": "separater Raum"
+        },
+        {
+          "id": "p4f13",
+          "rect": [
+            230.81,
+            279.09,
+            239.81,
+            288.09
+          ],
+          "kind": "checkbox",
+          "label": "separater Raum □"
+        },
+        {
+          "id": "p4f14",
+          "rect": [
+            410.47,
+            279.09,
+            419.47,
+            288.09
+          ],
+          "kind": "checkbox",
+          "label": "separater Raum □ □ Verwendungszeit noch"
+        },
+        {
+          "id": "p4f15",
+          "rect": [
+            480.46,
+            279.09,
+            489.46,
+            288.09
+          ],
+          "kind": "checkbox",
+          "label": "separater Raum □ □ Verwendungszeit noch □"
+        },
+        {
+          "id": "p4f16",
+          "rect": [
+            181.22,
+            317.01,
+            190.22,
+            326.01
+          ],
+          "kind": "checkbox",
+          "label": "sauber ohne Beschä-"
+        },
+        {
+          "id": "p4f17",
+          "rect": [
+            230.81,
+            317.01,
+            239.81,
+            326.01
+          ],
+          "kind": "checkbox",
+          "label": "sauber ohne Beschä- □"
+        },
+        {
+          "id": "p4f18",
+          "rect": [
+            410.47,
+            317.01,
+            419.47,
+            326.01
+          ],
+          "kind": "checkbox",
+          "label": "sauber ohne Beschä- □ □ Elektrogeräte geprüft"
+        },
+        {
+          "id": "p4f19",
+          "rect": [
+            480.46,
+            317.01,
+            489.46,
+            326.01
+          ],
+          "kind": "checkbox",
+          "label": "sauber ohne Beschä- □ □ Elektrogeräte geprüft □"
+        },
+        {
+          "id": "p4f20",
+          "rect": [
+            181.22,
+            436.05,
+            190.22,
+            445.05
+          ],
+          "kind": "checkbox",
+          "label": "separates WC für"
+        },
+        {
+          "id": "p4f21",
+          "rect": [
+            230.81,
+            436.05,
+            239.81,
+            445.05
+          ],
+          "kind": "checkbox",
+          "label": "separates WC für □"
+        },
+        {
+          "id": "p4f22",
+          "rect": [
+            410.47,
+            436.05,
+            419.47,
+            445.05
+          ],
+          "kind": "checkbox",
+          "label": "separates WC für □ □ WC sauber und unbe-"
+        },
+        {
+          "id": "p4f23",
+          "rect": [
+            480.46,
+            436.05,
+            489.46,
+            445.05
+          ],
+          "kind": "checkbox",
+          "label": "separates WC für □ □ WC sauber und unbe- □"
+        },
+        {
+          "id": "p4f24",
+          "rect": [
+            181.22,
+            473.99,
+            190.22,
+            482.99
+          ],
+          "kind": "checkbox",
+          "label": "Handwaschbecken im"
+        },
+        {
+          "id": "p4f25",
+          "rect": [
+            230.81,
+            473.99,
+            239.81,
+            482.99
+          ],
+          "kind": "checkbox",
+          "label": "Handwaschbecken im □"
+        },
+        {
+          "id": "p4f26",
+          "rect": [
+            410.47,
+            473.99,
+            419.47,
+            482.99
+          ],
+          "kind": "checkbox",
+          "label": "Handwaschbecken im □ □ Handwaschbecken"
+        },
+        {
+          "id": "p4f27",
+          "rect": [
+            480.46,
+            473.99,
+            489.46,
+            482.99
+          ],
+          "kind": "checkbox",
+          "label": "Handwaschbecken im □ □ Handwaschbecken □"
+        },
+        {
+          "id": "p4f28",
+          "rect": [
+            181.22,
+            530.87,
+            190.22,
+            539.87
+          ],
+          "kind": "checkbox",
+          "label": "Flüssigseife vorhan-"
+        },
+        {
+          "id": "p4f29",
+          "rect": [
+            230.81,
+            530.87,
+            239.81,
+            539.87
+          ],
+          "kind": "checkbox",
+          "label": "Flüssigseife vorhan- □"
+        },
+        {
+          "id": "p4f30",
+          "rect": [
+            410.47,
+            530.87,
+            419.47,
+            539.87
+          ],
+          "kind": "checkbox",
+          "label": "Flüssigseife vorhan- □ □ Einweghandtücher vor-"
+        },
+        {
+          "id": "p4f31",
+          "rect": [
+            480.46,
+            530.87,
+            489.46,
+            539.87
+          ],
+          "kind": "checkbox",
+          "label": "Flüssigseife vorhan- □ □ Einweghandtücher vor- □"
+        },
+        {
+          "id": "p4f32",
+          "rect": [
+            181.22,
+            568.79,
+            190.22,
+            577.79
+          ],
+          "kind": "checkbox",
+          "label": "Desinfektionsmittel"
+        },
+        {
+          "id": "p4f33",
+          "rect": [
+            230.81,
+            568.79,
+            239.81,
+            577.79
+          ],
+          "kind": "checkbox",
+          "label": "Desinfektionsmittel □"
+        },
+        {
+          "id": "p4f34",
+          "rect": [
+            181.22,
+            663.74,
+            190.22,
+            672.74
+          ],
+          "kind": "checkbox",
+          "label": "vorhanden"
+        },
+        {
+          "id": "p4f35",
+          "rect": [
+            230.81,
+            663.74,
+            239.81,
+            672.74
+          ],
+          "kind": "checkbox",
+          "label": "vorhanden □"
+        },
+        {
+          "id": "p4f36",
+          "rect": [
+            410.47,
+            663.74,
+            419.47,
+            672.74
+          ],
+          "kind": "checkbox",
+          "label": "vorhanden □ □ separater Bereich"
+        },
+        {
+          "id": "p4f37",
+          "rect": [
+            480.46,
+            663.74,
+            489.46,
+            672.74
+          ],
+          "kind": "checkbox",
+          "label": "vorhanden □ □ separater Bereich □"
+        },
+        {
+          "id": "p4f38",
+          "rect": [
+            181.22,
+            691.34,
+            190.22,
+            700.34
+          ],
+          "kind": "checkbox",
+          "label": "separater Raum"
+        },
+        {
+          "id": "p4f39",
+          "rect": [
+            230.81,
+            691.34,
+            239.81,
+            700.34
+          ],
+          "kind": "checkbox",
+          "label": "separater Raum □"
+        },
+        {
+          "id": "p4f40",
+          "rect": [
+            410.47,
+            691.34,
+            419.47,
+            700.34
+          ],
+          "kind": "checkbox",
+          "label": "separater Raum □ □ Schwarz-/Weißtrennung"
+        },
+        {
+          "id": "p4f41",
+          "rect": [
+            480.46,
+            691.34,
+            489.46,
+            700.34
+          ],
+          "kind": "checkbox",
+          "label": "separater Raum □ □ Schwarz-/Weißtrennung □"
+        }
+      ]
+    },
+    {
+      "width": 595.3200073242188,
+      "height": 841.9199829101562,
+      "fields": [
+        {
+          "id": "p5f0",
+          "rect": [
+            97.82,
+            89.48,
+            106.82,
+            98.48
+          ],
+          "kind": "checkbox",
+          "label": "Ja"
+        },
+        {
+          "id": "p5f1",
+          "rect": [
+            274.85,
+            89.48,
+            283.85,
+            98.48
+          ],
+          "kind": "checkbox",
+          "label": "Ja □ Nein"
+        },
+        {
+          "id": "p5f2",
+          "rect": [
+            62.4,
+            169.02,
+            533.93,
+            186.81
+          ],
+          "kind": "text",
+          "label": "Feld 3"
+        },
+        {
+          "id": "p5f3",
+          "rect": [
+            62.4,
+            196.62,
+            533.93,
+            214.41
+          ],
+          "kind": "text",
+          "label": "Feld 4"
+        },
+        {
+          "id": "p5f4",
+          "rect": [
+            62.4,
+            224.22,
+            533.93,
+            242.01
+          ],
+          "kind": "text",
+          "label": "Feld 5"
+        },
+        {
+          "id": "p5f5",
+          "rect": [
+            62.4,
+            251.82,
+            533.93,
+            269.61
+          ],
+          "kind": "text",
+          "label": "Feld 6"
+        },
+        {
+          "id": "p5f6",
+          "rect": [
+            62.4,
+            279.45,
+            534.06,
+            297.24
+          ],
+          "kind": "text",
+          "label": "Feld 7"
+        },
+        {
+          "id": "p5f7",
+          "rect": [
+            62.4,
+            307.05,
+            533.93,
+            324.84
+          ],
+          "kind": "text",
+          "label": "Feld 8"
+        },
+        {
+          "id": "p5f8",
+          "rect": [
+            62.4,
+            334.65,
+            533.93,
+            352.44
+          ],
+          "kind": "text",
+          "label": "Feld 9"
+        },
+        {
+          "id": "p5f9",
+          "rect": [
+            62.4,
+            362.25,
+            533.93,
+            380.04
+          ],
+          "kind": "text",
+          "label": "Feld 10"
+        },
+        {
+          "id": "p5f10",
+          "rect": [
+            62.4,
+            410.61,
+            533.93,
+            428.4
+          ],
+          "kind": "text",
+          "label": "Feld 11"
+        },
+        {
+          "id": "p5f11",
+          "rect": [
+            62.4,
+            438.21,
+            533.93,
+            456.0
+          ],
+          "kind": "text",
+          "label": "Feld 12"
+        },
+        {
+          "id": "p5f12",
+          "rect": [
+            62.4,
+            465.83,
+            533.93,
+            483.62
+          ],
+          "kind": "text",
+          "label": "Feld 13"
+        },
+        {
+          "id": "p5f13",
+          "rect": [
+            62.4,
+            493.43,
+            533.93,
+            511.22
+          ],
+          "kind": "text",
+          "label": "Feld 14"
+        },
+        {
+          "id": "p5f14",
+          "rect": [
+            62.4,
+            521.03,
+            533.93,
+            538.82
+          ],
+          "kind": "text",
+          "label": "Feld 15"
+        },
+        {
+          "id": "p5f15",
+          "rect": [
+            62.4,
+            548.63,
+            533.93,
+            566.42
+          ],
+          "kind": "text",
+          "label": "Feld 16"
+        },
+        {
+          "id": "p5f16",
+          "rect": [
+            62.4,
+            576.23,
+            533.96,
+            594.02
+          ],
+          "kind": "text",
+          "label": "Feld 17"
+        },
+        {
+          "id": "p5f17",
+          "rect": [
+            62.4,
+            603.83,
+            533.93,
+            621.62
+          ],
+          "kind": "text",
+          "label": "Feld 18"
+        },
+        {
+          "id": "p5f18",
+          "rect": [
+            99.26,
+            650.31,
+            294.88,
+            662.62
+          ],
+          "kind": "text",
+          "label": "Name:"
+        },
+        {
+          "id": "p5f19",
+          "rect": [
+            363.55,
+            650.31,
+            504.21,
+            662.62
+          ],
+          "kind": "text",
+          "label": "Name: ________________________________ Funktion:"
+        }
+      ]
+    }
+  ],
+  "repeat_page": null
+}

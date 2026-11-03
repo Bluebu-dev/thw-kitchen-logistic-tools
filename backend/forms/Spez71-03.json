@@ -1,0 +1,5347 @@
+{
+  "pages": [
+    {
+      "width": 595.3200073242188,
+      "height": 841.9199829101562,
+      "fields": [
+        {
+          "id": "p0f0",
+          "rect": [
+            82.06,
+            160.27,
+            363.57,
+            172.58
+          ],
+          "kind": "text",
+          "label": "Ort"
+        },
+        {
+          "id": "p0f1",
+          "rect": [
+            99.83,
+            198.31,
+            240.41,
+            210.62
+          ],
+          "kind": "text",
+          "label": "Datum"
+        },
+        {
+          "id": "p0f2",
+          "rect": [
+            315.28,
+            198.31,
+            492.71,
+            210.62
+          ],
+          "kind": "text",
+          "label": "Datum _______________________ Uhrzeit"
+        },
+        {
+          "id": "p0f3",
+          "rect": [
+            101.54,
+            236.23,
+            493.27,
+            248.54
+          ],
+          "kind": "text",
+          "label": "Anlass"
+        },
+        {
+          "id": "p0f4",
+          "rect": [
+            133.22,
+            277.29,
+            142.22,
+            286.29
+          ],
+          "kind": "checkbox",
+          "label": "OV-Küche"
+        },
+        {
+          "id": "p0f5",
+          "rect": [
+            274.85,
+            277.29,
+            283.85,
+            286.29
+          ],
+          "kind": "checkbox",
+          "label": "OV-Küche □ Feldküche"
+        },
+        {
+          "id": "p0f6",
+          "rect": [
+            438.67,
+            277.29,
+            447.67,
+            286.29
+          ],
+          "kind": "checkbox",
+          "label": "OV-Küche □ Feldküche □ Ausgabestelle"
+        },
+        {
+          "id": "p0f7",
+          "rect": [
+            254.69,
+            344.98,
+            352.41,
+            357.29
+          ],
+          "kind": "text",
+          "label": "Anzahl Helferinnen und Helfer gesamt:"
+        },
+        {
+          "id": "p0f8",
+          "rect": [
+            239.45,
+            386.06,
+            248.45,
+            395.06
+          ],
+          "kind": "checkbox",
+          "label": "verantwortliche Person: ja"
+        },
+        {
+          "id": "p0f9",
+          "rect": [
+            310.37,
+            385.78,
+            432.67,
+            398.09
+          ],
+          "kind": "text",
+          "label": "verantwortliche Person: ja □ Name:"
+        },
+        {
+          "id": "p0f10",
+          "rect": [
+            487.3,
+            386.06,
+            496.3,
+            395.06
+          ],
+          "kind": "checkbox",
+          "label": "verantwortliche Person: ja □ Name: ____________________ nein"
+        },
+        {
+          "id": "p0f11",
+          "rect": [
+            239.45,
+            410.18,
+            248.45,
+            419.18
+          ],
+          "kind": "checkbox",
+          "label": "Teilbereiche delegiert: ja"
+        },
+        {
+          "id": "p0f12",
+          "rect": [
+            310.37,
+            409.9,
+            432.67,
+            422.21
+          ],
+          "kind": "text",
+          "label": "Teilbereiche delegiert: ja □ Name:"
+        },
+        {
+          "id": "p0f13",
+          "rect": [
+            487.3,
+            410.18,
+            496.3,
+            419.18
+          ],
+          "kind": "checkbox",
+          "label": "Teilbereiche delegiert: ja □ Name: ____________________ nein"
+        },
+        {
+          "id": "p0f14",
+          "rect": [
+            239.45,
+            434.3,
+            248.45,
+            443.3
+          ],
+          "kind": "checkbox",
+          "label": "LM-Fachpersonal: ja"
+        },
+        {
+          "id": "p0f15",
+          "rect": [
+            314.57,
+            434.02,
+            436.99,
+            446.33
+          ],
+          "kind": "text",
+          "label": "LM-Fachpersonal: ja □ Anzahl:"
+        },
+        {
+          "id": "p0f16",
+          "rect": [
+            487.3,
+            434.3,
+            496.3,
+            443.3
+          ],
+          "kind": "checkbox",
+          "label": "LM-Fachpersonal: ja □ Anzahl: ____________________ nein"
+        },
+        {
+          "id": "p0f17",
+          "rect": [
+            239.45,
+            458.42,
+            248.45,
+            467.42
+          ],
+          "kind": "checkbox",
+          "label": "Log-V Helferin/Helfer: ja"
+        },
+        {
+          "id": "p0f18",
+          "rect": [
+            314.57,
+            458.14,
+            436.99,
+            470.45
+          ],
+          "kind": "text",
+          "label": "Log-V Helferin/Helfer: ja □ Anzahl:"
+        },
+        {
+          "id": "p0f19",
+          "rect": [
+            487.3,
+            458.42,
+            496.3,
+            467.42
+          ],
+          "kind": "checkbox",
+          "label": "Log-V Helferin/Helfer: ja □ Anzahl: ____________________ nein"
+        },
+        {
+          "id": "p0f20",
+          "rect": [
+            239.45,
+            482.68,
+            248.45,
+            491.68
+          ],
+          "kind": "checkbox",
+          "label": "ungeschultes Personal: ja"
+        },
+        {
+          "id": "p0f21",
+          "rect": [
+            314.57,
+            482.4,
+            436.99,
+            494.71
+          ],
+          "kind": "text",
+          "label": "ungeschultes Personal: ja □ Anzahl:"
+        },
+        {
+          "id": "p0f22",
+          "rect": [
+            487.3,
+            482.68,
+            496.3,
+            491.68
+          ],
+          "kind": "checkbox",
+          "label": "ungeschultes Personal: ja □ Anzahl: ____________________ nein"
+        },
+        {
+          "id": "p0f23",
+          "rect": [
+            239.45,
+            525.76,
+            248.45,
+            534.76
+          ],
+          "kind": "checkbox",
+          "label": "Kurzbelehrung erhalten: ja"
+        },
+        {
+          "id": "p0f24",
+          "rect": [
+            314.57,
+            525.48,
+            345.19,
+            537.79
+          ],
+          "kind": "text",
+          "label": "Kurzbelehrung erhalten: ja □ Anzahl:"
+        },
+        {
+          "id": "p0f25",
+          "rect": [
+            409.97,
+            525.48,
+            440.59,
+            537.79
+          ],
+          "kind": "text",
+          "label": "Kurzbelehrung erhalten: ja □ Anzahl: _____ Anzahl:"
+        },
+        {
+          "id": "p0f26",
+          "rect": [
+            487.3,
+            525.76,
+            496.3,
+            534.76
+          ],
+          "kind": "checkbox",
+          "label": "Kurzbelehrung erhalten: ja □ Anzahl: _____ Anzahl: _____ nein"
+        },
+        {
+          "id": "p0f27",
+          "rect": [
+            271.13,
+            546.84,
+            375.1,
+            559.15
+          ],
+          "kind": "text",
+          "label": "Kurzbelehrung durchgeführt durch: Name:"
+        },
+        {
+          "id": "p0f28",
+          "rect": [
+            416.71,
+            546.84,
+            514.56,
+            559.15
+          ],
+          "kind": "text",
+          "label": "Kurzbelehrung durchgeführt durch: Name: _________________ Datum:"
+        },
+        {
+          "id": "p0f29",
+          "rect": [
+            239.45,
+            587.8,
+            248.45,
+            596.8
+          ],
+          "kind": "checkbox",
+          "label": "Belehrung IfSG vorhanden: ja"
+        },
+        {
+          "id": "p0f30",
+          "rect": [
+            314.57,
+            587.52,
+            345.19,
+            599.83
+          ],
+          "kind": "text",
+          "label": "Belehrung IfSG vorhanden: ja □ Anzahl:"
+        },
+        {
+          "id": "p0f31",
+          "rect": [
+            409.97,
+            587.52,
+            440.59,
+            599.83
+          ],
+          "kind": "text",
+          "label": "Belehrung IfSG vorhanden: ja □ Anzahl: _____ Anzahl:"
+        },
+        {
+          "id": "p0f32",
+          "rect": [
+            487.3,
+            587.8,
+            496.3,
+            596.8
+          ],
+          "kind": "checkbox",
+          "label": "Belehrung IfSG vorhanden: ja □ Anzahl: _____ Anzahl: _____ nein"
+        },
+        {
+          "id": "p0f33",
+          "rect": [
+            239.45,
+            612.04,
+            248.45,
+            621.04
+          ],
+          "kind": "checkbox",
+          "label": "IfSG Nachweiskopie dabei: ja"
+        },
+        {
+          "id": "p0f34",
+          "rect": [
+            314.57,
+            611.76,
+            345.19,
+            624.07
+          ],
+          "kind": "text",
+          "label": "IfSG Nachweiskopie dabei: ja □ Anzahl:"
+        },
+        {
+          "id": "p0f35",
+          "rect": [
+            409.97,
+            611.76,
+            440.59,
+            624.07
+          ],
+          "kind": "text",
+          "label": "IfSG Nachweiskopie dabei: ja □ Anzahl: _____ Anzahl:"
+        },
+        {
+          "id": "p0f36",
+          "rect": [
+            487.3,
+            612.04,
+            496.3,
+            621.04
+          ],
+          "kind": "checkbox",
+          "label": "IfSG Nachweiskopie dabei: ja □ Anzahl: _____ Anzahl: _____ nein"
+        },
+        {
+          "id": "p0f37",
+          "rect": [
+            239.45,
+            674.11,
+            248.45,
+            683.11
+          ],
+          "kind": "checkbox",
+          "label": "ja"
+        },
+        {
+          "id": "p0f38",
+          "rect": [
+            314.57,
+            673.83,
+            345.19,
+            686.14
+          ],
+          "kind": "text",
+          "label": "ja □ Anzahl:"
+        },
+        {
+          "id": "p0f39",
+          "rect": [
+            409.97,
+            673.83,
+            440.59,
+            686.14
+          ],
+          "kind": "text",
+          "label": "ja □ Anzahl: _____ Anzahl:"
+        },
+        {
+          "id": "p0f40",
+          "rect": [
+            487.3,
+            674.11,
+            496.3,
+            683.11
+          ],
+          "kind": "checkbox",
+          "label": "ja □ Anzahl: _____ Anzahl: _____ nein"
+        },
+        {
+          "id": "p0f41",
+          "rect": [
+            239.45,
+            717.19,
+            248.45,
+            726.19
+          ],
+          "kind": "checkbox",
+          "label": "ja"
+        },
+        {
+          "id": "p0f42",
+          "rect": [
+            314.57,
+            716.91,
+            345.19,
+            729.22
+          ],
+          "kind": "text",
+          "label": "ja □ Anzahl:"
+        },
+        {
+          "id": "p0f43",
+          "rect": [
+            409.97,
+            716.91,
+            440.59,
+            729.22
+          ],
+          "kind": "text",
+          "label": "ja □ Anzahl: _____ Anzahl:"
+        },
+        {
+          "id": "p0f44",
+          "rect": [
+            487.3,
+            717.19,
+            496.3,
+            726.19
+          ],
+          "kind": "checkbox",
+          "label": "ja □ Anzahl: _____ Anzahl: _____ nein"
+        }
+      ]
+    },
+    {
+      "width": 595.3200073242188,
+      "height": 841.9199829101562,
+      "fields": [
+        {
+          "id": "p1f0",
+          "rect": [
+            409.99,
+            86.23,
+            489.45,
+            98.54
+          ],
+          "kind": "text",
+          "label": "einsetzbare Personen im LM-Bereich (weiß-Bereich): Anzahl:"
+        },
+        {
+          "id": "p1f1",
+          "rect": [
+            409.99,
+            105.31,
+            489.45,
+            117.62
+          ],
+          "kind": "text",
+          "label": "einsetzbare Personen im LM-Bereich (schwarz-Bereich): Anzahl:"
+        },
+        {
+          "id": "p1f2",
+          "rect": [
+            409.99,
+            124.27,
+            489.45,
+            136.58
+          ],
+          "kind": "text",
+          "label": "nicht einsetzbare Personen im LM-Bereich: Anzahl:"
+        },
+        {
+          "id": "p1f3",
+          "rect": [
+            345.67,
+            165.23,
+            354.67,
+            174.23
+          ],
+          "kind": "checkbox",
+          "label": "Anforderungen nach dem IfSG erfüllt: ja"
+        },
+        {
+          "id": "p1f4",
+          "rect": [
+            487.3,
+            165.23,
+            496.3,
+            174.23
+          ],
+          "kind": "checkbox",
+          "label": "Anforderungen nach dem IfSG erfüllt: ja □ nein"
+        },
+        {
+          "id": "p1f5",
+          "rect": [
+            345.67,
+            189.35,
+            354.67,
+            198.35
+          ],
+          "kind": "checkbox",
+          "label": "Anforderungen VO(EG) 852/2004 erfüllt: ja"
+        },
+        {
+          "id": "p1f6",
+          "rect": [
+            487.3,
+            189.35,
+            496.3,
+            198.35
+          ],
+          "kind": "checkbox",
+          "label": "Anforderungen VO(EG) 852/2004 erfüllt: ja □ nein"
+        },
+        {
+          "id": "p1f7",
+          "rect": [
+            62.4,
+            248.47,
+            539.83,
+            260.78
+          ],
+          "kind": "text",
+          "label": "Feld 8"
+        },
+        {
+          "id": "p1f8",
+          "rect": [
+            62.4,
+            267.43,
+            539.85,
+            279.74
+          ],
+          "kind": "text",
+          "label": "Feld 9"
+        },
+        {
+          "id": "p1f9",
+          "rect": [
+            62.4,
+            286.42,
+            539.78,
+            298.73
+          ],
+          "kind": "text",
+          "label": "Feld 10"
+        },
+        {
+          "id": "p1f10",
+          "rect": [
+            62.4,
+            305.38,
+            539.78,
+            317.69
+          ],
+          "kind": "text",
+          "label": "Feld 11"
+        },
+        {
+          "id": "p1f11",
+          "rect": [
+            62.4,
+            324.34,
+            539.88,
+            336.65
+          ],
+          "kind": "text",
+          "label": "Feld 12"
+        },
+        {
+          "id": "p1f12",
+          "rect": [
+            62.4,
+            381.22,
+            178.7,
+            393.53
+          ],
+          "kind": "text",
+          "label": "Feld 13"
+        },
+        {
+          "id": "p1f13",
+          "rect": [
+            239.45,
+            381.22,
+            355.75,
+            393.53
+          ],
+          "kind": "text",
+          "label": "___________________"
+        }
+      ]
+    },
+    {
+      "width": 595.3200073242188,
+      "height": 841.9199829101562,
+      "fields": [
+        {
+          "id": "p2f0",
+          "rect": [
+            82.06,
+            160.27,
+            363.57,
+            172.58
+          ],
+          "kind": "text",
+          "label": "Ort"
+        },
+        {
+          "id": "p2f1",
+          "rect": [
+            99.86,
+            198.31,
+            240.4,
+            210.62
+          ],
+          "kind": "text",
+          "label": "Datum"
+        },
+        {
+          "id": "p2f2",
+          "rect": [
+            315.28,
+            198.31,
+            492.71,
+            210.62
+          ],
+          "kind": "text",
+          "label": "Datum _______________________ Uhrzeit"
+        },
+        {
+          "id": "p2f3",
+          "rect": [
+            101.48,
+            236.23,
+            493.27,
+            248.54
+          ],
+          "kind": "text",
+          "label": "Anlass"
+        },
+        {
+          "id": "p2f4",
+          "rect": [
+            177.86,
+            301.46,
+            186.86,
+            310.46
+          ],
+          "kind": "checkbox",
+          "label": "geschlossener Raum"
+        },
+        {
+          "id": "p2f5",
+          "rect": [
+            253.01,
+            301.46,
+            262.01,
+            310.46
+          ],
+          "kind": "checkbox",
+          "label": "geschlossener Raum □ Zelt"
+        },
+        {
+          "id": "p2f6",
+          "rect": [
+            401.47,
+            301.46,
+            410.47,
+            310.46
+          ],
+          "kind": "checkbox",
+          "label": "geschlossener Raum □ Zelt □ unter freiem Himmel"
+        },
+        {
+          "id": "p2f7",
+          "rect": [
+            522.7,
+            301.46,
+            531.7,
+            310.46
+          ],
+          "kind": "checkbox",
+          "label": "geschlossener Raum □ Zelt □ unter freiem Himmel □ gemischt"
+        },
+        {
+          "id": "p2f8",
+          "rect": [
+            310.25,
+            325.7,
+            319.25,
+            334.7
+          ],
+          "kind": "checkbox",
+          "label": "3-seitig abgetrennt ja"
+        },
+        {
+          "id": "p2f9",
+          "rect": [
+            522.7,
+            325.7,
+            531.7,
+            334.7
+          ],
+          "kind": "checkbox",
+          "label": "3-seitig abgetrennt ja □ nein"
+        },
+        {
+          "id": "p2f10",
+          "rect": [
+            310.25,
+            349.82,
+            319.25,
+            358.82
+          ],
+          "kind": "checkbox",
+          "label": "Zugangsbeschränkung/Absperrung ja"
+        },
+        {
+          "id": "p2f11",
+          "rect": [
+            353.35,
+            349.54,
+            438.81,
+            361.85
+          ],
+          "kind": "text",
+          "label": "Zugangsbeschränkung/Absperrung ja □ durch"
+        },
+        {
+          "id": "p2f12",
+          "rect": [
+            522.7,
+            349.82,
+            531.7,
+            358.82
+          ],
+          "kind": "checkbox",
+          "label": "Zugangsbeschränkung/Absperrung ja □ durch ______________ nein"
+        },
+        {
+          "id": "p2f13",
+          "rect": [
+            310.25,
+            373.94,
+            319.25,
+            382.94
+          ],
+          "kind": "checkbox",
+          "label": "Abschirmung gegen Regen/Vögel ja"
+        },
+        {
+          "id": "p2f14",
+          "rect": [
+            353.35,
+            373.66,
+            438.81,
+            385.97
+          ],
+          "kind": "text",
+          "label": "Abschirmung gegen Regen/Vögel ja □ durch"
+        },
+        {
+          "id": "p2f15",
+          "rect": [
+            522.7,
+            373.94,
+            531.7,
+            382.94
+          ],
+          "kind": "checkbox",
+          "label": "Abschirmung gegen Regen/Vögel ja □ durch ______________ nein"
+        },
+        {
+          "id": "p2f16",
+          "rect": [
+            310.25,
+            436.1,
+            319.25,
+            445.1
+          ],
+          "kind": "checkbox",
+          "label": "fester Boden ja"
+        },
+        {
+          "id": "p2f17",
+          "rect": [
+            353.35,
+            435.82,
+            438.81,
+            448.13
+          ],
+          "kind": "text",
+          "label": "fester Boden ja □ durch"
+        },
+        {
+          "id": "p2f18",
+          "rect": [
+            522.7,
+            436.1,
+            531.7,
+            445.1
+          ],
+          "kind": "checkbox",
+          "label": "fester Boden ja □ durch ______________ nein"
+        },
+        {
+          "id": "p2f19",
+          "rect": [
+            144.86,
+            460.22,
+            153.86,
+            469.22
+          ],
+          "kind": "checkbox",
+          "label": "► Gras"
+        },
+        {
+          "id": "p2f20",
+          "rect": [
+            254.21,
+            460.22,
+            263.21,
+            469.22
+          ],
+          "kind": "checkbox",
+          "label": "► Gras □ Erdreich"
+        },
+        {
+          "id": "p2f21",
+          "rect": [
+            354.91,
+            460.22,
+            363.91,
+            469.22
+          ],
+          "kind": "checkbox",
+          "label": "► Gras □ Erdreich □ Matsch"
+        },
+        {
+          "id": "p2f22",
+          "rect": [
+            310.25,
+            484.36,
+            319.25,
+            493.36
+          ],
+          "kind": "checkbox",
+          "label": "Boden gereinigt/sauber ja"
+        },
+        {
+          "id": "p2f23",
+          "rect": [
+            522.7,
+            484.36,
+            531.7,
+            493.36
+          ],
+          "kind": "checkbox",
+          "label": "Boden gereinigt/sauber ja □ nein"
+        },
+        {
+          "id": "p2f24",
+          "rect": [
+            310.25,
+            551.68,
+            319.25,
+            560.68
+          ],
+          "kind": "checkbox",
+          "label": "unter Aufsicht ja"
+        },
+        {
+          "id": "p2f25",
+          "rect": [
+            522.7,
+            551.68,
+            531.7,
+            560.68
+          ],
+          "kind": "checkbox",
+          "label": "unter Aufsicht ja □ nein"
+        },
+        {
+          "id": "p2f26",
+          "rect": [
+            310.25,
+            575.8,
+            319.25,
+            584.8
+          ],
+          "kind": "checkbox",
+          "label": "Spuckschutz vorhanden ja"
+        },
+        {
+          "id": "p2f27",
+          "rect": [
+            522.7,
+            575.8,
+            531.7,
+            584.8
+          ],
+          "kind": "checkbox",
+          "label": "Spuckschutz vorhanden ja □ nein"
+        },
+        {
+          "id": "p2f28",
+          "rect": [
+            310.25,
+            599.92,
+            319.25,
+            608.92
+          ],
+          "kind": "checkbox",
+          "label": "Kühlung, wenn erforderlich vorhanden ja"
+        },
+        {
+          "id": "p2f29",
+          "rect": [
+            522.7,
+            599.92,
+            531.7,
+            608.92
+          ],
+          "kind": "checkbox",
+          "label": "Kühlung, wenn erforderlich vorhanden ja □ nein"
+        },
+        {
+          "id": "p2f30",
+          "rect": [
+            310.25,
+            624.04,
+            319.25,
+            633.04
+          ],
+          "kind": "checkbox",
+          "label": "mehrere Ausgabestellen ja"
+        },
+        {
+          "id": "p2f31",
+          "rect": [
+            522.7,
+            624.04,
+            531.7,
+            633.04
+          ],
+          "kind": "checkbox",
+          "label": "mehrere Ausgabestellen ja □ nein"
+        },
+        {
+          "id": "p2f32",
+          "rect": [
+            310.25,
+            648.28,
+            319.25,
+            657.28
+          ],
+          "kind": "checkbox",
+          "label": "Ausgabestellen aufgeteilt ja"
+        },
+        {
+          "id": "p2f33",
+          "rect": [
+            522.7,
+            648.28,
+            531.7,
+            657.28
+          ],
+          "kind": "checkbox",
+          "label": "Ausgabestellen aufgeteilt ja □ nein"
+        },
+        {
+          "id": "p2f34",
+          "rect": [
+            150.98,
+            672.43,
+            159.98,
+            681.43
+          ],
+          "kind": "checkbox",
+          "label": "► vegan"
+        },
+        {
+          "id": "p2f35",
+          "rect": [
+            251.81,
+            672.43,
+            260.81,
+            681.43
+          ],
+          "kind": "checkbox",
+          "label": "► vegan □ Laktose"
+        },
+        {
+          "id": "p2f36",
+          "rect": [
+            354.91,
+            672.43,
+            363.91,
+            681.43
+          ],
+          "kind": "checkbox",
+          "label": "► vegan □ Laktose □ weitere"
+        },
+        {
+          "id": "p2f37",
+          "rect": [
+            367.39,
+            672.15,
+            532.56,
+            684.46
+          ],
+          "kind": "text",
+          "label": "► vegan □ Laktose □ weitere □"
+        }
+      ]
+    },
+    {
+      "width": 595.3200073242188,
+      "height": 841.9199829101562,
+      "fields": [
+        {
+          "id": "p3f0",
+          "rect": [
+            62.4,
+            105.31,
+            539.78,
+            117.62
+          ],
+          "kind": "text",
+          "label": "Feld 1"
+        },
+        {
+          "id": "p3f1",
+          "rect": [
+            62.4,
+            124.27,
+            539.78,
+            136.58
+          ],
+          "kind": "text",
+          "label": "Feld 2"
+        },
+        {
+          "id": "p3f2",
+          "rect": [
+            62.4,
+            143.23,
+            539.78,
+            155.54
+          ],
+          "kind": "text",
+          "label": "Feld 3"
+        },
+        {
+          "id": "p3f3",
+          "rect": [
+            310.25,
+            184.19,
+            319.25,
+            193.19
+          ],
+          "kind": "checkbox",
+          "label": "Anforderungen VO(EG) 852/2004 erfüllt: ja"
+        },
+        {
+          "id": "p3f4",
+          "rect": [
+            522.7,
+            184.19,
+            531.7,
+            193.19
+          ],
+          "kind": "checkbox",
+          "label": "Anforderungen VO(EG) 852/2004 erfüllt: ja □ nein"
+        },
+        {
+          "id": "p3f5",
+          "rect": [
+            310.25,
+            208.31,
+            319.25,
+            217.31
+          ],
+          "kind": "checkbox",
+          "label": "Anforderungen nach LMHV erfüllt: ja"
+        },
+        {
+          "id": "p3f6",
+          "rect": [
+            522.7,
+            208.31,
+            531.7,
+            217.31
+          ],
+          "kind": "checkbox",
+          "label": "Anforderungen nach LMHV erfüllt: ja □ nein"
+        },
+        {
+          "id": "p3f7",
+          "rect": [
+            62.4,
+            286.42,
+            539.78,
+            298.73
+          ],
+          "kind": "text",
+          "label": "Feld 8"
+        },
+        {
+          "id": "p3f8",
+          "rect": [
+            62.4,
+            305.38,
+            539.78,
+            317.69
+          ],
+          "kind": "text",
+          "label": "Feld 9"
+        },
+        {
+          "id": "p3f9",
+          "rect": [
+            62.4,
+            324.34,
+            539.78,
+            336.65
+          ],
+          "kind": "text",
+          "label": "Feld 10"
+        },
+        {
+          "id": "p3f10",
+          "rect": [
+            62.4,
+            343.3,
+            539.83,
+            355.61
+          ],
+          "kind": "text",
+          "label": "Feld 11"
+        },
+        {
+          "id": "p3f11",
+          "rect": [
+            62.4,
+            362.26,
+            533.66,
+            374.57
+          ],
+          "kind": "text",
+          "label": "Feld 12"
+        },
+        {
+          "id": "p3f12",
+          "rect": [
+            62.4,
+            419.26,
+            178.7,
+            431.57
+          ],
+          "kind": "text",
+          "label": "Feld 13"
+        },
+        {
+          "id": "p3f13",
+          "rect": [
+            239.45,
+            419.26,
+            355.75,
+            431.57
+          ],
+          "kind": "text",
+          "label": "___________________"
+        }
+      ]
+    },
+    {
+      "width": 595.3200073242188,
+      "height": 841.9199829101562,
+      "fields": [
+        {
+          "id": "p4f0",
+          "rect": [
+            82.06,
+            160.27,
+            363.57,
+            172.58
+          ],
+          "kind": "text",
+          "label": "Ort"
+        },
+        {
+          "id": "p4f1",
+          "rect": [
+            99.83,
+            198.31,
+            240.41,
+            210.62
+          ],
+          "kind": "text",
+          "label": "Datum"
+        },
+        {
+          "id": "p4f2",
+          "rect": [
+            315.28,
+            198.31,
+            492.71,
+            210.62
+          ],
+          "kind": "text",
+          "label": "Datum _______________________ Uhrzeit"
+        },
+        {
+          "id": "p4f3",
+          "rect": [
+            101.48,
+            236.23,
+            493.27,
+            248.54
+          ],
+          "kind": "text",
+          "label": "Anlass"
+        },
+        {
+          "id": "p4f4",
+          "rect": [
+            168.62,
+            301.46,
+            177.62,
+            310.46
+          ],
+          "kind": "checkbox",
+          "label": "Warmverpflegung"
+        },
+        {
+          "id": "p4f5",
+          "rect": [
+            381.07,
+            301.46,
+            390.07,
+            310.46
+          ],
+          "kind": "checkbox",
+          "label": "Warmverpflegung □ Kaltverpflegung"
+        },
+        {
+          "id": "p4f6",
+          "rect": [
+            274.85,
+            325.7,
+            283.85,
+            334.7
+          ],
+          "kind": "checkbox",
+          "label": "Herstellung an Ausgabestelle ja"
+        },
+        {
+          "id": "p4f7",
+          "rect": [
+            381.07,
+            325.7,
+            390.07,
+            334.7
+          ],
+          "kind": "checkbox",
+          "label": "Herstellung an Ausgabestelle ja □ nein"
+        },
+        {
+          "id": "p4f8",
+          "rect": [
+            239.45,
+            349.82,
+            248.45,
+            358.82
+          ],
+          "kind": "checkbox",
+          "label": "Zufuhr mit: Fahrzeug Log-V"
+        },
+        {
+          "id": "p4f9",
+          "rect": [
+            381.07,
+            349.82,
+            390.07,
+            358.82
+          ],
+          "kind": "checkbox",
+          "label": "Zufuhr mit: Fahrzeug Log-V □ sonst THW KFZ"
+        },
+        {
+          "id": "p4f10",
+          "rect": [
+            487.3,
+            349.82,
+            496.3,
+            358.82
+          ],
+          "kind": "checkbox",
+          "label": "Zufuhr mit: Fahrzeug Log-V □ sonst THW KFZ □ Fremdfirma"
+        },
+        {
+          "id": "p4f11",
+          "rect": [
+            207.17,
+            373.94,
+            216.17,
+            382.94
+          ],
+          "kind": "checkbox",
+          "label": "► Art des KFZ: PKW(MTW)"
+        },
+        {
+          "id": "p4f12",
+          "rect": [
+            296.33,
+            373.94,
+            305.33,
+            382.94
+          ],
+          "kind": "checkbox",
+          "label": "► Art des KFZ: PKW(MTW) □ LKW-Lbw"
+        },
+        {
+          "id": "p4f13",
+          "rect": [
+            365.95,
+            373.94,
+            374.95,
+            382.94
+          ],
+          "kind": "checkbox",
+          "label": "► Art des KFZ: PKW(MTW) □ LKW-Lbw □ andere"
+        },
+        {
+          "id": "p4f14",
+          "rect": [
+            378.43,
+            373.66,
+            531.33,
+            385.97
+          ],
+          "kind": "text",
+          "label": "► Art des KFZ: PKW(MTW) □ LKW-Lbw □ andere □"
+        },
+        {
+          "id": "p4f15",
+          "rect": [
+            174.26,
+            395.02,
+            437.4,
+            407.33
+          ],
+          "kind": "text",
+          "label": "► Amtl. Kennzeichen:"
+        },
+        {
+          "id": "p4f16",
+          "rect": [
+            166.94,
+            413.98,
+            436.18,
+            426.29
+          ],
+          "kind": "text",
+          "label": "► Zustand des KFZ:"
+        },
+        {
+          "id": "p4f17",
+          "rect": [
+            168.62,
+            474.04,
+            177.62,
+            483.04
+          ],
+          "kind": "checkbox",
+          "label": "nicht sicher"
+        },
+        {
+          "id": "p4f18",
+          "rect": [
+            381.07,
+            474.04,
+            390.07,
+            483.04
+          ],
+          "kind": "checkbox",
+          "label": "nicht sicher □ nachteilige Beeinflussung"
+        },
+        {
+          "id": "p4f19",
+          "rect": [
+            168.62,
+            498.16,
+            177.62,
+            507.16
+          ],
+          "kind": "checkbox",
+          "label": "ekelerregend"
+        },
+        {
+          "id": "p4f20",
+          "rect": [
+            381.07,
+            498.16,
+            390.07,
+            507.16
+          ],
+          "kind": "checkbox",
+          "label": "ekelerregend □ nicht auszuschließen"
+        },
+        {
+          "id": "p4f21",
+          "rect": [
+            289.61,
+            522.28,
+            298.61,
+            531.28
+          ],
+          "kind": "checkbox",
+          "label": "Wareneingangskontrolle durchgeführt ja"
+        },
+        {
+          "id": "p4f22",
+          "rect": [
+            343.39,
+            522.28,
+            352.39,
+            531.28
+          ],
+          "kind": "checkbox",
+          "label": "Wareneingangskontrolle durchgeführt ja □ nein"
+        },
+        {
+          "id": "p4f23",
+          "rect": [
+            463.54,
+            522.28,
+            472.54,
+            531.28
+          ],
+          "kind": "checkbox",
+          "label": "Wareneingangskontrolle durchgeführt ja □ nein □ Dokumentation ja"
+        },
+        {
+          "id": "p4f24",
+          "rect": [
+            511.18,
+            522.28,
+            520.18,
+            531.28
+          ],
+          "kind": "checkbox",
+          "label": "Wareneingangskontrolle durchgeführt ja □ nein □ Dokumentation ja □ nein"
+        },
+        {
+          "id": "p4f25",
+          "rect": [
+            62.4,
+            562.44,
+            539.78,
+            574.75
+          ],
+          "kind": "text",
+          "label": "Feld 26"
+        },
+        {
+          "id": "p4f26",
+          "rect": [
+            62.4,
+            581.4,
+            539.78,
+            593.71
+          ],
+          "kind": "text",
+          "label": "Feld 27"
+        },
+        {
+          "id": "p4f27",
+          "rect": [
+            62.4,
+            600.36,
+            539.78,
+            612.67
+          ],
+          "kind": "text",
+          "label": "Feld 28"
+        },
+        {
+          "id": "p4f28",
+          "rect": [
+            62.4,
+            619.32,
+            539.83,
+            631.63
+          ],
+          "kind": "text",
+          "label": "Feld 29"
+        },
+        {
+          "id": "p4f29",
+          "rect": [
+            310.25,
+            657.27,
+            353.11,
+            669.58
+          ],
+          "kind": "text",
+          "label": "Zeit zwischen Herstellung und erster Ausgabe"
+        },
+        {
+          "id": "p4f30",
+          "rect": [
+            310.25,
+            676.23,
+            353.11,
+            688.54
+          ],
+          "kind": "text",
+          "label": "Ausgabedauer zum Zeitpunkt der Kontrolle"
+        },
+        {
+          "id": "p4f31",
+          "rect": [
+            310.25,
+            695.19,
+            353.11,
+            707.5
+          ],
+          "kind": "text",
+          "label": "Vorgesehene Ausgabedauer"
+        }
+      ]
+    },
+    {
+      "width": 595.3200073242188,
+      "height": 841.9199829101562,
+      "fields": [
+        {
+          "id": "p5f0",
+          "rect": [
+            345.67,
+            89.27,
+            354.67,
+            98.27
+          ],
+          "kind": "checkbox",
+          "label": "Temperaturkontrolle durch Ausgabestelle ja"
+        },
+        {
+          "id": "p5f1",
+          "rect": [
+            451.87,
+            89.27,
+            460.87,
+            98.27
+          ],
+          "kind": "checkbox",
+          "label": "Temperaturkontrolle durch Ausgabestelle ja □ nein"
+        },
+        {
+          "id": "p5f2",
+          "rect": [
+            77.52,
+            110.47,
+            249.05,
+            122.78
+          ],
+          "kind": "text",
+          "label": "Feld 3"
+        },
+        {
+          "id": "p5f3",
+          "rect": [
+            268.61,
+            110.47,
+            299.23,
+            122.78
+          ],
+          "kind": "text",
+          "label": "LM____________________________"
+        },
+        {
+          "id": "p5f4",
+          "rect": [
+            421.41,
+            110.47,
+            537.74,
+            122.78
+          ],
+          "kind": "text",
+          "label": "LM____________________________ soll_____ °C,"
+        },
+        {
+          "id": "p5f5",
+          "rect": [
+            77.52,
+            129.43,
+            249.05,
+            141.74
+          ],
+          "kind": "text",
+          "label": "Feld 6"
+        },
+        {
+          "id": "p5f6",
+          "rect": [
+            268.59,
+            129.43,
+            299.22,
+            141.74
+          ],
+          "kind": "text",
+          "label": "LM____________________________"
+        },
+        {
+          "id": "p5f7",
+          "rect": [
+            421.4,
+            129.43,
+            537.73,
+            141.74
+          ],
+          "kind": "text",
+          "label": "LM____________________________ soll_____ °C,"
+        },
+        {
+          "id": "p5f8",
+          "rect": [
+            77.52,
+            148.39,
+            249.05,
+            160.7
+          ],
+          "kind": "text",
+          "label": "Feld 9"
+        },
+        {
+          "id": "p5f9",
+          "rect": [
+            268.59,
+            148.39,
+            299.22,
+            160.7
+          ],
+          "kind": "text",
+          "label": "LM____________________________"
+        },
+        {
+          "id": "p5f10",
+          "rect": [
+            421.4,
+            148.39,
+            537.73,
+            160.7
+          ],
+          "kind": "text",
+          "label": "LM____________________________ soll_____ °C,"
+        },
+        {
+          "id": "p5f11",
+          "rect": [
+            77.52,
+            167.35,
+            249.05,
+            179.66
+          ],
+          "kind": "text",
+          "label": "Feld 12"
+        },
+        {
+          "id": "p5f12",
+          "rect": [
+            268.59,
+            167.35,
+            299.22,
+            179.66
+          ],
+          "kind": "text",
+          "label": "LM____________________________"
+        },
+        {
+          "id": "p5f13",
+          "rect": [
+            421.4,
+            167.35,
+            537.73,
+            179.66
+          ],
+          "kind": "text",
+          "label": "LM____________________________ soll_____ °C,"
+        },
+        {
+          "id": "p5f14",
+          "rect": [
+            204.05,
+            189.35,
+            213.05,
+            198.35
+          ],
+          "kind": "checkbox",
+          "label": "Dokumentation ja"
+        },
+        {
+          "id": "p5f15",
+          "rect": [
+            310.25,
+            189.35,
+            319.25,
+            198.35
+          ],
+          "kind": "checkbox",
+          "label": "Dokumentation ja □ nein"
+        },
+        {
+          "id": "p5f16",
+          "rect": [
+            77.52,
+            232.15,
+            249.05,
+            244.46
+          ],
+          "kind": "text",
+          "label": "Feld 17"
+        },
+        {
+          "id": "p5f17",
+          "rect": [
+            263.16,
+            232.15,
+            293.81,
+            244.46
+          ],
+          "kind": "text",
+          "label": "LM____________________________"
+        },
+        {
+          "id": "p5f18",
+          "rect": [
+            381.07,
+            232.43,
+            390.07,
+            241.43
+          ],
+          "kind": "checkbox",
+          "label": "LM____________________________ ist_____ °C, Produkt"
+        },
+        {
+          "id": "p5f19",
+          "rect": [
+            451.87,
+            232.43,
+            460.87,
+            241.43
+          ],
+          "kind": "checkbox",
+          "label": "LM____________________________ ist_____ °C, Produkt □ IR"
+        },
+        {
+          "id": "p5f20",
+          "rect": [
+            77.52,
+            256.39,
+            249.05,
+            268.7
+          ],
+          "kind": "text",
+          "label": "Feld 21"
+        },
+        {
+          "id": "p5f21",
+          "rect": [
+            263.16,
+            256.39,
+            293.81,
+            268.7
+          ],
+          "kind": "text",
+          "label": "LM____________________________"
+        },
+        {
+          "id": "p5f22",
+          "rect": [
+            381.07,
+            256.67,
+            390.07,
+            265.67
+          ],
+          "kind": "checkbox",
+          "label": "LM____________________________ ist_____ °C, Produkt"
+        },
+        {
+          "id": "p5f23",
+          "rect": [
+            451.87,
+            256.67,
+            460.87,
+            265.67
+          ],
+          "kind": "checkbox",
+          "label": "LM____________________________ ist_____ °C, Produkt □ IR"
+        },
+        {
+          "id": "p5f24",
+          "rect": [
+            77.52,
+            280.54,
+            249.05,
+            292.85
+          ],
+          "kind": "text",
+          "label": "Feld 25"
+        },
+        {
+          "id": "p5f25",
+          "rect": [
+            263.16,
+            280.54,
+            293.81,
+            292.85
+          ],
+          "kind": "text",
+          "label": "LM____________________________"
+        },
+        {
+          "id": "p5f26",
+          "rect": [
+            381.07,
+            280.82,
+            390.07,
+            289.82
+          ],
+          "kind": "checkbox",
+          "label": "LM____________________________ ist_____ °C, Produkt"
+        },
+        {
+          "id": "p5f27",
+          "rect": [
+            451.87,
+            280.82,
+            460.87,
+            289.82
+          ],
+          "kind": "checkbox",
+          "label": "LM____________________________ ist_____ °C, Produkt □ IR"
+        },
+        {
+          "id": "p5f28",
+          "rect": [
+            77.52,
+            304.66,
+            249.05,
+            316.97
+          ],
+          "kind": "text",
+          "label": "Feld 29"
+        },
+        {
+          "id": "p5f29",
+          "rect": [
+            263.16,
+            304.66,
+            293.81,
+            316.97
+          ],
+          "kind": "text",
+          "label": "LM____________________________"
+        },
+        {
+          "id": "p5f30",
+          "rect": [
+            381.07,
+            304.94,
+            390.07,
+            313.94
+          ],
+          "kind": "checkbox",
+          "label": "LM____________________________ ist_____ °C, Produkt"
+        },
+        {
+          "id": "p5f31",
+          "rect": [
+            451.87,
+            304.94,
+            460.87,
+            313.94
+          ],
+          "kind": "checkbox",
+          "label": "LM____________________________ ist_____ °C, Produkt □ IR"
+        },
+        {
+          "id": "p5f32",
+          "rect": [
+            381.07,
+            329.06,
+            390.07,
+            338.06
+          ],
+          "kind": "checkbox",
+          "label": "Möglichkeit der Nacherhitzung vorhanden ja"
+        },
+        {
+          "id": "p5f33",
+          "rect": [
+            487.3,
+            329.06,
+            496.3,
+            338.06
+          ],
+          "kind": "checkbox",
+          "label": "Möglichkeit der Nacherhitzung vorhanden ja □ nein"
+        },
+        {
+          "id": "p5f34",
+          "rect": [
+            381.07,
+            353.3,
+            390.07,
+            362.3
+          ],
+          "kind": "checkbox",
+          "label": "Kenntnisse über Gefahren Temperatur/Zeit vorhanden ja"
+        },
+        {
+          "id": "p5f35",
+          "rect": [
+            487.3,
+            353.3,
+            496.3,
+            362.3
+          ],
+          "kind": "checkbox",
+          "label": "Kenntnisse über Gefahren Temperatur/Zeit vorhanden ja □ nein"
+        },
+        {
+          "id": "p5f36",
+          "rect": [
+            274.85,
+            377.42,
+            283.85,
+            386.42
+          ],
+          "kind": "checkbox",
+          "label": "Rückstellproben ja"
+        },
+        {
+          "id": "p5f37",
+          "rect": [
+            345.67,
+            377.42,
+            354.67,
+            386.42
+          ],
+          "kind": "checkbox",
+          "label": "Rückstellproben ja □ nein"
+        },
+        {
+          "id": "p5f38",
+          "rect": [
+            360.31,
+            377.14,
+            537.73,
+            389.45
+          ],
+          "kind": "text",
+          "label": "Rückstellproben ja □ nein □,"
+        },
+        {
+          "id": "p5f39",
+          "rect": [
+            274.85,
+            401.54,
+            283.85,
+            410.54
+          ],
+          "kind": "checkbox",
+          "label": "Ausgabebesteck vorhanden ja"
+        },
+        {
+          "id": "p5f40",
+          "rect": [
+            345.67,
+            401.54,
+            354.67,
+            410.54
+          ],
+          "kind": "checkbox",
+          "label": "Ausgabebesteck vorhanden ja □ nein"
+        },
+        {
+          "id": "p5f41",
+          "rect": [
+            451.87,
+            401.54,
+            460.87,
+            410.54
+          ],
+          "kind": "checkbox",
+          "label": "Ausgabebesteck vorhanden ja □ nein □, geeignet ja"
+        },
+        {
+          "id": "p5f42",
+          "rect": [
+            522.7,
+            401.54,
+            531.7,
+            410.54
+          ],
+          "kind": "checkbox",
+          "label": "Ausgabebesteck vorhanden ja □ nein □, geeignet ja □ nein"
+        },
+        {
+          "id": "p5f43",
+          "rect": [
+            239.45,
+            425.66,
+            248.45,
+            434.66
+          ],
+          "kind": "checkbox",
+          "label": "Wechsel/Reinigung möglich ja"
+        },
+        {
+          "id": "p5f44",
+          "rect": [
+            310.25,
+            425.66,
+            319.25,
+            434.66
+          ],
+          "kind": "checkbox",
+          "label": "Wechsel/Reinigung möglich ja □ nein"
+        },
+        {
+          "id": "p5f45",
+          "rect": [
+            274.85,
+            449.9,
+            283.85,
+            458.9
+          ],
+          "kind": "checkbox",
+          "label": "kritische Lenkungspunkte bekannt ja"
+        },
+        {
+          "id": "p5f46",
+          "rect": [
+            345.67,
+            449.9,
+            354.67,
+            458.9
+          ],
+          "kind": "checkbox",
+          "label": "kritische Lenkungspunkte bekannt ja □ nein"
+        },
+        {
+          "id": "p5f47",
+          "rect": [
+            451.87,
+            449.9,
+            460.87,
+            458.9
+          ],
+          "kind": "checkbox",
+          "label": "kritische Lenkungspunkte bekannt ja □ nein □, berücksichtigt ja"
+        },
+        {
+          "id": "p5f48",
+          "rect": [
+            522.7,
+            449.9,
+            531.7,
+            458.9
+          ],
+          "kind": "checkbox",
+          "label": "kritische Lenkungspunkte bekannt ja □ nein □, berücksichtigt ja □ nein"
+        },
+        {
+          "id": "p5f49",
+          "rect": [
+            197.09,
+            471.0,
+            539.71,
+            483.31
+          ],
+          "kind": "text",
+          "label": "vorgesehene Maßnahmen:"
+        },
+        {
+          "id": "p5f50",
+          "rect": [
+            274.85,
+            493.0,
+            283.85,
+            502.0
+          ],
+          "kind": "checkbox",
+          "label": "Verpflegungsreste, Entsorgung"
+        },
+        {
+          "id": "p5f51",
+          "rect": [
+            522.7,
+            493.0,
+            531.7,
+            502.0
+          ],
+          "kind": "checkbox",
+          "label": "Verpflegungsreste, Entsorgung □ Wiederverwendung"
+        },
+        {
+          "id": "p5f52",
+          "rect": [
+            274.85,
+            517.12,
+            283.85,
+            526.12
+          ],
+          "kind": "checkbox",
+          "label": "Abgabe an Dritte"
+        },
+        {
+          "id": "p5f53",
+          "rect": [
+            522.7,
+            517.12,
+            531.7,
+            526.12
+          ],
+          "kind": "checkbox",
+          "label": "Abgabe an Dritte □ Private Abgabe (THW-intern)"
+        },
+        {
+          "id": "p5f54",
+          "rect": [
+            97.82,
+            560.2,
+            106.82,
+            569.2
+          ],
+          "kind": "checkbox",
+          "label": "nein"
+        },
+        {
+          "id": "p5f55",
+          "rect": [
+            204.05,
+            560.2,
+            213.05,
+            569.2
+          ],
+          "kind": "checkbox",
+          "label": "nein □ ja"
+        },
+        {
+          "id": "p5f56",
+          "rect": [
+            381.07,
+            560.2,
+            390.07,
+            569.2
+          ],
+          "kind": "checkbox",
+          "label": "nein □ ja □, erkannt und gesteuert ja"
+        },
+        {
+          "id": "p5f57",
+          "rect": [
+            451.87,
+            560.2,
+            460.87,
+            569.2
+          ],
+          "kind": "checkbox",
+          "label": "nein □ ja □, erkannt und gesteuert ja □ nein"
+        },
+        {
+          "id": "p5f58",
+          "rect": [
+            62.4,
+            600.36,
+            539.78,
+            612.67
+          ],
+          "kind": "text",
+          "label": "Feld 59"
+        },
+        {
+          "id": "p5f59",
+          "rect": [
+            62.4,
+            619.32,
+            539.78,
+            631.63
+          ],
+          "kind": "text",
+          "label": "Feld 60"
+        },
+        {
+          "id": "p5f60",
+          "rect": [
+            62.4,
+            638.28,
+            539.88,
+            650.59
+          ],
+          "kind": "text",
+          "label": "Feld 61"
+        },
+        {
+          "id": "p5f61",
+          "rect": [
+            62.4,
+            657.27,
+            539.78,
+            669.58
+          ],
+          "kind": "text",
+          "label": "Feld 62"
+        },
+        {
+          "id": "p5f62",
+          "rect": [
+            62.4,
+            676.23,
+            533.73,
+            688.54
+          ],
+          "kind": "text",
+          "label": "Feld 63"
+        },
+        {
+          "id": "p5f63",
+          "rect": [
+            62.4,
+            720.51,
+            178.7,
+            732.82
+          ],
+          "kind": "text",
+          "label": "Feld 64"
+        },
+        {
+          "id": "p5f64",
+          "rect": [
+            239.45,
+            720.51,
+            355.75,
+            732.82
+          ],
+          "kind": "text",
+          "label": "___________________"
+        }
+      ]
+    },
+    {
+      "width": 595.3200073242188,
+      "height": 841.9199829101562,
+      "fields": [
+        {
+          "id": "p6f0",
+          "rect": [
+            82.06,
+            160.27,
+            363.57,
+            172.58
+          ],
+          "kind": "text",
+          "label": "Ort"
+        },
+        {
+          "id": "p6f1",
+          "rect": [
+            99.83,
+            198.31,
+            240.41,
+            210.62
+          ],
+          "kind": "text",
+          "label": "Datum"
+        },
+        {
+          "id": "p6f2",
+          "rect": [
+            315.28,
+            198.31,
+            492.71,
+            210.62
+          ],
+          "kind": "text",
+          "label": "Datum _______________________ Uhrzeit"
+        },
+        {
+          "id": "p6f3",
+          "rect": [
+            101.48,
+            236.23,
+            499.41,
+            248.54
+          ],
+          "kind": "text",
+          "label": "Anlass"
+        },
+        {
+          "id": "p6f4",
+          "rect": [
+            204.05,
+            301.46,
+            213.05,
+            310.46
+          ],
+          "kind": "checkbox",
+          "label": "Geschlossener Raum"
+        },
+        {
+          "id": "p6f5",
+          "rect": [
+            310.25,
+            325.7,
+            319.25,
+            334.7
+          ],
+          "kind": "checkbox",
+          "label": "Fenster, Decke, Wände ok? ja"
+        },
+        {
+          "id": "p6f6",
+          "rect": [
+            416.47,
+            325.7,
+            425.47,
+            334.7
+          ],
+          "kind": "checkbox",
+          "label": "Fenster, Decke, Wände ok? ja □ nein"
+        },
+        {
+          "id": "p6f7",
+          "rect": [
+            431.11,
+            325.42,
+            541.2,
+            337.73
+          ],
+          "kind": "text",
+          "label": "Fenster, Decke, Wände ok? ja □ nein □,"
+        },
+        {
+          "id": "p6f8",
+          "rect": [
+            204.05,
+            349.82,
+            213.05,
+            358.82
+          ],
+          "kind": "checkbox",
+          "label": "Zelt"
+        },
+        {
+          "id": "p6f9",
+          "rect": [
+            310.25,
+            373.94,
+            319.25,
+            382.94
+          ],
+          "kind": "checkbox",
+          "label": "Zustand Küchenzelt ok? ja"
+        },
+        {
+          "id": "p6f10",
+          "rect": [
+            416.47,
+            373.94,
+            425.47,
+            382.94
+          ],
+          "kind": "checkbox",
+          "label": "Zustand Küchenzelt ok? ja □ nein"
+        },
+        {
+          "id": "p6f11",
+          "rect": [
+            431.11,
+            373.66,
+            541.19,
+            385.97
+          ],
+          "kind": "text",
+          "label": "Zustand Küchenzelt ok? ja □ nein □,"
+        },
+        {
+          "id": "p6f12",
+          "rect": [
+            310.25,
+            398.06,
+            319.25,
+            407.06
+          ],
+          "kind": "checkbox",
+          "label": "unter freiem Himmel ja"
+        },
+        {
+          "id": "p6f13",
+          "rect": [
+            416.47,
+            398.06,
+            425.47,
+            407.06
+          ],
+          "kind": "checkbox",
+          "label": "unter freiem Himmel ja □ nein"
+        },
+        {
+          "id": "p6f14",
+          "rect": [
+            431.11,
+            397.78,
+            541.17,
+            410.09
+          ],
+          "kind": "text",
+          "label": "unter freiem Himmel ja □ nein □,"
+        },
+        {
+          "id": "p6f15",
+          "rect": [
+            310.25,
+            422.3,
+            319.25,
+            431.3
+          ],
+          "kind": "checkbox",
+          "label": "3-seitig abgetrennt ja"
+        },
+        {
+          "id": "p6f16",
+          "rect": [
+            416.47,
+            422.3,
+            425.47,
+            431.3
+          ],
+          "kind": "checkbox",
+          "label": "3-seitig abgetrennt ja □ nein"
+        },
+        {
+          "id": "p6f17",
+          "rect": [
+            431.11,
+            422.02,
+            541.19,
+            434.33
+          ],
+          "kind": "text",
+          "label": "3-seitig abgetrennt ja □ nein □,"
+        },
+        {
+          "id": "p6f18",
+          "rect": [
+            310.25,
+            446.42,
+            319.25,
+            455.42
+          ],
+          "kind": "checkbox",
+          "label": "Zugangsbeschränkung/Absperrung ja"
+        },
+        {
+          "id": "p6f19",
+          "rect": [
+            416.47,
+            446.42,
+            425.47,
+            455.42
+          ],
+          "kind": "checkbox",
+          "label": "Zugangsbeschränkung/Absperrung ja □ nein"
+        },
+        {
+          "id": "p6f20",
+          "rect": [
+            431.11,
+            446.14,
+            541.19,
+            458.45
+          ],
+          "kind": "text",
+          "label": "Zugangsbeschränkung/Absperrung ja □ nein □,"
+        },
+        {
+          "id": "p6f21",
+          "rect": [
+            310.25,
+            470.56,
+            319.25,
+            479.56
+          ],
+          "kind": "checkbox",
+          "label": "Abschirmung gegen Regen/Vögel ja"
+        },
+        {
+          "id": "p6f22",
+          "rect": [
+            416.47,
+            470.56,
+            425.47,
+            479.56
+          ],
+          "kind": "checkbox",
+          "label": "Abschirmung gegen Regen/Vögel ja □ nein"
+        },
+        {
+          "id": "p6f23",
+          "rect": [
+            431.11,
+            470.28,
+            541.19,
+            482.59
+          ],
+          "kind": "text",
+          "label": "Abschirmung gegen Regen/Vögel ja □ nein □,"
+        },
+        {
+          "id": "p6f24",
+          "rect": [
+            310.25,
+            494.68,
+            319.25,
+            503.68
+          ],
+          "kind": "checkbox",
+          "label": "Bodenbeschaffenheit fester Boden ja"
+        },
+        {
+          "id": "p6f25",
+          "rect": [
+            416.47,
+            494.68,
+            425.47,
+            503.68
+          ],
+          "kind": "checkbox",
+          "label": "Bodenbeschaffenheit fester Boden ja □ nein"
+        },
+        {
+          "id": "p6f26",
+          "rect": [
+            431.11,
+            494.4,
+            541.17,
+            506.71
+          ],
+          "kind": "text",
+          "label": "Bodenbeschaffenheit fester Boden ja □ nein □,"
+        },
+        {
+          "id": "p6f27",
+          "rect": [
+            170.74,
+            515.76,
+            409.38,
+            528.07
+          ],
+          "kind": "text",
+          "label": "Art des festen"
+        },
+        {
+          "id": "p6f28",
+          "rect": [
+            97.82,
+            537.88,
+            106.82,
+            546.88
+          ],
+          "kind": "checkbox",
+          "label": "Gras"
+        },
+        {
+          "id": "p6f29",
+          "rect": [
+            204.05,
+            537.88,
+            213.05,
+            546.88
+          ],
+          "kind": "checkbox",
+          "label": "Gras □ Erdreich"
+        },
+        {
+          "id": "p6f30",
+          "rect": [
+            310.25,
+            537.88,
+            319.25,
+            546.88
+          ],
+          "kind": "checkbox",
+          "label": "Gras □ Erdreich □ Matsch"
+        },
+        {
+          "id": "p6f31",
+          "rect": [
+            416.47,
+            537.88,
+            425.47,
+            546.88
+          ],
+          "kind": "checkbox",
+          "label": "Gras □ Erdreich □ Matsch □ Andere"
+        },
+        {
+          "id": "p6f32",
+          "rect": [
+            431.11,
+            537.6,
+            541.21,
+            549.91
+          ],
+          "kind": "text",
+          "label": "Gras □ Erdreich □ Matsch □ Andere □,"
+        },
+        {
+          "id": "p6f33",
+          "rect": [
+            310.25,
+            562.0,
+            319.25,
+            571.0
+          ],
+          "kind": "checkbox",
+          "label": "Bodenplatten ja"
+        },
+        {
+          "id": "p6f34",
+          "rect": [
+            416.47,
+            562.0,
+            425.47,
+            571.0
+          ],
+          "kind": "checkbox",
+          "label": "Bodenplatten ja □ nein"
+        },
+        {
+          "id": "p6f35",
+          "rect": [
+            431.11,
+            561.72,
+            541.19,
+            574.03
+          ],
+          "kind": "text",
+          "label": "Bodenplatten ja □ nein □,"
+        },
+        {
+          "id": "p6f36",
+          "rect": [
+            310.25,
+            586.12,
+            319.25,
+            595.12
+          ],
+          "kind": "checkbox",
+          "label": "Staubfreiheit ja"
+        },
+        {
+          "id": "p6f37",
+          "rect": [
+            416.47,
+            586.12,
+            425.47,
+            595.12
+          ],
+          "kind": "checkbox",
+          "label": "Staubfreiheit ja □ nein"
+        },
+        {
+          "id": "p6f38",
+          "rect": [
+            431.11,
+            585.84,
+            541.19,
+            598.15
+          ],
+          "kind": "text",
+          "label": "Staubfreiheit ja □ nein □,"
+        },
+        {
+          "id": "p6f39",
+          "rect": [
+            310.25,
+            610.24,
+            319.25,
+            619.24
+          ],
+          "kind": "checkbox",
+          "label": "Arbeitsbereiche geordnet ja"
+        },
+        {
+          "id": "p6f40",
+          "rect": [
+            416.47,
+            610.24,
+            425.47,
+            619.24
+          ],
+          "kind": "checkbox",
+          "label": "Arbeitsbereiche geordnet ja □ nein"
+        },
+        {
+          "id": "p6f41",
+          "rect": [
+            431.11,
+            609.96,
+            541.19,
+            622.27
+          ],
+          "kind": "text",
+          "label": "Arbeitsbereiche geordnet ja □ nein □,"
+        },
+        {
+          "id": "p6f42",
+          "rect": [
+            310.25,
+            634.48,
+            319.25,
+            643.48
+          ],
+          "kind": "checkbox",
+          "label": "Handwaschgelegenheit vorhanden ja"
+        },
+        {
+          "id": "p6f43",
+          "rect": [
+            416.47,
+            634.48,
+            425.47,
+            643.48
+          ],
+          "kind": "checkbox",
+          "label": "Handwaschgelegenheit vorhanden ja □ nein"
+        },
+        {
+          "id": "p6f44",
+          "rect": [
+            431.11,
+            634.2,
+            541.19,
+            646.51
+          ],
+          "kind": "text",
+          "label": "Handwaschgelegenheit vorhanden ja □ nein □,"
+        },
+        {
+          "id": "p6f45",
+          "rect": [
+            310.25,
+            658.63,
+            319.25,
+            667.63
+          ],
+          "kind": "checkbox",
+          "label": "Trennung rein/unrein ja"
+        },
+        {
+          "id": "p6f46",
+          "rect": [
+            416.47,
+            658.63,
+            425.47,
+            667.63
+          ],
+          "kind": "checkbox",
+          "label": "Trennung rein/unrein ja □ nein"
+        },
+        {
+          "id": "p6f47",
+          "rect": [
+            431.11,
+            658.35,
+            541.19,
+            670.66
+          ],
+          "kind": "text",
+          "label": "Trennung rein/unrein ja □ nein □,"
+        },
+        {
+          "id": "p6f48",
+          "rect": [
+            310.25,
+            682.75,
+            319.25,
+            691.75
+          ],
+          "kind": "checkbox",
+          "label": "Abfallentsorgung ja"
+        },
+        {
+          "id": "p6f49",
+          "rect": [
+            416.47,
+            682.75,
+            425.47,
+            691.75
+          ],
+          "kind": "checkbox",
+          "label": "Abfallentsorgung ja □ nein"
+        },
+        {
+          "id": "p6f50",
+          "rect": [
+            431.11,
+            682.47,
+            541.19,
+            694.78
+          ],
+          "kind": "text",
+          "label": "Abfallentsorgung ja □ nein □,"
+        },
+        {
+          "id": "p6f51",
+          "rect": [
+            310.25,
+            706.87,
+            319.25,
+            715.87
+          ],
+          "kind": "checkbox",
+          "label": "Zugangskontrolle ja"
+        },
+        {
+          "id": "p6f52",
+          "rect": [
+            416.47,
+            706.87,
+            425.47,
+            715.87
+          ],
+          "kind": "checkbox",
+          "label": "Zugangskontrolle ja □ nein"
+        },
+        {
+          "id": "p6f53",
+          "rect": [
+            431.11,
+            706.59,
+            541.17,
+            718.9
+          ],
+          "kind": "text",
+          "label": "Zugangskontrolle ja □ nein □,"
+        }
+      ]
+    },
+    {
+      "width": 595.3200073242188,
+      "height": 841.9199829101562,
+      "fields": [
+        {
+          "id": "p7f0",
+          "rect": [
+            345.67,
+            89.27,
+            354.67,
+            98.27
+          ],
+          "kind": "checkbox",
+          "label": "Anforderungen VO(EG) 852/2004 erfüllt ja"
+        },
+        {
+          "id": "p7f1",
+          "rect": [
+            416.47,
+            89.27,
+            425.47,
+            98.27
+          ],
+          "kind": "checkbox",
+          "label": "Anforderungen VO(EG) 852/2004 erfüllt ja □ nein"
+        },
+        {
+          "id": "p7f2",
+          "rect": [
+            345.67,
+            113.51,
+            354.67,
+            122.51
+          ],
+          "kind": "checkbox",
+          "label": "Anforderungen nach LMHV erfüllt ja"
+        },
+        {
+          "id": "p7f3",
+          "rect": [
+            416.47,
+            113.51,
+            425.47,
+            122.51
+          ],
+          "kind": "checkbox",
+          "label": "Anforderungen nach LMHV erfüllt ja □ nein"
+        },
+        {
+          "id": "p7f4",
+          "rect": [
+            62.4,
+            153.55,
+            539.78,
+            165.86
+          ],
+          "kind": "text",
+          "label": "Feld 5"
+        },
+        {
+          "id": "p7f5",
+          "rect": [
+            62.4,
+            172.51,
+            539.78,
+            184.82
+          ],
+          "kind": "text",
+          "label": "Feld 6"
+        },
+        {
+          "id": "p7f6",
+          "rect": [
+            62.4,
+            191.47,
+            539.78,
+            203.78
+          ],
+          "kind": "text",
+          "label": "Feld 7"
+        },
+        {
+          "id": "p7f7",
+          "rect": [
+            62.4,
+            210.43,
+            539.83,
+            222.74
+          ],
+          "kind": "text",
+          "label": "Feld 8"
+        },
+        {
+          "id": "p7f8",
+          "rect": [
+            62.4,
+            229.39,
+            533.73,
+            241.7
+          ],
+          "kind": "text",
+          "label": "Feld 9"
+        },
+        {
+          "id": "p7f9",
+          "rect": [
+            62.4,
+            273.7,
+            178.7,
+            286.01
+          ],
+          "kind": "text",
+          "label": "Feld 10"
+        },
+        {
+          "id": "p7f10",
+          "rect": [
+            239.45,
+            273.7,
+            355.75,
+            286.01
+          ],
+          "kind": "text",
+          "label": "___________________"
+        }
+      ]
+    },
+    {
+      "width": 595.3200073242188,
+      "height": 841.9199829101562,
+      "fields": [
+        {
+          "id": "p8f0",
+          "rect": [
+            82.06,
+            160.27,
+            363.57,
+            172.58
+          ],
+          "kind": "text",
+          "label": "Ort"
+        },
+        {
+          "id": "p8f1",
+          "rect": [
+            99.83,
+            198.31,
+            240.41,
+            210.62
+          ],
+          "kind": "text",
+          "label": "Datum"
+        },
+        {
+          "id": "p8f2",
+          "rect": [
+            315.28,
+            198.31,
+            492.71,
+            210.62
+          ],
+          "kind": "text",
+          "label": "Datum _______________________ Uhrzeit"
+        },
+        {
+          "id": "p8f3",
+          "rect": [
+            101.48,
+            236.23,
+            499.43,
+            248.54
+          ],
+          "kind": "text",
+          "label": "Anlass"
+        },
+        {
+          "id": "p8f4",
+          "rect": [
+            97.82,
+            320.54,
+            106.82,
+            329.54
+          ],
+          "kind": "checkbox",
+          "label": "FKH"
+        },
+        {
+          "id": "p8f5",
+          "rect": [
+            239.45,
+            320.54,
+            248.45,
+            329.54
+          ],
+          "kind": "checkbox",
+          "label": "FKH □ Hockerkocher"
+        },
+        {
+          "id": "p8f6",
+          "rect": [
+            345.67,
+            320.54,
+            354.67,
+            329.54
+          ],
+          "kind": "checkbox",
+          "label": "FKH □ Hockerkocher □ E-Herd"
+        },
+        {
+          "id": "p8f7",
+          "rect": [
+            416.47,
+            320.54,
+            425.47,
+            329.54
+          ],
+          "kind": "checkbox",
+          "label": "FKH □ Hockerkocher □ E-Herd □ andere"
+        },
+        {
+          "id": "p8f8",
+          "rect": [
+            431.11,
+            320.26,
+            535.17,
+            332.57
+          ],
+          "kind": "text",
+          "label": "FKH □ Hockerkocher □ E-Herd □ andere □,"
+        },
+        {
+          "id": "p8f9",
+          "rect": [
+            115.1,
+            382.58,
+            124.1,
+            391.58
+          ],
+          "kind": "checkbox",
+          "label": "Schränke"
+        },
+        {
+          "id": "p8f10",
+          "rect": [
+            210.17,
+            382.58,
+            219.17,
+            391.58
+          ],
+          "kind": "checkbox",
+          "label": "Schränke □ offene Regale"
+        },
+        {
+          "id": "p8f11",
+          "rect": [
+            302.45,
+            382.58,
+            311.45,
+            391.58
+          ],
+          "kind": "checkbox",
+          "label": "Schränke □ offene Regale □ Gitterboxen"
+        },
+        {
+          "id": "p8f12",
+          "rect": [
+            399.55,
+            382.58,
+            408.55,
+            391.58
+          ],
+          "kind": "checkbox",
+          "label": "Schränke □ offene Regale □ Gitterboxen □ Brotkörbe"
+        },
+        {
+          "id": "p8f13",
+          "rect": [
+            532.66,
+            382.58,
+            541.66,
+            391.58
+          ],
+          "kind": "checkbox",
+          "label": "Schränke □ offene Regale □ Gitterboxen □ Brotkörbe □ auf dem Boden"
+        },
+        {
+          "id": "p8f14",
+          "rect": [
+            239.45,
+            406.7,
+            248.45,
+            415.7
+          ],
+          "kind": "checkbox",
+          "label": "Zustand ok? ja"
+        },
+        {
+          "id": "p8f15",
+          "rect": [
+            345.67,
+            406.7,
+            354.67,
+            415.7
+          ],
+          "kind": "checkbox",
+          "label": "Zustand ok? ja □ nein"
+        },
+        {
+          "id": "p8f16",
+          "rect": [
+            360.31,
+            406.42,
+            537.69,
+            418.73
+          ],
+          "kind": "text",
+          "label": "Zustand ok? ja □ nein □,"
+        },
+        {
+          "id": "p8f17",
+          "rect": [
+            239.45,
+            430.82,
+            248.45,
+            439.82
+          ],
+          "kind": "checkbox",
+          "label": "Hygiene ok? ja"
+        },
+        {
+          "id": "p8f18",
+          "rect": [
+            345.67,
+            430.82,
+            354.67,
+            439.82
+          ],
+          "kind": "checkbox",
+          "label": "Hygiene ok? ja □ nein"
+        },
+        {
+          "id": "p8f19",
+          "rect": [
+            360.31,
+            430.54,
+            537.69,
+            442.85
+          ],
+          "kind": "text",
+          "label": "Hygiene ok? ja □ nein □,"
+        },
+        {
+          "id": "p8f20",
+          "rect": [
+            239.45,
+            493.0,
+            248.45,
+            502.0
+          ],
+          "kind": "checkbox",
+          "label": "vorhanden ja"
+        },
+        {
+          "id": "p8f21",
+          "rect": [
+            345.67,
+            493.0,
+            354.67,
+            502.0
+          ],
+          "kind": "checkbox",
+          "label": "vorhanden ja □ nein"
+        },
+        {
+          "id": "p8f22",
+          "rect": [
+            360.31,
+            492.72,
+            537.69,
+            505.03
+          ],
+          "kind": "text",
+          "label": "vorhanden ja □ nein □,"
+        },
+        {
+          "id": "p8f23",
+          "rect": [
+            239.45,
+            517.12,
+            248.45,
+            526.12
+          ],
+          "kind": "checkbox",
+          "label": "ausreichend ja"
+        },
+        {
+          "id": "p8f24",
+          "rect": [
+            345.67,
+            517.12,
+            354.67,
+            526.12
+          ],
+          "kind": "checkbox",
+          "label": "ausreichend ja □ nein"
+        },
+        {
+          "id": "p8f25",
+          "rect": [
+            360.31,
+            516.84,
+            537.69,
+            529.15
+          ],
+          "kind": "text",
+          "label": "ausreichend ja □ nein □,"
+        },
+        {
+          "id": "p8f26",
+          "rect": [
+            239.45,
+            541.24,
+            248.45,
+            550.24
+          ],
+          "kind": "checkbox",
+          "label": "geeignet ja"
+        },
+        {
+          "id": "p8f27",
+          "rect": [
+            345.67,
+            541.24,
+            354.67,
+            550.24
+          ],
+          "kind": "checkbox",
+          "label": "geeignet ja □ nein"
+        },
+        {
+          "id": "p8f28",
+          "rect": [
+            360.31,
+            540.96,
+            537.69,
+            553.27
+          ],
+          "kind": "text",
+          "label": "geeignet ja □ nein □,"
+        },
+        {
+          "id": "p8f29",
+          "rect": [
+            133.22,
+            584.44,
+            142.22,
+            593.44
+          ],
+          "kind": "checkbox",
+          "label": "Edelstahl"
+        },
+        {
+          "id": "p8f30",
+          "rect": [
+            274.85,
+            584.44,
+            283.85,
+            593.44
+          ],
+          "kind": "checkbox",
+          "label": "Edelstahl □ Schichtstoffplatte"
+        },
+        {
+          "id": "p8f31",
+          "rect": [
+            381.07,
+            584.44,
+            390.07,
+            593.44
+          ],
+          "kind": "checkbox",
+          "label": "Edelstahl □ Schichtstoffplatte □ Biertisch"
+        },
+        {
+          "id": "p8f32",
+          "rect": [
+            487.3,
+            584.44,
+            496.3,
+            593.44
+          ],
+          "kind": "checkbox",
+          "label": "Edelstahl □ Schichtstoffplatte □ Biertisch □ Spanplatte"
+        },
+        {
+          "id": "p8f33",
+          "rect": [
+            239.45,
+            608.56,
+            248.45,
+            617.56
+          ],
+          "kind": "checkbox",
+          "label": "eignet sich das Material ja"
+        },
+        {
+          "id": "p8f34",
+          "rect": [
+            345.67,
+            608.56,
+            354.67,
+            617.56
+          ],
+          "kind": "checkbox",
+          "label": "eignet sich das Material ja □ nein"
+        },
+        {
+          "id": "p8f35",
+          "rect": [
+            360.31,
+            608.28,
+            537.69,
+            620.59
+          ],
+          "kind": "text",
+          "label": "eignet sich das Material ja □ nein □,"
+        },
+        {
+          "id": "p8f36",
+          "rect": [
+            239.45,
+            632.68,
+            248.45,
+            641.68
+          ],
+          "kind": "checkbox",
+          "label": "hygienisch einwandfrei ja"
+        },
+        {
+          "id": "p8f37",
+          "rect": [
+            345.67,
+            632.68,
+            354.67,
+            641.68
+          ],
+          "kind": "checkbox",
+          "label": "hygienisch einwandfrei ja □ nein"
+        },
+        {
+          "id": "p8f38",
+          "rect": [
+            360.31,
+            632.4,
+            537.69,
+            644.71
+          ],
+          "kind": "text",
+          "label": "hygienisch einwandfrei ja □ nein □,"
+        }
+      ]
+    },
+    {
+      "width": 595.3200073242188,
+      "height": 841.9199829101562,
+      "fields": [
+        {
+          "id": "p9f0",
+          "rect": [
+            239.45,
+            108.35,
+            248.45,
+            117.35
+          ],
+          "kind": "checkbox",
+          "label": "Kühlgerät vorhanden ja"
+        },
+        {
+          "id": "p9f1",
+          "rect": [
+            345.67,
+            108.35,
+            354.67,
+            117.35
+          ],
+          "kind": "checkbox",
+          "label": "Kühlgerät vorhanden ja □ nein"
+        },
+        {
+          "id": "p9f2",
+          "rect": [
+            360.31,
+            108.07,
+            537.69,
+            120.38
+          ],
+          "kind": "text",
+          "label": "Kühlgerät vorhanden ja □ nein □,"
+        },
+        {
+          "id": "p9f3",
+          "rect": [
+            213.53,
+            129.43,
+            305.23,
+            141.74
+          ],
+          "kind": "text",
+          "label": "Anzahl in Funktion befindende"
+        },
+        {
+          "id": "p9f4",
+          "rect": [
+            441.31,
+            129.43,
+            539.25,
+            141.74
+          ],
+          "kind": "text",
+          "label": "Anzahl in Funktion befindende _______________ Temperatur eingestellt auf"
+        },
+        {
+          "id": "p9f5",
+          "rect": [
+            239.45,
+            151.43,
+            248.45,
+            160.43
+          ],
+          "kind": "checkbox",
+          "label": "Hygiene ok? ja"
+        },
+        {
+          "id": "p9f6",
+          "rect": [
+            345.67,
+            151.43,
+            354.67,
+            160.43
+          ],
+          "kind": "checkbox",
+          "label": "Hygiene ok? ja □ nein"
+        },
+        {
+          "id": "p9f7",
+          "rect": [
+            360.31,
+            151.15,
+            537.69,
+            163.46
+          ],
+          "kind": "text",
+          "label": "Hygiene ok? ja □ nein □,"
+        },
+        {
+          "id": "p9f8",
+          "rect": [
+            239.45,
+            175.55,
+            248.45,
+            184.55
+          ],
+          "kind": "checkbox",
+          "label": "Temperaturüberwachung ja"
+        },
+        {
+          "id": "p9f9",
+          "rect": [
+            345.67,
+            175.55,
+            354.67,
+            184.55
+          ],
+          "kind": "checkbox",
+          "label": "Temperaturüberwachung ja □ nein"
+        },
+        {
+          "id": "p9f10",
+          "rect": [
+            409.87,
+            175.27,
+            434.35,
+            187.58
+          ],
+          "kind": "text",
+          "label": "Temperaturüberwachung ja □ nein □,"
+        },
+        {
+          "id": "p9f11",
+          "rect": [
+            503.61,
+            175.27,
+            528.1,
+            187.58
+          ],
+          "kind": "text",
+          "label": "Temperaturüberwachung ja □ nein □, T.Anzeige____°C"
+        },
+        {
+          "id": "p9f12",
+          "rect": [
+            239.45,
+            237.71,
+            248.45,
+            246.71
+          ],
+          "kind": "checkbox",
+          "label": "Tiefkühlgerät vorhanden ja"
+        },
+        {
+          "id": "p9f13",
+          "rect": [
+            345.67,
+            237.71,
+            354.67,
+            246.71
+          ],
+          "kind": "checkbox",
+          "label": "Tiefkühlgerät vorhanden ja □ nein"
+        },
+        {
+          "id": "p9f14",
+          "rect": [
+            360.31,
+            237.43,
+            537.69,
+            249.74
+          ],
+          "kind": "text",
+          "label": "Tiefkühlgerät vorhanden ja □ nein □,"
+        },
+        {
+          "id": "p9f15",
+          "rect": [
+            213.53,
+            258.79,
+            305.23,
+            271.1
+          ],
+          "kind": "text",
+          "label": "Anzahl in Funktion befindende"
+        },
+        {
+          "id": "p9f16",
+          "rect": [
+            441.31,
+            258.79,
+            539.28,
+            271.1
+          ],
+          "kind": "text",
+          "label": "Anzahl in Funktion befindende _______________ Temperatur eingestellt auf"
+        },
+        {
+          "id": "p9f17",
+          "rect": [
+            239.45,
+            280.82,
+            248.45,
+            289.82
+          ],
+          "kind": "checkbox",
+          "label": "Hygiene ok? ja"
+        },
+        {
+          "id": "p9f18",
+          "rect": [
+            345.67,
+            280.82,
+            354.67,
+            289.82
+          ],
+          "kind": "checkbox",
+          "label": "Hygiene ok? ja □ nein"
+        },
+        {
+          "id": "p9f19",
+          "rect": [
+            360.31,
+            280.54,
+            537.69,
+            292.85
+          ],
+          "kind": "text",
+          "label": "Hygiene ok? ja □ nein □,"
+        },
+        {
+          "id": "p9f20",
+          "rect": [
+            239.45,
+            304.94,
+            248.45,
+            313.94
+          ],
+          "kind": "checkbox",
+          "label": "Temperaturüberwachung ja"
+        },
+        {
+          "id": "p9f21",
+          "rect": [
+            345.67,
+            304.94,
+            354.67,
+            313.94
+          ],
+          "kind": "checkbox",
+          "label": "Temperaturüberwachung ja □ nein"
+        },
+        {
+          "id": "p9f22",
+          "rect": [
+            409.86,
+            304.66,
+            434.35,
+            316.97
+          ],
+          "kind": "text",
+          "label": "Temperaturüberwachung ja □ nein □,"
+        },
+        {
+          "id": "p9f23",
+          "rect": [
+            503.56,
+            304.66,
+            528.04,
+            316.97
+          ],
+          "kind": "text",
+          "label": "Temperaturüberwachung ja □ nein □, T.Anzeige____°C"
+        },
+        {
+          "id": "p9f24",
+          "rect": [
+            416.47,
+            367.1,
+            425.47,
+            376.1
+          ],
+          "kind": "checkbox",
+          "label": "Eignung nach §30 Nr.3 LFGB ja"
+        },
+        {
+          "id": "p9f25",
+          "rect": [
+            522.7,
+            367.1,
+            531.7,
+            376.1
+          ],
+          "kind": "checkbox",
+          "label": "Eignung nach §30 Nr.3 LFGB ja □ nein"
+        },
+        {
+          "id": "p9f26",
+          "rect": [
+            416.47,
+            391.22,
+            425.47,
+            400.22
+          ],
+          "kind": "checkbox",
+          "label": "Verwendung von Nicht-Bedarfsgegenständen (§31 Nr.1 LFGB) ja"
+        },
+        {
+          "id": "p9f27",
+          "rect": [
+            522.7,
+            391.22,
+            531.7,
+            400.22
+          ],
+          "kind": "checkbox",
+          "label": "Verwendung von Nicht-Bedarfsgegenständen (§31 Nr.1 LFGB) ja □ nein"
+        },
+        {
+          "id": "p9f28",
+          "rect": [
+            62.4,
+            431.26,
+            539.78,
+            443.57
+          ],
+          "kind": "text",
+          "label": "Feld 29"
+        },
+        {
+          "id": "p9f29",
+          "rect": [
+            62.4,
+            450.22,
+            533.76,
+            462.53
+          ],
+          "kind": "text",
+          "label": "Feld 30"
+        },
+        {
+          "id": "p9f30",
+          "rect": [
+            381.07,
+            491.32,
+            390.07,
+            500.32
+          ],
+          "kind": "checkbox",
+          "label": "Anforderungen VO(EG) 852/2004 erfüllt ja"
+        },
+        {
+          "id": "p9f31",
+          "rect": [
+            487.3,
+            491.32,
+            496.3,
+            500.32
+          ],
+          "kind": "checkbox",
+          "label": "Anforderungen VO(EG) 852/2004 erfüllt ja □ nein"
+        },
+        {
+          "id": "p9f32",
+          "rect": [
+            381.07,
+            515.44,
+            390.07,
+            524.44
+          ],
+          "kind": "checkbox",
+          "label": "Anforderungen nach LMHV erfüllt ja"
+        },
+        {
+          "id": "p9f33",
+          "rect": [
+            487.3,
+            515.44,
+            496.3,
+            524.44
+          ],
+          "kind": "checkbox",
+          "label": "Anforderungen nach LMHV erfüllt ja □ nein"
+        },
+        {
+          "id": "p9f34",
+          "rect": [
+            62.4,
+            574.44,
+            539.78,
+            586.75
+          ],
+          "kind": "text",
+          "label": "Feld 35"
+        },
+        {
+          "id": "p9f35",
+          "rect": [
+            62.4,
+            593.4,
+            539.78,
+            605.71
+          ],
+          "kind": "text",
+          "label": "Feld 36"
+        },
+        {
+          "id": "p9f36",
+          "rect": [
+            62.4,
+            612.36,
+            539.78,
+            624.67
+          ],
+          "kind": "text",
+          "label": "Feld 37"
+        },
+        {
+          "id": "p9f37",
+          "rect": [
+            62.4,
+            631.44,
+            539.85,
+            643.75
+          ],
+          "kind": "text",
+          "label": "Feld 38"
+        },
+        {
+          "id": "p9f38",
+          "rect": [
+            62.4,
+            650.43,
+            533.66,
+            662.74
+          ],
+          "kind": "text",
+          "label": "Feld 39"
+        },
+        {
+          "id": "p9f39",
+          "rect": [
+            62.4,
+            694.71,
+            178.7,
+            707.02
+          ],
+          "kind": "text",
+          "label": "Feld 40"
+        },
+        {
+          "id": "p9f40",
+          "rect": [
+            239.45,
+            694.71,
+            355.75,
+            707.02
+          ],
+          "kind": "text",
+          "label": "___________________"
+        }
+      ]
+    },
+    {
+      "width": 595.3200073242188,
+      "height": 841.9199829101562,
+      "fields": [
+        {
+          "id": "p10f0",
+          "rect": [
+            82.06,
+            160.27,
+            363.57,
+            172.58
+          ],
+          "kind": "text",
+          "label": "Ort"
+        },
+        {
+          "id": "p10f1",
+          "rect": [
+            99.83,
+            198.31,
+            240.41,
+            210.62
+          ],
+          "kind": "text",
+          "label": "Datum"
+        },
+        {
+          "id": "p10f2",
+          "rect": [
+            315.28,
+            198.31,
+            492.71,
+            210.62
+          ],
+          "kind": "text",
+          "label": "Datum _______________________ Uhrzeit"
+        },
+        {
+          "id": "p10f3",
+          "rect": [
+            101.54,
+            236.23,
+            499.36,
+            248.54
+          ],
+          "kind": "text",
+          "label": "Anlass"
+        },
+        {
+          "id": "p10f4",
+          "rect": [
+            274.85,
+            301.46,
+            283.85,
+            310.46
+          ],
+          "kind": "checkbox",
+          "label": "Schutzkleidung (Koch) ja"
+        },
+        {
+          "id": "p10f5",
+          "rect": [
+            381.07,
+            301.46,
+            390.07,
+            310.46
+          ],
+          "kind": "checkbox",
+          "label": "Schutzkleidung (Koch) ja □ nein"
+        },
+        {
+          "id": "p10f6",
+          "rect": [
+            119.27,
+            322.66,
+            541.58,
+            334.97
+          ],
+          "kind": "text",
+          "label": "► Zustand"
+        },
+        {
+          "id": "p10f7",
+          "rect": [
+            274.85,
+            344.66,
+            283.85,
+            353.66
+          ],
+          "kind": "checkbox",
+          "label": "Kopfbedeckung erforderlich ja"
+        },
+        {
+          "id": "p10f8",
+          "rect": [
+            381.07,
+            344.66,
+            390.07,
+            353.66
+          ],
+          "kind": "checkbox",
+          "label": "Kopfbedeckung erforderlich ja □ nein"
+        },
+        {
+          "id": "p10f9",
+          "rect": [
+            274.85,
+            368.78,
+            283.85,
+            377.78
+          ],
+          "kind": "checkbox",
+          "label": "► vorhanden ja"
+        },
+        {
+          "id": "p10f10",
+          "rect": [
+            381.07,
+            368.78,
+            390.07,
+            377.78
+          ],
+          "kind": "checkbox",
+          "label": "► vorhanden ja □ nein"
+        },
+        {
+          "id": "p10f11",
+          "rect": [
+            274.85,
+            392.9,
+            283.85,
+            401.9
+          ],
+          "kind": "checkbox",
+          "label": "► benutzt ja"
+        },
+        {
+          "id": "p10f12",
+          "rect": [
+            381.07,
+            392.9,
+            390.07,
+            401.9
+          ],
+          "kind": "checkbox",
+          "label": "► benutzt ja □ nein"
+        },
+        {
+          "id": "p10f13",
+          "rect": [
+            274.85,
+            436.1,
+            283.85,
+            445.1
+          ],
+          "kind": "checkbox",
+          "label": "Einsatzanzug ja"
+        },
+        {
+          "id": "p10f14",
+          "rect": [
+            381.07,
+            436.1,
+            390.07,
+            445.1
+          ],
+          "kind": "checkbox",
+          "label": "Einsatzanzug ja □ nein"
+        },
+        {
+          "id": "p10f15",
+          "rect": [
+            274.85,
+            460.22,
+            283.85,
+            469.22
+          ],
+          "kind": "checkbox",
+          "label": "Bekleidung geeignet ja"
+        },
+        {
+          "id": "p10f16",
+          "rect": [
+            381.07,
+            460.22,
+            390.07,
+            469.22
+          ],
+          "kind": "checkbox",
+          "label": "Bekleidung geeignet ja □ nein"
+        },
+        {
+          "id": "p10f17",
+          "rect": [
+            274.85,
+            484.36,
+            283.85,
+            493.36
+          ],
+          "kind": "checkbox",
+          "label": "für Ausgabezweck geeignet ja"
+        },
+        {
+          "id": "p10f18",
+          "rect": [
+            381.07,
+            484.36,
+            390.07,
+            493.36
+          ],
+          "kind": "checkbox",
+          "label": "für Ausgabezweck geeignet ja □ nein"
+        },
+        {
+          "id": "p10f19",
+          "rect": [
+            274.85,
+            527.44,
+            283.85,
+            536.44
+          ],
+          "kind": "checkbox",
+          "label": "Handwaschgelegenheit ja"
+        },
+        {
+          "id": "p10f20",
+          "rect": [
+            381.07,
+            527.44,
+            390.07,
+            536.44
+          ],
+          "kind": "checkbox",
+          "label": "Handwaschgelegenheit ja □ nein"
+        },
+        {
+          "id": "p10f21",
+          "rect": [
+            274.85,
+            551.68,
+            283.85,
+            560.68
+          ],
+          "kind": "checkbox",
+          "label": "fließend warm/kalt ja"
+        },
+        {
+          "id": "p10f22",
+          "rect": [
+            381.07,
+            551.68,
+            390.07,
+            560.68
+          ],
+          "kind": "checkbox",
+          "label": "fließend warm/kalt ja □ nein"
+        },
+        {
+          "id": "p10f23",
+          "rect": [
+            274.85,
+            575.8,
+            283.85,
+            584.8
+          ],
+          "kind": "checkbox",
+          "label": "fließend kalt ja"
+        },
+        {
+          "id": "p10f24",
+          "rect": [
+            381.07,
+            575.8,
+            390.07,
+            584.8
+          ],
+          "kind": "checkbox",
+          "label": "fließend kalt ja □ nein"
+        },
+        {
+          "id": "p10f25",
+          "rect": [
+            274.85,
+            599.92,
+            283.85,
+            608.92
+          ],
+          "kind": "checkbox",
+          "label": "Standbehälter ja"
+        },
+        {
+          "id": "p10f26",
+          "rect": [
+            381.07,
+            599.92,
+            390.07,
+            608.92
+          ],
+          "kind": "checkbox",
+          "label": "Standbehälter ja □ nein"
+        },
+        {
+          "id": "p10f27",
+          "rect": [
+            274.85,
+            624.04,
+            283.85,
+            633.04
+          ],
+          "kind": "checkbox",
+          "label": "Handwaschmittel vorhanden ja"
+        },
+        {
+          "id": "p10f28",
+          "rect": [
+            381.07,
+            624.04,
+            390.07,
+            633.04
+          ],
+          "kind": "checkbox",
+          "label": "Handwaschmittel vorhanden ja □ nein"
+        },
+        {
+          "id": "p10f29",
+          "rect": [
+            466.66,
+            624.04,
+            475.66,
+            633.04
+          ],
+          "kind": "checkbox",
+          "label": "Handwaschmittel vorhanden ja □ nein □, genutzt ja"
+        },
+        {
+          "id": "p10f30",
+          "rect": [
+            514.3,
+            624.04,
+            523.3,
+            633.04
+          ],
+          "kind": "checkbox",
+          "label": "Handwaschmittel vorhanden ja □ nein □, genutzt ja □ nein"
+        },
+        {
+          "id": "p10f31",
+          "rect": [
+            274.85,
+            648.28,
+            283.85,
+            657.28
+          ],
+          "kind": "checkbox",
+          "label": "Handdesinfektion vorhanden ja"
+        },
+        {
+          "id": "p10f32",
+          "rect": [
+            381.07,
+            648.28,
+            390.07,
+            657.28
+          ],
+          "kind": "checkbox",
+          "label": "Handdesinfektion vorhanden ja □ nein"
+        },
+        {
+          "id": "p10f33",
+          "rect": [
+            466.66,
+            648.28,
+            475.66,
+            657.28
+          ],
+          "kind": "checkbox",
+          "label": "Handdesinfektion vorhanden ja □ nein □, genutzt ja"
+        },
+        {
+          "id": "p10f34",
+          "rect": [
+            514.3,
+            648.28,
+            523.3,
+            657.28
+          ],
+          "kind": "checkbox",
+          "label": "Handdesinfektion vorhanden ja □ nein □, genutzt ja □ nein"
+        },
+        {
+          "id": "p10f35",
+          "rect": [
+            274.85,
+            672.43,
+            283.85,
+            681.43
+          ],
+          "kind": "checkbox",
+          "label": "Einmalhandtücher vorhanden ja"
+        },
+        {
+          "id": "p10f36",
+          "rect": [
+            381.07,
+            672.43,
+            390.07,
+            681.43
+          ],
+          "kind": "checkbox",
+          "label": "Einmalhandtücher vorhanden ja □ nein"
+        },
+        {
+          "id": "p10f37",
+          "rect": [
+            274.85,
+            696.55,
+            283.85,
+            705.55
+          ],
+          "kind": "checkbox",
+          "label": "Mülleimer vorhanden ja"
+        },
+        {
+          "id": "p10f38",
+          "rect": [
+            381.07,
+            696.55,
+            390.07,
+            705.55
+          ],
+          "kind": "checkbox",
+          "label": "Mülleimer vorhanden ja □ nein"
+        },
+        {
+          "id": "p10f39",
+          "rect": [
+            274.85,
+            720.67,
+            283.85,
+            729.67
+          ],
+          "kind": "checkbox",
+          "label": "Ableitung Abwasser vorhanden ja"
+        },
+        {
+          "id": "p10f40",
+          "rect": [
+            381.07,
+            720.67,
+            390.07,
+            729.67
+          ],
+          "kind": "checkbox",
+          "label": "Ableitung Abwasser vorhanden ja □ nein"
+        },
+        {
+          "id": "p10f41",
+          "rect": [
+            274.85,
+            744.79,
+            283.85,
+            753.79
+          ],
+          "kind": "checkbox",
+          "label": "► andere Lösung, geeignet ja"
+        },
+        {
+          "id": "p10f42",
+          "rect": [
+            381.07,
+            744.79,
+            390.07,
+            753.79
+          ],
+          "kind": "checkbox",
+          "label": "► andere Lösung, geeignet ja □ nein"
+        },
+        {
+          "id": "p10f43",
+          "rect": [
+            395.71,
+            744.5,
+            536.41,
+            756.81
+          ],
+          "kind": "text",
+          "label": "► andere Lösung, geeignet ja □ nein □,"
+        }
+      ]
+    },
+    {
+      "width": 595.3200073242188,
+      "height": 841.9199829101562,
+      "fields": [
+        {
+          "id": "p11f0",
+          "rect": [
+            274.85,
+            89.27,
+            283.85,
+            98.27
+          ],
+          "kind": "checkbox",
+          "label": "separates WC-Küchenpersonal ja"
+        },
+        {
+          "id": "p11f1",
+          "rect": [
+            381.07,
+            89.27,
+            390.07,
+            98.27
+          ],
+          "kind": "checkbox",
+          "label": "separates WC-Küchenpersonal ja □ nein"
+        },
+        {
+          "id": "p11f2",
+          "rect": [
+            395.71,
+            88.99,
+            536.41,
+            101.3
+          ],
+          "kind": "text",
+          "label": "separates WC-Küchenpersonal ja □ nein □,"
+        },
+        {
+          "id": "p11f3",
+          "rect": [
+            274.85,
+            113.51,
+            283.85,
+            122.51
+          ],
+          "kind": "checkbox",
+          "label": "Handwaschgelegenheit im WC ja"
+        },
+        {
+          "id": "p11f4",
+          "rect": [
+            381.07,
+            113.51,
+            390.07,
+            122.51
+          ],
+          "kind": "checkbox",
+          "label": "Handwaschgelegenheit im WC ja □ nein"
+        },
+        {
+          "id": "p11f5",
+          "rect": [
+            274.85,
+            137.63,
+            283.85,
+            146.63
+          ],
+          "kind": "checkbox",
+          "label": "Handdesinfektion WC ja"
+        },
+        {
+          "id": "p11f6",
+          "rect": [
+            381.07,
+            137.63,
+            390.07,
+            146.63
+          ],
+          "kind": "checkbox",
+          "label": "Handdesinfektion WC ja □ nein"
+        },
+        {
+          "id": "p11f7",
+          "rect": [
+            274.85,
+            161.75,
+            283.85,
+            170.75
+          ],
+          "kind": "checkbox",
+          "label": "Entsorgung vorhanden ja"
+        },
+        {
+          "id": "p11f8",
+          "rect": [
+            381.07,
+            161.75,
+            390.07,
+            170.75
+          ],
+          "kind": "checkbox",
+          "label": "Entsorgung vorhanden ja □ nein"
+        },
+        {
+          "id": "p11f9",
+          "rect": [
+            345.67,
+            204.83,
+            354.67,
+            213.83
+          ],
+          "kind": "checkbox",
+          "label": "Anforderungen VO(EG) 852/2004 erfüllt ja"
+        },
+        {
+          "id": "p11f10",
+          "rect": [
+            451.87,
+            204.83,
+            460.87,
+            213.83
+          ],
+          "kind": "checkbox",
+          "label": "Anforderungen VO(EG) 852/2004 erfüllt ja □ nein"
+        },
+        {
+          "id": "p11f11",
+          "rect": [
+            62.4,
+            263.95,
+            539.78,
+            276.26
+          ],
+          "kind": "text",
+          "label": "Feld 12"
+        },
+        {
+          "id": "p11f12",
+          "rect": [
+            62.4,
+            282.94,
+            539.78,
+            295.25
+          ],
+          "kind": "text",
+          "label": "Feld 13"
+        },
+        {
+          "id": "p11f13",
+          "rect": [
+            62.4,
+            301.9,
+            539.78,
+            314.21
+          ],
+          "kind": "text",
+          "label": "Feld 14"
+        },
+        {
+          "id": "p11f14",
+          "rect": [
+            62.4,
+            320.86,
+            539.83,
+            333.17
+          ],
+          "kind": "text",
+          "label": "Feld 15"
+        },
+        {
+          "id": "p11f15",
+          "rect": [
+            62.4,
+            339.82,
+            539.78,
+            352.13
+          ],
+          "kind": "text",
+          "label": "Feld 16"
+        },
+        {
+          "id": "p11f16",
+          "rect": [
+            62.4,
+            396.82,
+            178.7,
+            409.13
+          ],
+          "kind": "text",
+          "label": "Feld 17"
+        },
+        {
+          "id": "p11f17",
+          "rect": [
+            239.45,
+            396.82,
+            355.75,
+            409.13
+          ],
+          "kind": "text",
+          "label": "___________________"
+        }
+      ]
+    },
+    {
+      "width": 595.3200073242188,
+      "height": 841.9199829101562,
+      "fields": [
+        {
+          "id": "p12f0",
+          "rect": [
+            82.06,
+            160.27,
+            363.57,
+            172.58
+          ],
+          "kind": "text",
+          "label": "Ort"
+        },
+        {
+          "id": "p12f1",
+          "rect": [
+            99.83,
+            198.31,
+            240.41,
+            210.62
+          ],
+          "kind": "text",
+          "label": "Datum"
+        },
+        {
+          "id": "p12f2",
+          "rect": [
+            315.28,
+            198.31,
+            492.71,
+            210.62
+          ],
+          "kind": "text",
+          "label": "Datum _______________________ Uhrzeit"
+        },
+        {
+          "id": "p12f3",
+          "rect": [
+            101.48,
+            236.23,
+            499.43,
+            248.54
+          ],
+          "kind": "text",
+          "label": "Anlass"
+        },
+        {
+          "id": "p12f4",
+          "rect": [
+            310.25,
+            320.54,
+            319.25,
+            329.54
+          ],
+          "kind": "checkbox",
+          "label": "Handwaschgelegenheit vorhanden ja"
+        },
+        {
+          "id": "p12f5",
+          "rect": [
+            416.47,
+            320.54,
+            425.47,
+            329.54
+          ],
+          "kind": "checkbox",
+          "label": "Handwaschgelegenheit vorhanden ja □ nein"
+        },
+        {
+          "id": "p12f6",
+          "rect": [
+            310.25,
+            344.66,
+            319.25,
+            353.66
+          ],
+          "kind": "checkbox",
+          "label": "Servietten ausgelegt ja"
+        },
+        {
+          "id": "p12f7",
+          "rect": [
+            416.47,
+            344.66,
+            425.47,
+            353.66
+          ],
+          "kind": "checkbox",
+          "label": "Servietten ausgelegt ja □ nein"
+        },
+        {
+          "id": "p12f8",
+          "rect": [
+            310.25,
+            368.78,
+            319.25,
+            377.78
+          ],
+          "kind": "checkbox",
+          "label": "Getränke kalt ok"
+        },
+        {
+          "id": "p12f9",
+          "rect": [
+            324.89,
+            368.5,
+            453.35,
+            380.81
+          ],
+          "kind": "text",
+          "label": "Getränke kalt ok □,"
+        },
+        {
+          "id": "p12f10",
+          "rect": [
+            310.25,
+            392.9,
+            319.25,
+            401.9
+          ],
+          "kind": "checkbox",
+          "label": "Getränke warm ok"
+        },
+        {
+          "id": "p12f11",
+          "rect": [
+            324.89,
+            392.62,
+            453.35,
+            404.93
+          ],
+          "kind": "text",
+          "label": "Getränke warm ok □,"
+        },
+        {
+          "id": "p12f12",
+          "rect": [
+            310.25,
+            455.06,
+            319.25,
+            464.06
+          ],
+          "kind": "checkbox",
+          "label": "Toilettenhygiene WC fest installiert"
+        },
+        {
+          "id": "p12f13",
+          "rect": [
+            451.87,
+            455.06,
+            460.87,
+            464.06
+          ],
+          "kind": "checkbox",
+          "label": "Toilettenhygiene WC fest installiert □ Dixi o.ä."
+        },
+        {
+          "id": "p12f14",
+          "rect": [
+            466.54,
+            454.78,
+            540.03,
+            467.09
+          ],
+          "kind": "text",
+          "label": "Toilettenhygiene WC fest installiert □ Dixi o.ä. □,"
+        },
+        {
+          "id": "p12f15",
+          "rect": [
+            274.85,
+            479.2,
+            283.85,
+            488.2
+          ],
+          "kind": "checkbox",
+          "label": "WC-Papier vorhanden ja"
+        },
+        {
+          "id": "p12f16",
+          "rect": [
+            381.07,
+            479.2,
+            390.07,
+            488.2
+          ],
+          "kind": "checkbox",
+          "label": "WC-Papier vorhanden ja □ nein"
+        },
+        {
+          "id": "p12f17",
+          "rect": [
+            395.71,
+            478.92,
+            536.42,
+            491.23
+          ],
+          "kind": "text",
+          "label": "WC-Papier vorhanden ja □ nein □,"
+        },
+        {
+          "id": "p12f18",
+          "rect": [
+            274.85,
+            503.32,
+            283.85,
+            512.32
+          ],
+          "kind": "checkbox",
+          "label": "Sauberkeit ok ja"
+        },
+        {
+          "id": "p12f19",
+          "rect": [
+            381.07,
+            503.32,
+            390.07,
+            512.32
+          ],
+          "kind": "checkbox",
+          "label": "Sauberkeit ok ja □ nein"
+        },
+        {
+          "id": "p12f20",
+          "rect": [
+            395.71,
+            503.04,
+            536.42,
+            515.35
+          ],
+          "kind": "text",
+          "label": "Sauberkeit ok ja □ nein □,"
+        },
+        {
+          "id": "p12f21",
+          "rect": [
+            274.85,
+            527.44,
+            283.85,
+            536.44
+          ],
+          "kind": "checkbox",
+          "label": "fließend warm/kalt ja"
+        },
+        {
+          "id": "p12f22",
+          "rect": [
+            381.07,
+            527.44,
+            390.07,
+            536.44
+          ],
+          "kind": "checkbox",
+          "label": "fließend warm/kalt ja □ nein"
+        },
+        {
+          "id": "p12f23",
+          "rect": [
+            274.85,
+            551.68,
+            283.85,
+            560.68
+          ],
+          "kind": "checkbox",
+          "label": "fließend kalt ja"
+        },
+        {
+          "id": "p12f24",
+          "rect": [
+            381.07,
+            551.68,
+            390.07,
+            560.68
+          ],
+          "kind": "checkbox",
+          "label": "fließend kalt ja □ nein"
+        },
+        {
+          "id": "p12f25",
+          "rect": [
+            274.85,
+            575.8,
+            283.85,
+            584.8
+          ],
+          "kind": "checkbox",
+          "label": "Standbehälter ja"
+        },
+        {
+          "id": "p12f26",
+          "rect": [
+            381.07,
+            575.8,
+            390.07,
+            584.8
+          ],
+          "kind": "checkbox",
+          "label": "Standbehälter ja □ nein"
+        },
+        {
+          "id": "p12f27",
+          "rect": [
+            274.85,
+            599.92,
+            283.85,
+            608.92
+          ],
+          "kind": "checkbox",
+          "label": "Handwaschmittel vorhanden ja"
+        },
+        {
+          "id": "p12f28",
+          "rect": [
+            381.07,
+            599.92,
+            390.07,
+            608.92
+          ],
+          "kind": "checkbox",
+          "label": "Handwaschmittel vorhanden ja □ nein"
+        },
+        {
+          "id": "p12f29",
+          "rect": [
+            466.66,
+            599.92,
+            475.66,
+            608.92
+          ],
+          "kind": "checkbox",
+          "label": "Handwaschmittel vorhanden ja □ nein □, genutzt ja"
+        },
+        {
+          "id": "p12f30",
+          "rect": [
+            514.3,
+            599.92,
+            523.3,
+            608.92
+          ],
+          "kind": "checkbox",
+          "label": "Handwaschmittel vorhanden ja □ nein □, genutzt ja □ nein"
+        },
+        {
+          "id": "p12f31",
+          "rect": [
+            274.85,
+            624.04,
+            283.85,
+            633.04
+          ],
+          "kind": "checkbox",
+          "label": "Handdesinfektion vorhanden ja"
+        },
+        {
+          "id": "p12f32",
+          "rect": [
+            381.07,
+            624.04,
+            390.07,
+            633.04
+          ],
+          "kind": "checkbox",
+          "label": "Handdesinfektion vorhanden ja □ nein"
+        },
+        {
+          "id": "p12f33",
+          "rect": [
+            466.66,
+            624.04,
+            475.66,
+            633.04
+          ],
+          "kind": "checkbox",
+          "label": "Handdesinfektion vorhanden ja □ nein □, genutzt ja"
+        },
+        {
+          "id": "p12f34",
+          "rect": [
+            514.3,
+            624.04,
+            523.3,
+            633.04
+          ],
+          "kind": "checkbox",
+          "label": "Handdesinfektion vorhanden ja □ nein □, genutzt ja □ nein"
+        },
+        {
+          "id": "p12f35",
+          "rect": [
+            274.85,
+            648.28,
+            283.85,
+            657.28
+          ],
+          "kind": "checkbox",
+          "label": "Einmalhandtücher vorhanden ja"
+        },
+        {
+          "id": "p12f36",
+          "rect": [
+            381.07,
+            648.28,
+            390.07,
+            657.28
+          ],
+          "kind": "checkbox",
+          "label": "Einmalhandtücher vorhanden ja □ nein"
+        },
+        {
+          "id": "p12f37",
+          "rect": [
+            274.85,
+            672.43,
+            283.85,
+            681.43
+          ],
+          "kind": "checkbox",
+          "label": "Mülleimer vorhanden ja"
+        },
+        {
+          "id": "p12f38",
+          "rect": [
+            381.07,
+            672.43,
+            390.07,
+            681.43
+          ],
+          "kind": "checkbox",
+          "label": "Mülleimer vorhanden ja □ nein"
+        },
+        {
+          "id": "p12f39",
+          "rect": [
+            274.85,
+            696.55,
+            283.85,
+            705.55
+          ],
+          "kind": "checkbox",
+          "label": "Rohrableitung Abwasser vorhanden ja"
+        },
+        {
+          "id": "p12f40",
+          "rect": [
+            381.07,
+            696.55,
+            390.07,
+            705.55
+          ],
+          "kind": "checkbox",
+          "label": "Rohrableitung Abwasser vorhanden ja □ nein"
+        },
+        {
+          "id": "p12f41",
+          "rect": [
+            274.85,
+            720.67,
+            283.85,
+            729.67
+          ],
+          "kind": "checkbox",
+          "label": "► andere Lösung, geeignet ja"
+        },
+        {
+          "id": "p12f42",
+          "rect": [
+            381.07,
+            720.67,
+            390.07,
+            729.67
+          ],
+          "kind": "checkbox",
+          "label": "► andere Lösung, geeignet ja □ nein"
+        },
+        {
+          "id": "p12f43",
+          "rect": [
+            395.71,
+            720.39,
+            536.41,
+            732.7
+          ],
+          "kind": "text",
+          "label": "► andere Lösung, geeignet ja □ nein □,"
+        }
+      ]
+    },
+    {
+      "width": 595.3200073242188,
+      "height": 841.9199829101562,
+      "fields": [
+        {
+          "id": "p13f0",
+          "rect": [
+            274.85,
+            108.35,
+            283.85,
+            117.35
+          ],
+          "kind": "checkbox",
+          "label": "Duschen fest installiert"
+        },
+        {
+          "id": "p13f1",
+          "rect": [
+            381.07,
+            108.35,
+            390.07,
+            117.35
+          ],
+          "kind": "checkbox",
+          "label": "Duschen fest installiert □ Zelt"
+        },
+        {
+          "id": "p13f2",
+          "rect": [
+            522.7,
+            108.35,
+            531.7,
+            117.35
+          ],
+          "kind": "checkbox",
+          "label": "Duschen fest installiert □ Zelt □ Abtrennung"
+        },
+        {
+          "id": "p13f3",
+          "rect": [
+            364.15,
+            129.43,
+            407.01,
+            141.74
+          ],
+          "kind": "text",
+          "label": "Temperatur Warmwasser >55°C (Legionellen) gemessen"
+        },
+        {
+          "id": "p13f4",
+          "rect": [
+            274.85,
+            151.43,
+            283.85,
+            160.43
+          ],
+          "kind": "checkbox",
+          "label": "Funktion Duschen ok"
+        },
+        {
+          "id": "p13f5",
+          "rect": [
+            289.49,
+            151.15,
+            417.95,
+            163.46
+          ],
+          "kind": "text",
+          "label": "Funktion Duschen ok □,"
+        },
+        {
+          "id": "p13f6",
+          "rect": [
+            274.85,
+            175.55,
+            283.85,
+            184.55
+          ],
+          "kind": "checkbox",
+          "label": "Bodenablauf funktionsfähig ok"
+        },
+        {
+          "id": "p13f7",
+          "rect": [
+            289.49,
+            175.27,
+            417.95,
+            187.58
+          ],
+          "kind": "text",
+          "label": "Bodenablauf funktionsfähig ok □,"
+        },
+        {
+          "id": "p13f8",
+          "rect": [
+            274.85,
+            199.67,
+            283.85,
+            208.67
+          ],
+          "kind": "checkbox",
+          "label": "Sauberkeit des Bodens ok"
+        },
+        {
+          "id": "p13f9",
+          "rect": [
+            289.49,
+            199.39,
+            417.95,
+            211.7
+          ],
+          "kind": "text",
+          "label": "Sauberkeit des Bodens ok □,"
+        },
+        {
+          "id": "p13f10",
+          "rect": [
+            274.85,
+            223.91,
+            283.85,
+            232.91
+          ],
+          "kind": "checkbox",
+          "label": "Allgemeiner Zustand ok"
+        },
+        {
+          "id": "p13f11",
+          "rect": [
+            289.49,
+            223.63,
+            417.95,
+            235.94
+          ],
+          "kind": "text",
+          "label": "Allgemeiner Zustand ok □,"
+        },
+        {
+          "id": "p13f12",
+          "rect": [
+            62.4,
+            282.94,
+            539.78,
+            295.25
+          ],
+          "kind": "text",
+          "label": "Feld 13"
+        },
+        {
+          "id": "p13f13",
+          "rect": [
+            62.4,
+            301.9,
+            539.83,
+            314.21
+          ],
+          "kind": "text",
+          "label": "Feld 14"
+        },
+        {
+          "id": "p13f14",
+          "rect": [
+            62.4,
+            320.86,
+            539.78,
+            333.17
+          ],
+          "kind": "text",
+          "label": "Feld 15"
+        },
+        {
+          "id": "p13f15",
+          "rect": [
+            62.4,
+            339.82,
+            539.88,
+            352.13
+          ],
+          "kind": "text",
+          "label": "Feld 16"
+        },
+        {
+          "id": "p13f16",
+          "rect": [
+            62.4,
+            358.78,
+            533.76,
+            371.09
+          ],
+          "kind": "text",
+          "label": "Feld 17"
+        },
+        {
+          "id": "p13f17",
+          "rect": [
+            62.4,
+            415.78,
+            178.7,
+            428.09
+          ],
+          "kind": "text",
+          "label": "Feld 18"
+        },
+        {
+          "id": "p13f18",
+          "rect": [
+            239.45,
+            415.78,
+            355.75,
+            428.09
+          ],
+          "kind": "text",
+          "label": "___________________"
+        }
+      ]
+    }
+  ],
+  "repeat_page": null
+}
