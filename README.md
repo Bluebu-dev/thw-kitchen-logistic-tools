@@ -142,3 +142,27 @@ Backups verschlüsselt außerhalb des Servers halten. Datenbank-Volume niemals
 ungeplant entfernen. Keine Passwort-Recovery per E-Mail; weitere aktive
 Administratorkonten vorsehen. Finale Sperren gelten für die Anwendung und ihre
 Datenbanktrigger; sie ersetzen kein externes, manipulationsgeschütztes Archiv.
+
+## Astro-Frontend entwickeln
+
+Das Frontend verwendet Astro für Layout, gemeinsame Komponenten und den statischen
+Build. Die bestehenden Ansichten von Version 2 bleiben clientseitig verfügbar.
+„Vorgang anlegen“ wird ausschließlich in der Veranstaltungsübersicht für
+Küchenrollen angezeigt.
+
+Voraussetzung: Node.js 22, Backend auf Port 8000.
+
+```bash
+cd frontend
+npm ci
+npm run dev
+```
+
+Astro läuft unter http://localhost:4321 und leitet `/api` an das Backend weiter.
+Komponenten liegen unter `frontend/src/components`, das Layout unter
+`frontend/src/layouts`, Styles unter `frontend/src/styles` und die bestehende
+Ansichtslogik unter `frontend/src/scripts/app.js`.
+
+Vor einem direkten Backend-Start oder Backend-Tests `npm run build --prefix frontend`
+ausführen. Das Backend liefert `frontend/dist` aus. Docker baut Astro automatisch
+in einer Node-Buildstufe; der Webcontainer benötigt zur Laufzeit nur Python.

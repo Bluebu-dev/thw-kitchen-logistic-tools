@@ -1528,8 +1528,8 @@ def health(s=Depends(db)):
     return {"status": "ok", "version": "2.0.0"}
 
 
-FRONTEND = Path(__file__).parent.parent / "frontend"
-app.mount("/assets", StaticFiles(directory=FRONTEND), name="assets")
+FRONTEND = Path(__file__).parent.parent / "frontend" / "dist"
+app.mount("/assets", StaticFiles(directory=FRONTEND / "assets"), name="assets")
 
 
 @app.get("/")

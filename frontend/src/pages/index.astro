@@ -1,0 +1,30 @@
+---
+import AppLayout from '../layouts/AppLayout.astro';
+import Login from '../components/Login.astro';
+import Sidebar from '../components/Sidebar.astro';
+import Editor from '../components/Editor.astro';
+import Topbar from '../components/Topbar.astro';
+---
+<AppLayout>
+
+    <Login />
+    <div id="application" class="shell hidden">
+      <Sidebar />
+      <main class="content">
+        <Topbar />
+        <div
+          id="message"
+          class="message hidden"
+          role="status"
+          aria-live="polite"
+        ></div>
+        <div id="workspace"></div>
+      </main>
+    </div>
+    <footer class="screen-footer">
+      <span class="ov-name">THW</span> · Küchenlogistik
+      <span>Eigenständige Anwendung · Keine offizielle THW-Anwendung</span>
+    </footer>
+    <Editor />
+
+</AppLayout>

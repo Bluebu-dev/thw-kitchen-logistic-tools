@@ -1,0 +1,13 @@
+{
+  "name": "thw-kitchen-logistic-frontend",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "astro dev --host 0.0.0.0",
+    "build": "astro build",
+    "preview": "astro preview --host 0.0.0.0"
+  },
+  "dependencies": {
+    "astro": "^5.16.0"
+  }
+}

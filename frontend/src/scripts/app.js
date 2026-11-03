@@ -185,6 +185,7 @@ $$("[data-view]").forEach(
 $("#new-event").onclick = () => editEvent().catch(fail);
 async function show(name) {
   view = name;
+  $("#new-event").hidden = name !== "events" || !kitchen();
   $("#message").classList.add("hidden");
   $$("[data-view]").forEach((b) =>
     b.classList.toggle(
@@ -256,6 +257,7 @@ async function renderEvents(archived = false) {
   draw();
 }
 async function editEvent(e = null) {
+  if (!e && (view !== "events" || !kitchen())) return;
   templates = await api("/event-templates");
   openEditor(
     e ? "Vorgang bearbeiten" : "Vorgang anlegen",
